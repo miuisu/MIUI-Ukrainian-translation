@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Помилка</string>
+    <string name="app_name">Помилка</string>
+    <string name="ok">ОК</string>
+    <string name="sms_fdn_title">Помилка</string>
+    <string name="sms_fdn_body">Число FDN обмежене</string>
+    <string name="sms_fdn_restricted">Число FDN обмежене</string>
+    <string name="sim_not_inserted">Вставте SIM карту</string>
+    <string name="sdcard_copy_err">Помилка копіювання</string>
+    <string name="data_copy_err">Помилка копіювання даних</string>
+    <string name="sim_crash_title">Невірна SIM карта!</string>
+    <string name="sim_crash_text">Перевірте Вашу SIM карту або зверніться в службу підтримки</string>
+    <string name="unknown_err">Невідома помилка</string>
+    <string name="sim_removed_text">SIM карту видалено. Перезавантажте пристрій</string>
+    <string name="sim_removed_title">SIM карту видалено</string>
+    <string name="sim_permernent_title">SIM карта невірна</string>
+    <string name="sim_permernent_blocked">PUK заблоковано</string>
+    <string name="perso_blocked_title">Відбулася помилка під час розблокування мережі</string>
+    <string name="perso_blocked_text">Код мережі заблокований</string>
+    <string name="dialog_ok">ОК</string>
+</resources>

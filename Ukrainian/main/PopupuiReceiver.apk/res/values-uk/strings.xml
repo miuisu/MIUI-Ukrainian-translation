@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PopupuiReceiver</string>
+    <string name="btn_text_yes">Гаразд</string>
+    <string name="btn_text_no">Скасувати</string>
+    <string name="text_discription">Мережа не надає дані по даті та часу. Задайте значення вручну в параметрах дати та часу</string>
+    <string name="timezone_toast">Перед тим як задавати час, виберіть часовий пояс</string>
+    <string name="popup_name">Сповіщення</string>
+    <string name="sound_off_toast">Неможливо налагодити гучність, якщо вимкнено всі звуки. Звук можна увімкнути в меню \"Параметри спеціальних можливостей\"</string>
+    <string name="ear_protect_toast">Прослуховування музики на великій гучності може вплинути на ваш слух.</string>
+    <string name="btn_text_Done">Готово</string>
+    <string name="title_customizable_key">Настроювана кнопка</string>
+    <string name="description_customizable_key">Цю кнопку можна використовувати для швидкого доступу до функції телефону. Налагодити?</string>
+    <string name="btn_text_assign">Назнач.</string>
+    <string name="do_not_show">Не показувати знову</string>
+    <string name="no_network_connection">Відсутнє під\'єднання до мережі</string>
+    <string name="network_err_flight_mode_on">Неможливо під\'єднатися до мобільної мережі в автономному режимі. Під\єднайтесь до мережі Wi-Fi або від\'єднайте автономний режим та повторіть спробу</string>
+    <string name="network_err_flight_mode_on_without_Wifi">Неможливо під\'єднатися до мобільної мережі в автономному режимі. Вимкніть автономний режим та повторіть спробу</string>
+    <string name="disable_flight_mode">Вимкнути режим \"В літаку\"</string>
+    <string name="network_err_mobile_data_off">Мобільні дані вимкнено. Під\єднайтесь до мережі Wi-Fi або знову увімкніть мобільні дані та повторіть спробу</string>
+    <string name="network_err_mobile_data_off_without_Wifi">Мобільні дані вимкнено. Увімкніть їх та повторіть спробу</string>
+    <string name="network_err_data_roaming_off">Передачу даних в роумінгу вимкнено. Під\єднайтесь до мережі Wi-Fi або знову увімкніть передачу даних в роумінгу та повторіть спробу</string>
+    <string name="network_err_data_roaming_off_without_Wifi">Передача даних в роумінгу вимкнено. Включите її та спробуйте ще раз</string>
+    <string name="enable_data_roaming">Включить передачу даних в роумінгу</string>
+    <string name="allow_data_roaming">За передачу даних в роумінгу буде братися додаткова платня</string>
+    <string name="mobile_data_disabled">Мобільне з\'єднання для передачі даних вимкнено</string>
+    <string name="network_err_reached_data_limit">Перевищено межу трафіку.</string>
+    <string name="re_enable_data">Включить інтернет</string>
+    <string name="network_err_no_signal">Немає сигналу мобільної мережі</string>
+    <string name="btn_text_retry">Повтор</string>
+    <string name="btn_text_later">Пізніше</string>
+    <string name="network_err_no_signal_no_sim">Необхідне з\'єднання з Wi-Fi. Під\єднайтесь до мережі Wi-Fi та спробуйте ще раз</string>
+    <string name="open_app_info">Відомості про додаток</string>
+    <string name="disabled_app">Вимкнений додаток</string>
+    <string name="disabled_app_description">Не вдалося відкрити додаток, так як він вимкнений</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Медіа-файли</string>
+    <string name="app_label">Збер. медіа-файл.</string>
+    <string name="upgrade_msg">Оновлення бази даних медіа-файлів.</string>
+    <string name="artist_label">Виконавець</string>
+    <string name="drm_licensed_message">Не вдається встановити захищений файл як мелодію</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string name="app_label">Оболонка</string>
+     <string name="bugreport_finished_title">Звіт про помилку збережений</string>
+     <string name="bugreport_finished_text">Натисніть для відправлення звіту</string>
+     <string name="bugreport_confirm">Звіти про помилки можуть містити конфіденційні дані. Не відправляйте їх стороннім людям</string>
+     <string name="bugreport_confirm_repeat">Завжди показувати</string>
+ </resources>

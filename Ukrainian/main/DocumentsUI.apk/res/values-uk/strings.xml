@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string name="app_label">Документи</string>
+     <string name="title_open">Відкрити</string>
+     <string name="title_save">Зберегти</string>
+     <string name="menu_create_dir">Створити папку</string>
+     <string name="menu_grid">Сітка</string>
+     <string name="menu_list">Список</string>
+     <string name="menu_sort">Сортування</string>
+     <string name="menu_search">Пошук</string>
+     <string name="menu_settings">Налаштування</string>
+     <string name="menu_open">Відкрити</string>
+     <string name="menu_save">Зберегти</string>
+     <string name="menu_share">Відправити</string>
+     <string name="menu_delete">Вилучити</string>
+     <string name="mode_selected_count">Обране: %1$d</string>
+     <string name="sort_name"> По імені</string>
+     <string name="sort_date"> По даті</string>
+     <string name="sort_size"> По розміру</string>
+     <string name="drawer_open">Показати кореневу папку</string>
+     <string name="drawer_close">Сховати кореневу папку</string>
+     <string name="save_error">Помилка збереження документа</string>
+     <string name="create_error">Помилка створення файлу</string>
+     <string name="query_error">Помилка відкриття документа</string>
+     <string name="root_recent">Недавні</string>
+     <string name="root_available_bytes">Вільно: %1$s</string>
+     <string name="root_type_service">Тип зберігання</string>
+     <string name="root_type_shortcut">Ярлики</string>
+     <string name="root_type_device">Обладнання</string>
+     <string name="root_type_apps">Інші додатки</string>
+     <string name="pref_advanced_devices">Відображати інші обладнання</string>
+     <string name="pref_file_size">Відображати розмір файлу</string>
+     <string name="pref_device_size">Відображати розмір обладнання</string>
+     <string name="empty">Порожньо</string>
+     <string name="toast_no_application">Неможливо відкрити файл</string>
+     <string name="toast_failed_delete">Неможливо вилучити деякі елементи</string>
+     <string name="share_via">Спосіб відправлення</string>
+ </resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Налаштування Content Adaptive Backlight</string>
+    <string name="cabl_settings_title">Налаштування Content Adaptive Backlight</string>
+    <string name="cabl_enable_title">Вмикання Content Adaptive Backlight</string>
+    <string name="cabl_enable_summary_on">Підсвічування не буде виправлене на основі змісту екрану</string>
+    <string name="cabl_enable_summary_off">Підсвічування не буде виправлене на основі змісту екрану</string>
+    <string name="cabl_levels_title">Рівні потужності</string>
+    <string name="cabl_levels_summary">Зменшений рівень потужності сприяє зменшенню енергоспоживанню, проте рівень підсвічування буде нижчим</string>
+    <string name="cabl_info_default">Невідомо</string>
+    <string name="cabl_version_title">Версія додатку</string>
+</resources>

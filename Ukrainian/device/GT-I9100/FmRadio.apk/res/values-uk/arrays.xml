@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="barge_in_commands">
+        <item>Далі</item>
+        <item>Попередній</item>
+        <item>Стоп</item>
+        <item>Відтворення</item>
+        <item>Гучність +</item>
+        <item>Гучність -</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="directory_item_count">
+       <item quantity="other">файлів: %d</item>
+       <item quantity="zero">файлів: %d</item>
+       <item quantity="one">файлів: %d</item>
+       <item quantity="two">файлів: %d</item>
+       <item quantity="few">файлів: %d</item>
+       <item quantity="many">файлів: %d</item>
+    </plurals>
+	<plurals name="delete_files_confirm">
+ 		<item quantity="other">Вилучити файли (%1$d шт.)</item>
+ 		<item quantity="zero">Вилучити файли (%1$d шт.)</item>
+        <item quantity="one">Вилучити файли (%1$d шт.)</item>
+        <item quantity="two">Вилучити файли (%1$d шт.)</item>
+        <item quantity="few">Вилучити файли(%1$d шт.)</item>
+        <item quantity="many">Вилучити файли (%1$d шт.)</item>
+ 	</plurals>
+ 	<plurals name="delete_folders_confirm">
+ 		<item quantity="other">" і папки (%1$d шт.)?"</item>
+ 		<item quantity="zero">" і папки (%1$d шт.)?"</item>
+        <item quantity="one">" і папки (%1$d шт.)?"</item>
+        <item quantity="two">" і папки (%1$d шт.)?"</item>
+        <item quantity="few">" і папки(%1$d шт.)?"</item>
+        <item quantity="many">" і папки (%1$d шт.)?"</item>
+ 	</plurals>
+ 	<plurals name="ui_bar_txt_download_progress">
+ 		<item quantity="other">Залишилося скачати файлів:%1$d</item>
+ 	    <item quantity="zero">Залишилося скачати файлів: %1$d</item>
+        <item quantity="one">Залишилося скачати файлів: %1$d</item>
+        <item quantity="two">Залишилося скачати файлів: %1$d</item>
+        <item quantity="few">Залишилося скачати файлів: %1$d</item>
+         <item quantity="many">Залишилося скачати файлів: %1$d</item>
+ 	</plurals>
+ 	<plurals name="ui_bar_txt_upload_progress">
+ 		<item quantity="other">Залишилося завантажити файлів: %1$d</item>
+ 	    <item quantity="zero">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="one">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="two">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="few">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="many">Залишилося завантажити файлів: %1$d</item>
+ 	</plurals>
+</resources>

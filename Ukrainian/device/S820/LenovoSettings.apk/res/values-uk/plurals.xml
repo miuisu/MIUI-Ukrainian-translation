@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ви тепер в %1$d кроках від того, щоб стати розробником.</item>
+        <item quantity="one">Ви тепер в %1$d кроці від того, щоб стати розробником.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль повинен містити літери (не менше %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 літер</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль повинен містити малі літери (не менше %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 малу літеру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль повинен містити прописні літери (не менше %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 прописну літеру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль повинен містити цифри (не менше %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 цифру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль повинен містити спеціальні символи (не менше %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 спеціальний символ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль повинен містити нелітерали (не менше %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 нелітерал.</item>
+    </plurals>
+</resources>

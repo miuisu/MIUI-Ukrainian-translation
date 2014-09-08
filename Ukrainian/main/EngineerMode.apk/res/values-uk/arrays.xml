@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bt_chip_eco">
+        <item>Невідомо</item>
+        <item>E1</item>
+        <item>E2</item>
+        <item>E3</item>
+        <item>E4</item>
+        <item>E5</item>
+        <item>E6</item>
+        <item>E7</item>
+    </string-array>
+    <string-array name="tx_channels">
+        <item>Єдина частота</item>
+        <item>79 Канал</item>
+    </string-array>
+    <string-array name="working_mode_audio_channels">
+        <item>Без змін</item>
+        <item>AL2 з SeqNum</item>
+        <item>AL2 без SeqNum</item>
+        <item>AL3 Розмір поля керування 0</item>
+        <item>AL3 Розмір поля керування 1</item>
+        <item>AL3 Розмір поля керування 2</item>
+    </string-array>
+    <string-array name="working_mode_video_channels_reverse">
+        <item>Без змін</item>
+        <item>Зворотні дані</item>
+        <item>Зворотнє онулення</item>
+    </string-array>
+    <string-array name="working_mode_multiplex_level">
+        <item>Без змін</item>
+        <item>Рівень Mux 0</item>
+        <item>Рівень Mux 1</item>
+        <item>Рівень Mux 1 з подвійним Flag</item>
+        <item>Рівень Mux 2</item>
+        <item>Рівень Mux 2 з опціональним заголовком</item>
+        <item>Рівень Mux 3</item>
+        <item>Рівень Mux 3 з опціональним заголовком</item>
+    </string-array>
+    <string-array name="working_mode_video_codec_preference">
+        <item>Без змін</item>
+        <item>MPEG4_H263</item>
+        <item>H263_MPEG4</item>
+    </string-array>
+    <string-array name="working_mode_use_wnsrp">
+        <item>Без змін</item>
+        <item>ВИМК</item>
+        <item>УВМК</item>
+    </string-array>
+    <string-array name="working_mode_terminal_type">
+        <item>Без змін</item>
+        <item>Нормальний</item>
+        <item>Основний</item>
+        <item>Керований</item>
+    </string-array>
+    <string-array name="modem_test_cta_options">
+        <item>Перевірка цілісності</item>
+        <item>RLC TL1</item>
+        <item>K1297</item>
+        <item>SN конфлікт</item>
+        <item>CF запит</item>
+        <item>DLMN блокування</item>
+        <item>Measurement open</item>
+        <item>Вимкнути DPA</item>
+        <item>Intra CMR</item>
+    </string-array>
+    <string-array name="modem_test_iot_options">
+        <item>Швидкий сон</item>
+    </string-array>
+    <string-array name="device_mgr_entries">
+        <item>Вимкнути</item>
+        <item>Увімкнути</item>
+    </string-array>
+    <string-array name="audio_functions">
+        <item>Нормальний режим</item>
+        <item>Навушники</item>
+        <item>Гучний зв\'язок</item>
+        <item>Навушники - Гучний зв\'язок</item>
+        <item>Виділення розмови</item>
+        <item>Інформація налагодження</item>
+        <item>Логування розмови</item>
+        <item>Логування аудіо</item>
+    </string-array>
+    <string-array name="mode_level">
+        <item>Рівень 0</item>
+        <item>Рівень 1</item>
+        <item>Рівень 2</item>
+        <item>Рівень 3</item>
+        <item>Рівень 4</item>
+        <item>Рівень 5</item>
+        <item>Рівень 6</item>
+    </string-array>
+    <string-array name="speech_enhance_mode">
+        <item>Загальний параметр</item>
+        <item>Нормальний режим</item>
+        <item>Режим гарнітури</item>
+        <item>Режим гучномовця</item>
+        <item>Режим Bluetooth-гарнітури</item>
+        <item>Режим Bluetooth-навушників</item>
+        <item>Режим Bluetooth-barkit</item>
+        <item>Режим AUX1</item>
+        <item>Режим AUX2</item>
+    </string-array>
+    <string-array name="camera_items">
+        <item>AF EM</item>
+        <item>Режим запису Raw</item>
+        <item>Тип Raw</item>
+        <item>Блимання</item>
+        <item>ISO</item>
+        <item>Почати перегляд</item>
+        <item>Допомога</item>
+    </string-array>
+    <string-array name="af_mode_dialog">
+        <item>Нормальний AF</item>
+        <item>Кронштейн AF</item>
+        <item>Повне сканування</item>
+        <item>Повторне сканування</item>
+        <item>Повтор AF</item>
+        <item>Повтор AF та повного сканування</item>
+    </string-array>
+    <string-array name="capture_mode_dialog">
+        <item>Режим перегляду</item>
+        <item>Режим захвату</item>
+        <item>Тільки JPEG</item>
+    </string-array>
+    <string-array name="raw_type_dialog">
+        <item>Raw з обробкою</item>
+        <item>Raw без обробки</item>
+    </string-array>
+    <string-array name="anti_flicker_dialog">
+        <item>50 Гц</item>
+        <item>60 Гц</item>
+    </string-array>
+    <string-array name="iso_dialog">
+        <item>Авто</item>
+        <item>ISO100</item>
+        <item>ISO150</item>
+        <item>ISO200</item>
+        <item>ISO300</item>
+        <item>ISO400</item>
+        <item>ISO600</item>
+        <item>ISO800</item>
+        <item>ISO1600</item>
+    </string-array>
+    <string-array name="mPreferredNetworkLabels">
+        <item>GSM/WCDMA (Авто)</item>
+        <item>GSM/WCDMA (пріоритет WCDMA)</item>
+        <item>Тільки WCDMA</item>
+        <item>Тільки GSM</item>
+        <item>Не вказано</item>
+    </string-array>
+    <string-array name="mTddPreferredNetworkLabels">
+        <item>GSM/TD-SCDMA (Авто)</item>
+        <item>TD-SCDMA бажано</item>
+        <item>Тільки TD-SCDMA</item>
+        <item>Тільки GSM</item>
+        <item>Не вказано</item>
+    </string-array>
+    <string-array name="mTddNetworkLabels">
+        <item>TD-SCDMA бажано</item>
+        <item>Тільки GSM</item>
+        <item>Тільки TD-SCDMA</item>
+        <item>GSM/TD-SCDMA (Авто)</item>
+    </string-array>
+    <string-array name="mWcdmaNetworkLabels">
+        <item>GSM/WCDMA (WCDMA бажано)</item>
+        <item>Тільки GSM</item>
+        <item>Тільки WCDMA</item>
+        <item>GSM/WCDMA (Авт о)</item>
+    </string-array>
+    <string-array name="host_type">
+        <item>Хост 0</item>
+        <item>Хост 1</item>
+        <item>Хост 2</item>
+        <item>Хост 3</item>
+        <item>Хост 4</item>
+    </string-array>
+    <string-array name="hopping_bit">
+        <item>Нічого</item>
+        <item>2.26 МГц</item>
+        <item>4.52 МГц</item>
+        <item>9.04 МГц</item>
+    </string-array>
+    <string-array name="msdc_select">
+        <item>Driving SET</item>
+        <item>Hopping SET</item>
+        <item>SD3.0 TEST</item>
+    </string-array>
+    <string-array name="auto_calib_capture_mode1">
+        <item>Розмір захоплення</item>
+        <item>Тип захоплення</item>
+    </string-array>
+    <string-array name="auto_calib_capture_size">
+        <item>Розмір перегляду</item>
+        <item>Розмір захоплення</item>
+        <item>Розмір відео</item>
+    </string-array>
+    <string-array name="auto_calib_capture_type">
+        <item>Raw з обробкою</item>
+        <item>Raw без обробки</item>
+        <item>Тільки Jpeg</item>
+    </string-array>
+    <string-array name="auto_calib_capture_type1">
+        <item>Raw з обробкою</item>
+        <item>Raw без обробки</item>
+    </string-array>
+    <string-array name="auto_calib_capture_mode2">
+        <item>Номер захоплення</item>
+        <item>Декілька кадрів Raw</item>
+        <item>Відео Raw</item>
+    </string-array>
+    <string-array name="auto_calib_capture_number">
+        <item>Один</item>
+        <item>Подвійний</item>
+        <item>Потрійний</item>
+    </string-array>
+    <string-array name="auto_calib_multi_frame">
+        <item>4 кадри</item>
+        <item>8 кадрів</item>
+        <item>12 кадрів</item>
+    </string-array>
+    <string-array name="auto_calib_video_clip">
+        <item>Зберегти роздільну здатність</item>
+        <item>Розтягувати роздільну здатність</item>
+    </string-array>
+    <string-array name="auto_calib_iso">
+        <item>Нічого не обрано</item>
+        <item>Вибрати всі</item>
+        <item>Авто</item>
+        <item>ISO100</item>
+        <item>ISO150</item>
+        <item>ISO200</item>
+        <item>ISO300</item>
+        <item>ISO400</item>
+        <item>ISO600</item>
+        <item>ISO800</item>
+        <item>ISO1200</item>
+        <item>ISO1600</item>
+        <item>ISO2400</item>
+        <item>ISO3200</item>
+    </string-array>
+    <string-array name="auto_calib_special_iso">
+        <item>Авто</item>
+        <item>ISO100</item>
+        <item>ISO150</item>
+        <item>ISO200</item>
+        <item>ISO300</item>
+        <item>ISO400</item>
+        <item>ISO600</item>
+        <item>ISO800</item>
+        <item>ISO1200</item>
+        <item>ISO1600</item>
+        <item>ISO2400</item>
+        <item>ISO3200</item>
+    </string-array>
+    <string-array name="auto_calib_flicker_type">
+        <item>50 Гц</item>
+        <item>60 Гц</item>
+    </string-array>
+    <string-array name="auto_calib_led_flash">
+        <item>Авто</item>
+        <item>Увмк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="auto_calib_af_mode">
+        <item>Авто</item>
+        <item>Кронштейн AF</item>
+        <item>Повне сканування</item>
+        <item>Через фокус</item>
+    </string-array>
+    <string-array name="auto_calib_af_through_direct">
+        <item>От Макро до Inf.</item>
+        <item>От Inf. до Макро</item>
+        <item>Ручна настройка</item>
+    </string-array>
+    <string-array name="auto_calib_capture">
+        <item>Початок перегляду</item>
+    </string-array>
+    <string-array name="auto_calib_hdr_debug_value">
+        <item>Вимк.</item>
+        <item>Увмк.</item>
+    </string-array>
+    <string-array name="desense_camera_items">
+        <item>2 мА</item>
+        <item>4 мА</item>
+        <item>6 мА</item>
+        <item>8 мА</item>
+        <item>Очистить файл настроек</item>
+    </string-array>
+    <string-array name="matv_frame_rate_entries">
+        <item>Частота кадрів 30</item>
+        <item>Частота кадрів 20</item>
+        <item>Частота кадрів 15</item>
+    </string-array>
+    <string-array name="matv_nr_level_entries">
+        <item>NR рівень 0x31</item>
+        <item>NR рівень 0x32</item>
+        <item>NR рівень 0x33</item>
+        <item>NR рівень 0x34</item>
+        <item>NR рівень 0x35</item>
+    </string-array>
+    <string-array name="always_on_module">
+        <item>Тип A</item>
+        <item>Тип B</item>
+        <item>Тип F</item>
+        <item>Немає модуляції</item>
+    </string-array>
+    <string-array name="always_on_bitrate">
+        <item>106 Кб/с</item>
+        <item>212 Кб/с</item>
+        <item>424 Кб/с</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_no_ask_name">Не запитувати наступного разу</string>
+    <string name="USB_SETTINGS">USB підключення</string>
+    <string name="usb_charge">Тільки зарядка</string>
+    <string name="usb_charge_detail">Зарядити телефон по USB</string>
+    <string name="usb_storage">Накопичувач</string>
+    <string name="usb_storage_detail">Відкрити пам\'ять телефону</string>
+    <string name="usb_adb">Режим медіа</string>
+    <string name="usb_selection">Будь ласка, виберіть тип USB підключення</string>
+    <string name="usb_adb_detail">Синхронізація з ПК</string>
+    <string name="usb_internet">USB модем</string>
+    <string name="usb_internet_detail">Відкрити пам\'ять телефону</string>
+    <string name="usb_selection_processing">Обробка, будь ласка, зачекайте…</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="unknown_error">Невідома помилка</string>
+    <string name="processing">Обробка…</string>
+    <string name="license_not_found">Ліцензію не знайдено</string>
+    <string name="dev_cert_revoked">Сертифікат пристрою відкликано. Зверніться до розповсюджувача послуг</string>
+    <string name="server_internal_error">Сервер має проблеми. Спробуйте пізніше</string>
+    <string name="server_domain_required">Реєстрація доменів для відтворення вмісту</string>
+    <string name="server_not_a_member">Домен більше не діє. Натисніть Так, щоб вийти</string>
+    <string name="server_unknown_account_id">ID облікового запису, що використовується, для отримання ліцензії не є допустимим. Зверніться в сервісну службу</string>
+    <string name="server_device_limit_reached">Максимальна кількість з\'єднаних пристроїв досягнуто. Видаліть пристрої, щоб додати нові</string>
+    <string name="server_protocol_version_mismatch">Ви використовуєте стару версію протоколу. Зверніться до розповсюджувача послуг для оновлення</string>
+    <string name="license_acquisition_fail">Нажаль, придбати ліцензію не вдалося</string>
+</resources>

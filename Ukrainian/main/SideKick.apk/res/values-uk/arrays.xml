@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="report_method_entries">
+        <item>Коли підключена гарнітура</item>
+        <item>Завжди</item>
+        <item>Закрито</item>
+    </string-array>
+	<string-array name="voice_effect_descs">
+        <item>Китайсько-Англійський жіночий голос</item>
+        <item>Китайський жіночий голос</item>
+        <item>Сичуаньський жіночий голос</item>
+        <item>Кантонський жіночий голос</item>
+        <item>Китайсько-Англійський дівочий голос</item>
+        <item>Китайсько-Англійський чоловічий голос</item>
+        <item>Хунаньській чоловічий голос</item>
+        <item>Хенаньський чоловічий голос</item>
+        <item>Кантонський чоловічий голос</item>
+        <item>Мультяшний голос</item>
+    </string-array>
+</resources>

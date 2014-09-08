@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="system_group_my_contacts">Мої контакти</string>
+    <string name="system_group_friend">Друзі</string>
+    <string name="system_group_family">Сім\'я</string>
+    <string name="system_group_coworker">Співробітники</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>Переходить до нового повідомлення після видалення</item>
+        <item>Переходить до старого повідомлення після видалення</item>
+        <item>Переходить до списку повідомлень після видалення</item>
+    </string-array>
+	<string-array name="general_preference_text_zoom_summary_array">
+        <item>Дрібний</item>
+        <item>Невеликий</item>
+        <item>Звичайний</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+    </string-array>
+	<string-array name="compose_modes">
+         <item>Відповісти</item>
+         <item>Відповісти всім</item>
+         <item>Переслати</item>
+     </string-array>
+     <string-array name="sync_status">
+         <item>Готово</item>
+         <item>Немає з\'єднання</item>
+         <item>Неможливо авторизуватися</item>
+         <item>Помилка безпеки</item>
+         <item>Неможливо синхронізувати</item>
+         <item>Внутрішня помилка</item>
+     </string-array>
+     <string-array name="moveto_folder_sections">
+         <item>Система</item>
+         <item>Нещодавні</item>
+         <item>Всі папки</item>
+     </string-array>
+     <string-array name="prefentries_autoAdvance">
+         <item>Перейти до нового повідомлення</item>
+         <item>Перейти до старого повідомлення</item>
+         <item>Перейти до списку розмов</item>
+     </string-array>
+     <string-array name="prefsummaries_autoAdvance">
+         <item>Показувати нове повідомлення після видалення</item>
+         <item>Показувати старе повідомлення після видалення</item>
+         <item>Показувати список діалогов після видалення</item>
+     </string-array>
+     <string-array name="prefentries_removal_action">
+         <item>Показувати тільки архіви</item>
+         <item>Показувати тільки видаленні</item>
+         <item>Показувати архіви і видаленні</item>
+     </string-array>
+     <string-array name="prefsummaries_removal_action_summary">
+         <item>Показувати тільки архіви</item>
+         <item>Показувати тільки видаленні</item>
+         <item>Показувати архіви і видаленні</item>
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
+         <item> За замовчуванням</item>
+         <item>Формат</item>
+         <item>Ім\'я</item>
+         <item>Відправник</item>
+         <item>Дата</item>
+     </string-array>
+</resources>

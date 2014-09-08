@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_list_preference_aeemode">
+        <item>Mediatek Розробник</item>
+        <item>Mediatek Користувач</item>
+        <item>Customer Розробник</item>
+        <item>Customer Користувач</item>
+    </string-array>
+    <string-array name="entries_list_preference_aeemode_oem">
+        <item>Режим розробника</item>
+        <item>Режим користувача</item>
+    </string-array>
+    <string-array name="mode_list_preference">
+        <item>USB режим</item>
+        <item>SD режим</item>
+    </string-array>
+</resources>

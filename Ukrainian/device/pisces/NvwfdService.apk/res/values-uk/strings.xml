@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Безпровідний дисплей</string>
+    <string name="miracast_hdmi_title">HDMI</string>
+    <string name="miracast_hdmi_unavailable">Недоступно, Wi-Fi Дисплей активний</string>
+    <string name="miracast_hdcp_title">HDCP Помилка перевірки достовірності %1$s</string>
+    <string name="miracast_hdcp_failure_text">Преміум-контент не може бути відображено</string>
+    <string name="miracast_connection_status_discovery">"Пошук "</string>
+    <string name="miracast_connection_status_progress">"Підключення до "</string>
+    <string name="miracast_connection_status_connected">"Підключення до "</string>
+    <string name="miracast_connection_status_warning_conn_failed">"Не вдалося знайти "</string>
+    <string name="miracast_connection_status_warning_conn_lost">"Втрачено зв\'язок з "</string>
+    <string name="miracast_connection_status_warning_auth_failed">"Помилка аутентифікації з "</string>
+    <string name="miracast_access_settings_title">Налаштування доступу Wi-Fi Дисплея</string>
+</resources>

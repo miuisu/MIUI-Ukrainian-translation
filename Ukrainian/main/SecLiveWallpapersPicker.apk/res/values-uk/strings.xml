@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Засіб вибору анімованої заставки</string>
+    <string name="live_wallpaper_picker_title">Анімовані заставки</string>
+    <string name="live_wallpaper_preview_title">Попередній перегляд анімованої заставки</string>
+    <string name="configure_wallpaper">Установки</string>
+    <string name="wallpaper_instructions">Встановити заставку</string>
+    <string name="live_wallpaper_empty">Немає анімованих заставок</string>
+    <string name="live_wallpaper_loading">Завантаження анімованої заставки…</string>
+    <string name="picker_locktoo_sentence">Таку ж саме заставку буде застосовано до екрана блокування</string>
+    <string name="picker_nagative_button">Скасувати</string>
+    <string name="netword_alert_donotshowagain">Більше не показувати</string>
+    <string name="batterydrain">Установка живих шпалер може збільшити витрату заряду акумулятора</string>
+    <string name="activity_not_found">Програму не інстальовано на телефоні</string>
+</resources>

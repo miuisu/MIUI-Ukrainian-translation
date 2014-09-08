@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Пам\'ять календаря</string>
+    <string name="upgrade_msg">Оновлення бази даних календаря.</string>
+    <string name="calendar_default_name">По замовчанню</string>
+    <string name="calendar_info">Відомості про календар</string>
+    <string name="calendar_info_error">Помилка</string>
+    <string name="calendar_info_no_calendars">Немає календарів</string>
+    <string name="calendar_info_events">Подія: %1$d</string>
+    <string name="calendar_info_events_dirty">Подій: %1$d, Не збережено: %2$d</string>
+    <string name="provider_label">Календар</string>
+    <string name="debug_tool_delete_button">Видалити</string>
+    <string name="debug_tool_start_button">Почати</string>
+    <string name="debug_tool_message">Ви збираєтесь 1) зберегти копію БД календаря на SD карту/USB накопичувач, доступне для всіх додатків і 2) відправити по email. Не забудьте видалити БД після копіювання або отримання по email.</string>
+    <string name="debug_tool_email_sender_picker">Виберіть додаток для надсилання</string>
+    <string name="debug_tool_email_subject">БД календаря прикріплена</string>
+    <string name="debug_tool_email_body">До листа прикріплено БД календаря. Будьте обережними.</string>
+    <string name="holiday_update_title">Оновіть базу робочих днів</string>
+    <string name="holiday_update_summary">Перевірка оновлень</string>
+    <string name="holiday_data_updating">Оновлення…</string>
+    <string name="holiday_data_update_failed">Перевірте помилки оновлень та спробуйте пізніше.</string>
+    <string name="holiday_data_update_succeed">Перевірте закінчене оновлення</string>
+    <string name="holiday_data_no_network">Немає мережі, спробуйте пізніше</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sina_share_pendding">Надсилання…</string>
+    <string name="sina_share_success">Надсилання завершено!</string>
+    <string name="sina_share_fail">Помилка надсилання!</string>
+    <string name="sina_token_expired_warning">Час очікування відповіді від серверу сплив, спробуйте ще раз.</string>
+    <string name="sina_token_invalid_warning">Обліковий запис Weibo недійсний, спробуйте ще раз.</string>
+</resources>

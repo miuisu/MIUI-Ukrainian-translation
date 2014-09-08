@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_camera_jpegquality_entryvalues">
+        <item>Найкраща</item>
+        <item>Гарна</item>
+        <item>Звичайна</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>Авто</item>
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>Ліхтарик</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_whitebalance_entryvalues">
+        <item>Авто</item>
+        <item>Звичайна лампа</item>
+        <item>Денне світло</item>
+        <item>Люмінісцентна лампа</item>
+        <item>Хмарно</item>
+    </string-array>
+    <string-array name="pref_camera_coloreffect_entryvalues">
+        <item>Не обрано</item>
+        <item>Античний</item>
+        <item>Ломо холодний</item>
+        <item>Ломо теплий</item>
+        <item>Глибина різкості</item>
+        <item>Негатив</item>
+        <item>Перетримка</item>
+        <item>Плакат</item>
+        <item>Вода</item>
+        <item>Моно</item>
+        <item>Тиснення</item>
+        <item>Відтінки сірого</item>
+        <item>Сепія</item>
+    </string-array>
+    <string-array name="pref_camera_touchafaec_entryvalues">
+        <item>touch-Вимк.</item>
+        <item>touch-Увімк.</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>Вимк.</item>
+        <item>Авто</item>
+        <item>Спорт</item>
+        <item>Портрет</item>
+        <item>Краєвид</item>
+        <item>Нічна зйомка</item>
+        <item>Нічний портрет</item>
+        <item>Театр</item>
+        <item>Пляж</item>
+        <item>Сніг</item>
+        <item>Феєрверк</item>
+        <item>При свічках</item>
+        <item>Квіти</item>
+    </string-array>
+    <string-array name="pref_camera_continuousaf_entryvalues">
+        <item>caf-Вимк.</item>
+        <item>caf-Увімк.</item>
+    </string-array>
+    <string-array name="pref_camera_facedetection_entryvalues">
+        <item>Вимк.</item>
+        <item>Увімк.</item>
+    </string-array>
+    <string-array name="pref_camera_shootmode_entryvalue">
+        <item>Одиночний знімок</item>
+        <item>Серія</item>
+        <item>HDR</item>
+        <item>Черга</item>
+        <item>Посмішка</item>
+        <item>Режим "beauty"</item>
+        <item>Панорама</item>
+        <item>Спорт</item>
+        <item>Погане освітлення</item>
+    </string-array>
+    <string-array name="pref_camera_redeye_reduction_entryvalue">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_redeye_reduction_entries">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_steady_photo_entryvalue">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_steady_photo_entries">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_steady_video_entryvalue">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_steady_video_entries">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_grid_entryvalue">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_grid_entries">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_entryvalue">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_save_location_entryvalue">
+        <item>Карта пам\'яти</item>
+        <item>Телефон</item>
+    </string-array>
+    <string-array name="pref_camera_auto_focusmode_entryvalue">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_auto_focusmode_entryentries">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_distortion_entryvalues">
+        <item>Не обрано</item>
+        <item>Велике лице</item>
+        <item>Великий ніс</item>
+        <item>Індик</item>
+        <item>Комаха</item>
+        <item>Професор</item>
+        <item>Широка посмішка</item>
+    </string-array>
+    <string-array name="pref_camera_gps_entryenvalues">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_camera_shutter_sound_entryenvalues">
+        <item>Увімк.</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="pref_video_quality_level_entryvalues">
+        <item>Найкраща</item>
+        <item>Гарна</item>
+        <item>Звичайна</item>
+    </string-array>
+</resources>

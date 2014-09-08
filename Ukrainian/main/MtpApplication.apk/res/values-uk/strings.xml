@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTP додаток</string>
+    <string name="error_title">Увага</string>
+    <string name="bluetooth_running">Активація режиму USB вимкне Bluetooth. Продовжити?</string>
+    <string name="alert_dialog_yes">Так</string>
+    <string name="alert_dialog_no">Ні</string>
+    <string name="animation_initializing">Започаткування…</string>
+    <string name="animation_connected">Під\'єднання</string>
+    <string name="animation_synchronizing">Синхронізація…</string>
+    <string name="animation_downloading">Завантаження…</string>
+    <string name="animation_sending">Надсилання…</string>
+    <string name="notification_mtp_connected">MTP під\'єднано</string>
+    <string name="notification_usb_connected">USB під\'єднано</string>
+    <string name="notification_mtp_initialization">Започаткування MTP</string>
+    <string name="alert_dialog_ok">Так</string>
+    <string name="alert_dialog_cancel">Скасувати</string>
+    <string name="non_idle_toast">Під\'єднання до ПК можливе лише в режимі зарядки. Закрийте працюючі додатки.</string>
+    <string name="media_scanner_running">Медіа сканер працює…</string>
+    <string name="media_scanner_finished">Медіа сканування завершено</string>
+    <string name="kies_software_check">Перевірка Samsung Kies (Програмне забезпечення для ПК)…</string>
+    <string name="security_policy_restriction">Політика безпеки обмежує використання під\'єднання до ПК</string>
+    <string name="resume_to_call">Відновити виклик</string>
+    <string name="store_add_popup">MTP додаток буде перезапущено для підготування SD карти. Продовжити?</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Збірка Живих Шпалер</string>
+    <string name="live_wallpaper_picker_title">Виберіть Живі Шпалери</string>
+    <string name="live_wallpaper_picker_label">Живі Шпалери</string>
+    <string name="live_wallpaper_preview_title">Перегляд</string>
+    <string name="configure_wallpaper">Налаштування…</string>
+    <string name="wallpaper_instructions">Встановити шпалери</string>
+    <string name="live_wallpaper_empty">Живі Шпалери відсутні.</string>
+    <string name="set_live_wallpaper">Встановити шпалери</string>
+    <string name="wallpaper_title_and_author">%1$s, автор: %2$s</string>
+    <string name="live_wallpaper_loading">Завантаження Живих Шпалер…</string>
+    <string name="wallpaper_cancel">Скасувати</string>
+</resources>

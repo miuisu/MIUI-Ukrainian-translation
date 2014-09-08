@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string name="app_label">Визначення місця розташування</string>
+     <string name="location_warning_title">Згода визначення місця розташування</string>
+     <string name="location_warning_message">Дозволити сервісу визначення місцерозташування Autonavi збирати анонімну інформацію. Деякі дані можуть зберігатися на обладнанні, збір даних може відбуватися навіть при не запущеному додатку. Може стягуватися додаткова плата за передачу даних по мережі, відповідно вашому тарифному плану</string>
+     <string name="agree">Згодний</string>
+     <string name="disagree">Відмовитися</string>
+ </resources>

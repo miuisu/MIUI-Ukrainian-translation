@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+ 	<string name="settings_label">Налаштування</string>
+ 	<string name="service_manage"> Налаштування </string>
+ 	<string name="spellchecker_quick_settings"> Налаштування </string>
+ 	<string name="accessibility_menu_item_settings"> Налаштування </string>
+ 	<string name="settings_button"> Налаштування </string>
+ 	<string name="power_usage_summary_title">Батарея</string>
+ 	<string name="tab_general">Стокові налаштування</string>
+ 	<string name="header_category_generic">Системні</string>
+ 	<string name="oppo_security_settings_power_on_off">Таймер увімкн./вимкн.</string>
+ 	<string name="timepower_settings_title">Таймер увімкн./вимкн.</string>
+ 	<string name="timepower_edit_title">Задати час увімкн./вимкн.</string>
+ 	<string name="alert_dialog_ok">Зберегти</string>
+ 	<string name="alert_dialog_cancel">Скасування</string>
+ 	<string name="timepower_power_on">Включення</string>
+ 	<string name="timepower_power_off">Вимикання</string>
+ 	<string name="timepower_power_type">Тип:</string>
+ 	<string name="timepower_power_time">Час:</string>
+ 	<string name="timepower_time_duplicate">Таймери збігаються. Спробуйте ще раз!</string>
+ 	<string name="shutdown_confirm">Виключити телефон?</string>
+ 	<string name="display_power_percent">Відображати заряд у відсотках</string>
+ 	<string name="battery_percentage_info">"Рівень заряду: "</string>
+ 	<string name="power_save_mode">Авторегулювання харчування екрана</string>
+ </resources>

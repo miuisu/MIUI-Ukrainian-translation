@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="stock_settings">Додатково</string>
+    <string name="htc_internet_pt_title">Підключення до інтернету через ПК</string>
+    <string name="htc_internet_pt_summary">ПК буде використовуватися як модем. Під\'єднайте USB кабель.</string>
+    <string name="PSFail">Неможливо під\'єднатися до ПК</string>
+    <string name="PSPass">Виконано під\'єднання до інтернету через ПК</string>
+    <string name="PSMsg">Якщо ви не можете під\'єднатися до інтернету через ПК, то перевірте, що фаєрвол на Вашому ПК дозволяє цей тип з\'єднання. Цей тип з\'єднання підтримує лише TCP протокол, якщо ваш ПК під\'єднано до інтернету через PPP (dial up, xDSL, або VPN).</string>
+    <string name="PSTitle">Нотатки</string>
+    <string name="PSButton">ОК</string>
+    <string name="do_not_show_psmsg">Більше не показувати</string>
+    <string name="htc_gestures_title">Жести HTC</string>
+    <string name="htc_gestures_summary">Дозволити трьохпальцеві жести від HTC та вимкнути жести з великою кількістю пальців</string>
+    <string name="htc_fastboot_title">Швидке завантаження</string>
+    <string name="htc_fastboot_summary">Не рекомендується для деяких додатків з Market</string>
+</resources>

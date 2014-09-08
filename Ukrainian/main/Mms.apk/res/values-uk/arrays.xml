@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Радісний</item>
+        <item>Сумный</item>
+        <item>Підмигує</item>
+        <item>Показує язик</item>
+        <item>Здивований</item>
+        <item>Поцілунок</item>
+        <item>Кричить</item>
+        <item>Крутий</item>
+        <item>Не балакай дарма</item>
+        <item>Розгублений</item>
+        <item>Зніяковілий</item>
+        <item>Ангел</item>
+        <item>Нерішучий</item>
+        <item>Плаче</item>
+        <item>Не скажу</item>
+        <item>Сміэться</item>
+        <item>Спантеличений</item>
+        <item>Серце</item>
+        <item>Злий</item>
+        <item>Посміхається</item>
+        <item>Незворушнний</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 раз</item>
+        <item>2 рази</item>
+        <item>3 рази</item>
+        <item>5 раз</item>
+        <item>10 разів</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ім\'я</item>
+        <item>Псевдо</item>
+        <item>Телефон</item>
+        <item>Email</item>
+        <item>Компанія</item>
+        <item>IM</item>
+        <item>Інтернет номер</item>
+        <item>День народження</item>
+        <item>Сайт</item>
+        <item>Адреса</item>
+        <item>Замітка</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Час отримання</item>
+        <item>Час надсилання</item>
+    </string-array>
+    <string-array name="resent_via_entries">
+        <item>Через повідомлення</item>
+        <item>Через повідомлення в хмарах</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Через SMS</item>
+        <item>Через повідомлення в хмарах</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Через MMS</item>
+        <item>Через повідомлення в хмарах</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунди</item>
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Інше</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>Тільки в режимі \"Без звуку\"</item>
+        <item>Ніколи</item>
+    </string-array>
+</resources>

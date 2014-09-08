@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Налаштування мережі по замовчанню</item>
+        <item>Приховати номер</item>
+        <item>Показувати номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Тільки EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo авто</item>
+        <item>GSM/WCDMA авто</item>
+        <item>Тільки WCDMA</item>
+        <item>Тільки GSM</item>
+        <item>GSM/WCDMA предпочтительно</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Англійська</item>
+        <item>Французька</item>
+        <item>Іспанська</item>
+        <item>Японська</item>
+        <item>Корейська</item>
+        <item>Китайська</item>
+        <item>Іврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Тільки домашня</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Звичайні</item>
+        <item>Довгі</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Завжди</item>
+        <item>У  режимі \"Без звуку\"</item>
+        <item>Ніколи</item>
+    </string-array>
+	<string-array name="ims_call_types">
+       	<item>Голос</item>
+ 		<item>Відео</item>
+ 	</string-array>
+</resources>

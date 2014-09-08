@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="light_breath_cycle_entries">
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>60 хвилин</item>
+        <item>90 хвилин</item>
+    </string-array>
+    <string-array name="light_color_entries">
+        <item>колір 1</item>
+        <item>колір 2</item>
+        <item>колір 3</item>
+        <item>колір 4</item>
+        <item>колір 5</item>
+        <item>колір 6</item>
+        <item>колір 7</item>
+    </string-array>
+</resources>

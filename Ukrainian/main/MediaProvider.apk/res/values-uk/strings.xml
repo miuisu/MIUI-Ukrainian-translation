@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_More_Ringtones">Більше мелодій…</string>
+    <string name="uid_label">Медіа</string>
+    <string name="app_label">Сховище медіа</string>
+    <string name="upgrade_msg">Оновлення БД медіа.</string>
+    <string name="artist_label">Виконавець</string>
+	<string name="ringtone_default">Мелодія за замовчуванням</string>
+    <string name="notification_sound_default">Мелодія повідомлення за замовчуванням</string>
+    <string name="alarm_sound_default">Мелодія будильника за замовчуванням</string>
+    <string name="root_images">Зображення</string>
+    <string name="root_videos">Відео</string>
+    <string name="root_audio">Аудіо</string>
+</resources>

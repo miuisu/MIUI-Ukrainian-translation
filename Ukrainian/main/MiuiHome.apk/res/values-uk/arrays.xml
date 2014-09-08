@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Класичний</item>
+        <item>Без ефектів</item>
+        <item>Згасання</item>
+        <item>Перекочування</item>
+        <item>Сторінки</item>
+        <item>Каскад</item>
+        <item>Поворот</item>
+        <item>3D куб</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>За замовчуванням теми</item>
+        <item>Центр</item>
+        <item>Вліво</item>
+        <item>Вправо</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>За замовчанням</item>
+        <item>Класика</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Сонячно</item>
+        <item>Хмарно</item>
+        <item>Хмарно</item>
+        <item>Туман</item>
+        <item>Сильний дощ</item>
+        <item>Злива</item>
+        <item>Злива с ураганом</item>
+        <item>Місцями грози</item>
+        <item>Зливи</item>
+        <item>Сильний дощ</item>
+        <item>Помірний дощ</item>
+        <item>Невеликий дощ</item>
+        <item>Дощ зі снігом</item>
+        <item>Хуртовина</item>
+        <item>Зливи зі снігом</item>
+        <item>Сильний снігопад</item>
+        <item>Помірний сніг</item>
+        <item>Невеликий сніг</item>
+        <item>Сильна запорошена буря</item>
+        <item>Запорошена буря</item>
+        <item>Пил</item>
+        <item>Піщана буря</item>
+        <item>Град</item>
+        <item>Брудно</item>
+        <item>Смог</item>
+    </string-array>
+		<string-array name="editing_mode_entries">
+        <item>Сортування</item>
+        <item>Віджети</item>
+        <item>Шпалери</item>
+        <item>Ефекти</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

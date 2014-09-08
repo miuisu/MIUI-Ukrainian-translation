@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string-array name="labeltype">
+         <item>Рейтинг</item>
+         <item>Режисер</item>
+         <item>Актор</item>
+         <item>Категорія</item>
+         <item>Область</item>
+         <item>Тривалість</item>
+         <item>Відновлення</item>
+         <item>Фази</item>
+         <item>О.С.Т.</item>
+         <item>Стиль</item>
+         <item>Школа</item>
+         <item>Дисципліна</item>
+         <item>Види програм</item>
+         <item>Стиль альбому</item>
+         <item>Компанія</item>
+     </string-array>
+     <string-array name="camera_scence_array">
+         <item>Авто</item>
+         <item>Текст</item>
+         <item>Ніч</item>
+         <item>Ландшафт</item>
+     </string-array>
+     <string-array name="camera_white_balance">
+         <item>Авто</item>
+         <item>Лампа розжарення</item>
+         <item>Денне  світло</item>
+         <item>Похмуро</item>
+     </string-array>
+     <string-array name="camera_cameramenu_array">
+         <item>Режим сцени</item>
+         <item>Баланс білого</item>
+         <item>Інше</item>
+     </string-array>
+     <string-array name="camera_menu_other_array">
+         <item> Місце розташування</item>
+         <item>Зйомка жестом</item>
+     </string-array>
+     <string-array name="camera_main_menu_default_tip_array">
+         <item>Авто</item>
+         <item>Авто</item>
+         <item>5M</item>
+     </string-array>
+     <string-array name="camera_mx_cameramenu_array">
+         <item>Режим зйомки</item>
+         <item>ISO</item>
+         <item>Режим сцени</item>
+         <item>Баланс білого</item>
+         <item>Інше</item>
+     </string-array>
+     <string-array name="camera_mx_videomenu_array">
+         <item>Розмір відео</item>
+         <item>Режим сцени</item>
+         <item>Баланс білого</item>
+     </string-array>
+     <string-array name="camera_mx_white_balance">
+         <item>Авто</item>
+         <item>Флюоресцент</item>
+         <item>На вулиці</item>
+         <item>Лампа розжарення</item>
+     </string-array>
+     <string-array name="camera_mx_scence_array_photo">
+         <item>Авто</item>
+         <item>Текст</item>
+         <item>Ніч</item>
+         <item>Ландшафт</item>
+         <item>Макро</item>
+     </string-array>
+     <string-array name="camera_mx_scence_array_clip">
+         <item>Авто</item>
+         <item>Портрет</item>
+         <item>Ландшафт</item>
+         <item>Захід</item>
+         <item>Макро</item>
+     </string-array>
+     <string-array name="camera_mx_flash_light_array">
+         <item>Авто</item>
+         <item>Вкл.</item>
+         <item>Вимкн.</item>
+     </string-array>
+     <string-array name="video_camera_mx_flash_light_array">
+         <item>Вкл.</item>
+         <item> Вимкн.</item>
+     </string-array>
+     <string-array name="camera_mx_capture_mode_array">
+         <item>Звичайний</item>
+         <item>Панорама</item>
+         <item>Посмішка</item>
+         <item>Безупинно</item>
+     </string-array>
+     <string-array name="camera_mx_sensitivity_mode_array">
+         <item>Авто</item>
+         <item>50</item>
+         <item>200</item>
+         <item>400</item>
+         <item>800</item>
+     </string-array>
+     <string-array name="camera_mx_wide_dynamic_mode_array">
+         <item> Вимкн.</item>
+         <item>Авто</item>
+         <item>Низький</item>
+         <item>Середній</item>
+         <item>Високий</item>
+     </string-array>
+     <string-array name="camera_mx_menu_other_array">
+         <item> Місце розташування</item>
+         <item> Wdr-Режим</item>
+         <item>Зйомка жестом</item>
+     </string-array>
+     <string-array name="camera_mx_main_menu_default_tip_array">
+         <item>Нормальний</item>
+         <item>Авто</item>
+         <item>Авто</item>
+         <item>Авто</item>
+         <item>8M</item>
+     </string-array>
+     <string-array name="video_mx_main_menu_default_tip_array">
+         <item>720P</item>
+         <item>Авто</item>
+         <item>Авто</item>
+     </string-array>
+     <string-array name="delayplay_choices">
+         <item>1 сек</item>
+         <item>2 сек</item>
+         <item>3 сек</item>
+         <item>4 сек</item>
+         <item>5 сек</item>
+     </string-array>
+     <string-array name="slideshow_choices">
+         <item>Немає</item>
+         <item>Випадково</item>
+         <item>Жалюзі</item>
+         <item>Загасання</item>
+         <item>Мозаїка</item>
+     </string-array>
+     <string-array name="popupmenu_info">
+         <item>Повний режим</item>
+         <item>Авто вертикальний</item>
+         <item>Безупинно</item>
+         <item>Повтор</item>
+     </string-array>
+     <string-array name="bitrate_info">
+         <item>Висока якість</item>
+         <item>Плавність</item>
+     </string-array>
+     <string-array name="crop_aspect">
+         <item>Вільно</item>
+         <item>1:1</item>
+         <item>3:2</item>
+         <item>4:3</item>
+         <item>16:10</item>
+     </string-array>
+ </resources>

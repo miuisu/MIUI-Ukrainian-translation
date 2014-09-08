@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ster_mon_entries">
+        <item>Стерео</item>
+        <item>Моно</item>
+    </string-array>
+    <string-array name="sleep_duration_values">
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
+        <item>1 година</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Усі станції</item>
+        <item>Старі хіти</item>
+        <item>Класика</item>
+        <item>Класичний рок</item>
+        <item>Коледж</item>
+        <item>Кантрі</item>
+        <item>Надзвичайний стан</item>
+        <item>Аварійний тест</item>
+        <item>Іноземна мова</item>
+        <item>Інформація</item>
+        <item>Джаз</item>
+        <item>Новини</item>
+        <item>Ностальгія</item>
+        <item>Стара музика</item>
+        <item>Особисте</item>
+        <item>Громадське</item>
+        <item>Релігійна музика</item>
+        <item>Релігійні розмови</item>
+        <item>Ритм і блюз</item>
+        <item>Рок</item>
+        <item>Легка музика</item>
+        <item>Легкий рок</item>
+        <item>Легкий ритм і блюз</item>
+        <item>Спорт</item>
+        <item>Розмови</item>
+        <item>Топ 40</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Всі станції</item>
+        <item>Культура</item>
+        <item>Події</item>
+        <item>Дитячі програми</item>
+        <item>Кантрі</item>
+        <item>Документалістика</item>
+        <item>Драма</item>
+        <item>Легка музика</item>
+        <item>Освіта</item>
+        <item>Надзвичайний стан</item>
+        <item>Екстрений тест</item>
+        <item>Фінанси</item>
+        <item>Народна музика</item>
+        <item>Інформація</item>
+        <item>Джаз</item>
+        <item>Легка класика</item>
+        <item>Дозвілля</item>
+        <item>Новости</item>
+        <item>Національна музика</item>
+        <item>Іньша музика</item>
+        <item>Стара музика</item>
+        <item>Дзвінок</item>
+        <item>Поп-музика</item>
+        <item>Релігія</item>
+        <item>Рок</item>
+        <item>Наука</item>
+        <item>Серйозна класика</item>
+        <item>Соціальні питання</item>
+        <item>Спорт</item>
+        <item>Подорожі</item>
+        <item>Різне</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Перейменувати</item>
+        <item>Автовибір</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+     <item>Австралія</item>
+     <item>Австрія</item>
+     <item>Бельгія</item>
+     <item>Бразилія</item>
+     <item>Великобританія</item>
+     <item>Німеччина</item>
+     <item>Гонконг</item>
+     <item>Греція</item>
+     <item>Данія</item>
+     <item>Європа</item>
+     <item>Індія</item>
+     <item>Ірландія</item>
+     <item>Іспанія</item>
+     <item>Італія</item>
+     <item>Китай</item>
+     <item>Корея</item>
+     <item>Мексика</item>
+     <item>Нідерланди</item>
+     <item>Нова Зеландія</item>
+     <item>Норвегія</item>
+     <item>Польща</item>
+     <item>Португалія</item>
+     <item>Росія</item>
+     <item>Північна Америка</item>
+     <item>Сінгапур</item>
+     <item>Словаччина</item>
+     <item>США</item>
+     <item>Тайвань</item>
+     <item>Туреччина</item>
+     <item>Фінляндія</item>
+     <item>Франція</item>
+     <item>Чехія</item>
+     <item>Швейцарія</item>
+     <item>Швеція</item>
+     <item>Японія (Wide)</item>
+     <item>Японія</item>
+   </string-array>
+   <string-array name="regional_band_values">
+         <item>4</item>
+         <item>5</item>
+         <item>6</item>
+         <item>7</item>
+         <item>34</item>
+         <item>13</item>
+         <item>15</item>
+         <item>14</item>
+         <item>10</item>
+         <item>1</item>
+         <item>16</item>
+         <item>17</item>
+         <item>29</item>
+         <item>18</item>
+         <item>8</item>
+         <item>19</item>
+         <item>20</item>
+         <item>21</item>
+         <item>22</item>
+         <item>23</item>
+         <item>24</item>
+         <item>25</item>
+         <item>26</item>
+         <item>0</item>
+         <item>27</item>
+         <item>28</item>
+         <item>35</item>
+         <item>32</item>
+         <item>33</item>
+         <item>11</item>
+         <item>12</item>
+         <item>9</item>
+         <item>30</item>
+         <item>31</item>
+         <item>2</item>
+         <item>3</item>
+     </string-array>
+     <string-array name="regional_band_summary">
+         <item>Австралія (87.7Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Австрія (87.5Мгц - 108.0Мгц із кроком 50 кГц)</item>
+         <item>Бельгія (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Бразилія (87.8Мгц - 108.0Мгц із кроком 200 кГц Step)</item>
+         <item>Великобританія (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Німеччина (87.5Мгц - 108.0Мгц із кроком 50 кГц)</item>
+         <item>Гонконг (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Греція (87.5Мгц - 108.0Мгц із кроком 50 кГц)</item>
+         <item>Данія (87.5Мгц - 108.0Мгц із кроком 50 кГц)</item>
+         <item>Європа (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Індія (91.0Мгц - 106.4Мгц із кроком 100 кГц)</item>
+         <item>Ірландія (87.5Мгц - 108.0Мгц із кроком 50 кГц)</item>
+         <item>Іспанія (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Італія (87.5Мгц - 108.0Мгц із кроком 50 кГц)</item>
+         <item>Китай (87.0Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Корея (87.5Мгц - 108.0Мгц із кроком 200 кГц)</item>
+         <item>Мексика (88.1Мгц - 107.9Мгц із кроком 200 кГц)</item>
+         <item>Нідерланди (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Нова Зеландія (88.0Мгц - 107.0Мгц із кроком 100 кГц)</item>
+         <item>Норвегія (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Польща (88.0Мгц - 108.0Мгц із кроком 50 кГц)</item>
+         <item>Португалія (87.5Мгц - 108.0Мгц із кроком 50 кГц)</item>
+         <item>Росія (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Північна Америка (87.5Мгц - 108.0Мгц із кроком 200 кГц)</item>
+         <item>Сінгапур (88.0Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Словаччина (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>США (88.1Мгц - 107.9Мгц із кроком 200 кГц)</item>
+         <item>Тайвань (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Туреччина (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Фінляндія (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Франція (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Чехія (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Швейцарія (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Швеція (87.5Мгц - 108.0Мгц із кроком 100 кГц)</item>
+         <item>Японія (76.0Мгц - 90.0Мгц із кроком 100 кГц)</item>
+         <item>Японія (Wide) (90.0Мгц - 108.0Мгц із кроком 50 кГц)</item>
+     </string-array>
+    <string-array name="rf_cfg">
+        <item>Отримати поточні параметри станції</item>
+        <item>Отримати параметри станції з повторенням у 20 разів</item>
+        <item>Отримати параметри пошуку станцій</item>
+        <item>Отримати параметри розгортки діапазону</item>
+        <item>Налаштувати пошукові параметри радіо</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Встановити FM RSSI Delta</item>
+        <item>Встановити поріг сигналу</item>
+        <item>RF статистика</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Виберіть опцію</item>
+        <item>Налаштування параметрів FM пошуку</item>
+        <item>RF статистика</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Живі шпалери Android</string>
+    <string name="wallpaper_walkaround">В об\'єктиві</string>
+    <string name="wallpaper_walkaround_desc">Дивіться через камеру телефону, і гуляйте нічего не боячись</string>
+    <string name="wallpaper_grass">Трава</string>
+    <string name="wallpaper_grass_desc">Стеблини трави, що колихаються на фоні нічного або денного неба</string>
+    <string name="wallpaper_galaxy">Галактика</string>
+    <string name="wallpaper_galaxy_desc">Галактика повільно з кружляючими зорями</string>
+    <string name="wallpaper_fall">Вода</string>
+    <string name="wallpaper_fall_desc">Опале листя&lt;br&gt; На берегу ставка:&lt;br&gt; Вібрації Дзен</string>
+    <string name="wallpaper_clock">Полярний годинник</string>
+    <string name="wallpaper_clock_desc">Відтворює дату й час, стрілки годинникових дуг: місяць, день, годину, хвилину та секунду.</string>
+    <string name="wallpaper_nexus">Нейрони</string>
+    <string name="wallpaper_nexus_desc">Зазирнути до нейронної мережі.</string>
+    <string name="clock_settings">Налаштування полярного годинника</string>
+    <string name="show_seconds">Показати секунди</string>
+    <string name="variable_line_width">Змінити ширину кільця</string>
+    <string name="palette">Кольорова палітра</string>
+    <string name="palette_gray">Сталь</string>
+    <string name="palette_violet">Північ</string>
+    <string name="palette_matrix">Зелений екран</string>
+    <string name="palette_white_c">Полярне небо (динамічне)</string>
+    <string name="palette_black_c">Чорна діра (динамічне)</string>
+    <string name="palette_halloween">Гарбузовий пиріг</string>
+    <string name="palette_zenburn">Фруктовий салат від Чужих</string>
+    <string name="palette_oceanic">Синій лазер</string>
+</resources>

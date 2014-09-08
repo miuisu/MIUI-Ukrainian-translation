@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remote_service_stopped">Віддалений сервіс зупинено</string>
+    <string name="app_name">DS</string>
+    <string name="name_widget_extra_large">DS 6 профілю</string>
+    <string name="name_widget_large">DS 3 профілю</string>
+    <string name="name_widget_small">Віджет DS Вкл/Вимик</string>
+    <string name="movie">Фільм</string>
+    <string name="music">Музика</string>
+    <string name="game">Гра</string>
+    <string name="voice">Голос</string>
+    <string name="preset_1">Налаштування 1</string>
+    <string name="preset_2">Налаштування 2</string>
+</resources>

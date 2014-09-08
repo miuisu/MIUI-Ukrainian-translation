@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="memory_select_list_entries">
+        <item>USB пам\'ять</item>
+        <item>SD пям\'ять</item>
+    </string-array>
+</resources>

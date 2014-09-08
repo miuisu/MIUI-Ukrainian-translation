@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d схожих</item>
+        <item quantity="one">%d схожа</item>
+    </plurals>
+	<plurals name="Ntracks_remove_from_playlist">
+		<item quantity="other">Пісні видалено з плейлиста: %d</item>
+		<item quantity="one">Пісню видалено з плейлиста: 1</item>
+	</plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d пісень</item>
+        <item quantity="one">%d пісня</item>
+    </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="one">%d вибрана пісня</item>
+        <item quantity="other">%d вибраних пісень</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d пісень</item>
+        <item quantity="one">%d пісня</item>
+    </plurals>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%d пісень</item>
+        <item quantity="one">%d пісня</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%d альбомів</item>
+        <item quantity="one">%d альбом</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">" треків"</item>
+        <item quantity="one">" трек"</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">" альбомів"</item>
+        <item quantity="one">" альбом"</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">" виконавців"</item>
+        <item quantity="one">" виконавець"</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">плейлисти</item>
+        <item quantity="one">плейлист</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" тек"</item>
+        <item quantity="one">" тека"</item>
+    </plurals>
+    <plurals name="Nitems_batch_selection">
+        <item quantity="other">Вибрано: %d</item>
+        <item quantity="one">Вибрано: %d</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">пісень на SD карті: %d</item>
+        <item quantity="one">%d пісня на SD карті</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Додано треків в плейлист: %d.</item>
+        <item quantity="one">Додано треків у плейлист: 1</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">пісень додано в плейлист: %d.</item>
+        <item quantity="one">1 пісня додана в плейлист.</item>
+    </plurals>
+	<plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">Пісень видалено з плейлиста: %d</item>
+        <item quantity="one">1 пісня видалена з плейлиста.</item>
+    </plurals>
+	<plurals name="Nsearch_results">
+		<item quantity="other">Результатів: %d</item>
+		<item quantity="one">Результатів: %d</item>
+	</plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" категорій"</item>
+        <item quantity="one">" категорія"</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, треків: %2$d</item>
+        <item quantity="one">%1$s, треків: %2$d</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">пісень видалено: %d</item>
+        <item quantity="one">1 пісня видалена.</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">Пісень буде завантажено: %d</item>
+        <item quantity="one">1 пісня буде завантажена</item>
+    </plurals>
+	<plurals name="Nexpired_remind">
+		<item quantity="other">Залишилося днів: %d</item>
+        <item quantity="one">Залишилося днів:: %d</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Закінчується термін дії доступу до музики високої якості (залишилося днів:% d)</item>
+    </plurals>
+	<plurals name="Nexpiration_reminder">
+        <item quantity="other">Термін дії закінчується через% d дн.</item>
+        <item quantity="one">Термін дії закінчується через% d дн.</item>
+    </plurals>
+        <plurals name="Ntracks_search_result">
+ 	<item quantity="other">Знайдено треків: %d</item>
+ 	<item quantity="one">Знайдено треків: %d</item>
+    </plurals>
+        <plurals name="Ntracks_count">
+ 	<item quantity="other">Треків: %d</item>
+ 	    <item quantity="one">Треків: %d</item>
+    </plurals>
+ 	<plurals name="Ntracks_add_to_playlist">
+ 	    <item quantity="other">Додано треків у плейлист: %d</item>
+ 	    <item quantity="one">Додано треків у плейлист: 1</item>
+     </plurals>
+	     <plurals name="Nsongs">
+         <item quantity="other">Треків: %d</item>
+     </plurals>
+     <plurals name="Nsongscomp">
+         <item quantity="other">%2$d з %1$d треків</item>
+     </plurals>
+</resources>

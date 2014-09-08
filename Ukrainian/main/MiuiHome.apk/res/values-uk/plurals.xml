@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Видалити додатків: %2$d?</item>
+        <item quantity="one">Видалити %s?</item>
+		<item quantity="two">Видалити додатків: %$?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">Додатків видалено: %1$d</item>
+        <item quantity="one">Додаток видалено</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">Не вдалося видалити додатків: %2$d</item>
+        <item quantity="one">Не вдалося видалити додатків: 1</item>
+		<item quantity="two">Не вдалося видалити додатків: %s</item>
+    </plurals>
+	<plurals name="editing_mode_title">
+       <item quantity="other">Обрано: %1$d</item>
+       <item quantity="one">Обрано: %1$d</item>
+    </plurals>
+</resources>

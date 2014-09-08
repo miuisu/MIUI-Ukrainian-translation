@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string name="app_name">MIUI автоматичний режим мережі</string>
+     <string name="miui_auto_network">Автоматичний режим бажаної мережі </string>
+     <string name="motion_dial_title">Набір, при русі</string>
+     <string name="motion_dial_summary">авто набір, коли телефон поруч із вухом</string>
+     <string name="motion_answer_title">Відповідь, при русі</string>
+     <string name="motion_answer_summary">авто відповідь, коли телефон поруч із вухом</string>
+     <string name="motion_turnover_title">\" Без звуку\" при перевороті</string>
+     <string name="motion_turnover_summary">"виключати звук при перевороті "</string>
+     <string name="screen_capture_title">Захоплення екрана</string>
+     <string name="screen_capture_summary">рух уперед трьома пальцями</string>
+ </resources>

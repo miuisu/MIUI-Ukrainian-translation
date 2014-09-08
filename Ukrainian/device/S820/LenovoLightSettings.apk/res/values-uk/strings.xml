@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Підсвічування</string>
+    <string name="breath_settings">Настройка яскравості</string>
+    <string name="breath_delay">Частота блимання</string>
+    <string name="breath_delay_info">Чим менша затримка, тим більше буде споживатися енергії</string>
+    <string name="light_switch_settings">Настройка підсвічування</string>
+    <string name="coming_call">Вхідні</string>
+    <string name="miss_call">Пропущені</string>
+    <string name="unread_msg">Непрочитані SMS</string>
+    <string name="battery_low_msg">Батарею розряджено</string>
+    <string name="sina_weibo_notify">Сповіщення SinaWeibo</string>
+    <string name="qq_weibo_notify">Сповіщення TencentWeibo</string>
+    <string name="music_play">Музика</string>
+    <string name="screen_on">Увімкнення екрану</string>
+    <string name="screen_off">Вимкнення екрану</string>
+    <string name="power_on_off">Увмк/Вимк живлення</string>
+    <string name="charging">Зарядка</string>
+    <string name="low_battery">Низький заряд</string>
+    <string name="color_settings">Колір</string>
+    <string name="color_settings_info">Настройка кольору сповіщень</string>
+    <string name="color_coming_call">Вхідні (колір)</string>
+    <string name="color_miss_call">Пропущені (колір)</string>
+    <string name="color_unread_msg">Непрочитані SMS (колір)</string>
+    <string name="color_sina_weibo_notify">Сповіщення SinaWeibo (колір)</string>
+    <string name="color_qq_weibo_notify">Сповіщення TencentWeibo (колір)</string>
+    <string name="color_music">Музика (колір)</string>
+    <string name="color_screen_on">Увімкнення екрану (колір)</string>
+    <string name="color_screen_off">Вимкнення екрану (колір)</string>
+    <string name="light_show">Світлове шоу</string>
+    <string name="light_show_info">Світлове шоу відтворення музики</string>
+    <string name="stop">Стоп</string>
+    <string name="closed">Вимкнено</string>
+    <string name="open">Включено</string>
+    <string name="multiselect_alert_info">Необхідно як мінімум один колір!</string>
+</resources>

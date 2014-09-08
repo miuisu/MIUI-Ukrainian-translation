@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Пошук</string>
+    <string name="search_widget">Пошук</string>
+    <string name="remove_from_history">Видалити з історії пошуку?</string>
+    <string name="remove_from_history_failed">Не вдалося видалити об\'єкт з історії пошуку</string>
+    <string name="corpus_selection_heading">Пошук</string>
+    <string name="corpus_label_global">Всі</string>
+    <string name="corpus_label_web">Інтернет</string>
+    <string name="corpus_description_web">Інтернет та закладки</string>
+    <string name="corpus_label_apps">Додатки</string>
+    <string name="corpus_description_apps">Назви встановлених додатків</string>
+    <string name="corpus_hint_apps">Пошук додатків</string>
+    <string name="menu_settings">Налаштування пошуку</string>
+    <string name="search_settings">Налаштування пошуку</string>
+    <string name="google_settings_category_title">Пошук Google</string>
+    <string name="device_settings_category_title">Очистити ярлики</string>
+    <string name="system_search_category_title">Телефон</string>
+    <string name="search_sources">Джерело пошуку</string>
+    <string name="search_sources_summary">Виберіть джерело, за яким буде відбуватися пошук.</string>
+    <string name="clear_shortcuts">Очистить ярлики</string>
+    <string name="clear_shortcuts_summary">Очищення ярликів нещодавно обраних результатів пошуку</string>
+    <string name="clear_shortcuts_prompt">Очистить ярлики нещодавно обраних результатів пошуку?\n\nЩоб очистити історію браузера, скористуйтеся його налаштуваннями.</string>
+    <string name="clear_shortcuts_agree">Очистити ярлики</string>
+    <string name="clear_shortcuts_disagree">Не очищувати ярлики</string>
+    <string name="menu_help">Довідка</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Пошук Google</string>
+    <string name="google_search_hint">Пошук Google</string>
+    <string name="google_search_description">Пошукові підказками Google</string>
+    <string name="voice_search_hint_title">Попробуйте сказати:</string>
+    <string name="search_in_web">Пошук в інтернеті</string>
+    <string name="search_in_app_store">Пошук в маркеті</string> 
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Miui_settings">Додатково</string>
+    <string name="dualmic_enable_title">Подвійний мікрофон</string>
+    <string name="dualmic_enable_summary">Використовується для вилучення луни</string>
+    <string name="headsetmic_enable_title">Використовувати мікрофон гарнітури</string>
+    <string name="headsetmic_enable_summary">Перемикання на гарнітуру при під\'єднанні</string>
+    <string name="vsync">Прискорення інтерфейсу</string>
+    <string name="vsync_summary">Значне покращення прискорення інтерфейсу</string>
+    <string name="swap">Файл підкачки</string>
+    <string name="swap_summary">Використання файлу підкачки, для збільшення пам\'яті</string>
+    <string name="preferences_application_title">Інформація про автора</string>
+    <string name="powermanage">Керування живленням</string>
+    <string name="powermanage_summary">Виберіть режим керування живленням</string>
+    <string name="lite_title">Полегшити систему</string>
+    <string name="lite_summary">Полегшити системні сервіси</string>
+    <string name="miui">MIUI сервіси</string>
+    <string name="miui_summary">Полегшити сервіси MIUI</string>
+    <string name="google">Goolge сервіси</string>
+    <string name="google_summary">Полегшити сервіси Google</string>
+    <string name="network">Мережа/Безпека</string>
+    <string name="network_summary">Полегшити сервіси Мережі/Безпеки</string>
+    <string name="other">Інше</string>
+    <string name="other_summary">Полегшити інші сервіси</string>
+    <string name="lowmem">Керування пам\'яттю</string>
+    <string name="lowmem_summary">Виберіть режим керування пам\'яттю</string>
+	<string name="fast_power_on_title">Швидке завантаження</string>
+    <string name="fast_power_on_summary">Увімкніть, для швидкого вмикання телефону</string>
+    <string name="project_menu_title">project menu</string>
+    <string name="storage_enable_title">Використовувати зовнішню SD карту</string>
+    <string name="storage_enable_summary">Використовувати зовнішню SD карту як основний накопичувач (Необхідне перезавантаження)</string>
+    <string name="dts_mode">Режим DTS</string>
+    <string name="dts_mode_summary">Включення/Вимикання звукових режимів DTS</string>
+    <string name="main_storage">Основний накопичувач (Перезавантаження для активації)</string>
+    <string name="internal_sdcard">Внутрішня SD карта</string>
+    <string name="external_sdcard">Зовнішня SD карта (Авто-ота не підтримується)</string>
+    <string name="main_network">Основна мережа (Перезавантаження для активації)</string>
+</resources>

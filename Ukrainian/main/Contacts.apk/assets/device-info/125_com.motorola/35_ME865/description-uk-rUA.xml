@@ -1,0 +1,15 @@
+<feature>
+    <boolean>TRUE</boolean>
+    <title>
+Імпорт контактів з ME865:
+
+1.Відкрийте “Налаштування”
+
+2.Відкрийте пункт “Bluetooth”
+
+3.Увімкніть “Bluetooth”
+
+4.Натисніть на кнопку “Далі”
+    </title>
+    <header></header>
+</feature>

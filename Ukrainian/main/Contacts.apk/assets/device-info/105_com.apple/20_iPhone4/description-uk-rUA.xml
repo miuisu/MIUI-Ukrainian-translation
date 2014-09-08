@@ -1,0 +1,16 @@
+<feature>
+    <name>iPhone 4</name>
+    <boolean>TRUE</boolean>
+    <title>
+Імпорт контактів з iPhone 4:
+
+1. На стільниці відкрийте “Налаштування”
+
+2. Відкроийте пункт “Загальні”
+
+2. Увімкніть “Bluetooth”
+
+4. Натисніть на кнопку “Далі”
+    </title>
+    <header></header>
+</feature>

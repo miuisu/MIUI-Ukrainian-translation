@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервіси NVIDIA Tegra</string>
+    <string name="permlab_sysfsWrite">Налаштування енергосбереження</string>
+    <string name="permdesc_sysfsWrite">Дозволити додатку змінювати налаштування енергосбереження</string>
+    <string name="nvcplsvc_bind">Клієнт nvcplsvc</string>
+    <string name="nvcplsvc_desc_bind">Дозволити додатку зв\'язуватися з NvCPLSvc</string>
+</resources>

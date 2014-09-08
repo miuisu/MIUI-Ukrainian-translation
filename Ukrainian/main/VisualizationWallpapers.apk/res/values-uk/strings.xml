@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Візуалізатор</string>
+    <string name="wallpaper_vis2">Хвильова форма</string>
+    <string name="wallpaper_vis3">Спектр</string>
+    <string name="wallpaper_vis4">Вольтметр</string>
+    <string name="wallpaper_vis5">Всі разом</string>
+    <string name="wallpapers">Шпалери музичної візуалізації</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Малює форму звуку відтворюваного треку</string>
+    <string name="vis3_desc">Частотний спектр відтворюваного треку</string>
+    <string name="vis4_desc">Симулюєт вольтметр</string>
+    <string name="vis5_desc">Всі музичні візуалізації одночасно, повільно обертаються в 3D</string>
+</resources>

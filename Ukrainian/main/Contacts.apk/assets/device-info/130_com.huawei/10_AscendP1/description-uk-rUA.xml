@@ -1,0 +1,16 @@
+<feature>
+    <name>Ascend P1</name>
+    <boolean>TRUE</boolean>
+    <header></header>
+    <title>
+Імпорт контактів з Ascend P1:
+
+1. Відкрийте “Налаштування”
+
+2. Відкрийте пункт “Bluetooth”
+
+2. Увімкніть “Bluetooth”
+
+4. Натисніть на кнопку “Далі”
+    </title>
+</feature>

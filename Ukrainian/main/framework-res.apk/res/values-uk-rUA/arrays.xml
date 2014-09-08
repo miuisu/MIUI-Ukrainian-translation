@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Робочий</item>
+        <item>Інше</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашній</item>
+        <item>Мобільний</item>
+        <item>Робочий</item>
+        <item>Робочий факс</item>
+        <item>Домашній факс</item>
+        <item>Пейджер</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+	<string-array name="app_ops_labels">
+         <item>Спроба одержання доступу до місця розташування</item>
+         <item>Спроба одержання доступу до місця розташування</item>
+         <item>Спроба одержання доступу до місця розташування</item>
+         <item>Спроба використання вібрації</item>
+         <item>Спроба читання контактів</item>
+         <item>Спроба зміни контактів</item>
+         <item>Спроба читання журналу викликів</item>
+         <item>Спроба зміни журналу викликів</item>
+         <item>Спроба читання календаря</item>
+         <item>Спроба зміни календаря</item>
+         <item>Спроба одержання доступу до місця розташування</item>
+         <item>Спроба виводу повідомлення</item>
+         <item>Спроба одержання доступу до місця розташування</item>
+         <item>Спроба здійснення виклику</item>
+         <item>Спроба читання повідомлень</item>
+         <item>Спроба читання й зміни повідомлень</item>
+         <item>Спроба одержання повідомлення</item>
+         <item>Спроба одержання повідомлення</item>
+         <item>Спроба одержання повідомлення</item>
+         <item>Спроба одержання повідомлення</item>
+         <item>Спроба відправлення повідомлення</item>
+         <item>Спроба читання повідомлень</item>
+         <item>Спроба читання й зміни повідомлень</item>
+         <item>Спроба зміни налаштувань</item>
+         <item>Спроба залучити на вершині</item>
+         <item>Спроба одержання доступу до повідомлень</item>
+         <item>Спроба одержання доступу до камери</item>
+         <item>Спроба запису звуку</item>
+         <item>Спроба відтворення звуку</item>
+         <item>Спроба читання буфера обміну</item>
+         <item>Спроба зміни буфера обміну</item>
+         <item>Спроба включення/вимикання Wi-Fi</item>
+         <item>Спроба включення/вимикання Bluetooth</item>
+         <item>Спроба включення/вимикання мобільного інтернету</item>
+         <item>Спроба відправлення MMS</item>
+         <item>Спроба читання MMS</item>
+         <item>Спроба створення MMS</item>
+     </string-array>
+</resources>

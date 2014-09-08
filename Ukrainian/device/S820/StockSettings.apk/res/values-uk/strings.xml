@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Додаткові налаштування</string>
+    <string name="select_memory">Місцу для записи за замовчуванням</string>
+    <string name="dlg_default_write_disk_change_title">Налаштування пам\'яті за замовчуванням</string>
+    <string name="dlg_default_write_disk_change_msg">Зміни вступлять в силу після перезавантаження!</string>
+    <string name="dlg_default_write_disk0_change_msg">При виборі пам\'яті SD, додатки, що встановлені в USB накопичувач вимикаються та пристрій перезавантажиться, вибрати пам\'ять SD для збереження за замовчуванням?</string>
+    <string name="dlg_default_write_disk1_change_msg">При виборі пам\'яті USB, додатки, що встановлені в SD накопичувач вимикається та пристрій перезавантажиться, вибрати пам\'ять USB для збереження за замовчуванням?</string>
+    <string name="led_settings">LED-індикація</string>
+</resources>

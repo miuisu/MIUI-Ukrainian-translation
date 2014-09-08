@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="contact_entries">
+        <item>Ім\'я</item>
+        <item>Нік</item>
+        <item>Телефон</item>
+        <item>Email</item>
+        <item>Компанія</item>
+        <item>IM</item>
+        <item>Інтернет номер</item>
+        <item>День народження</item>
+        <item>Сайт</item>
+        <item>Адреса</item>
+        <item>Примітки</item>
+  </string-array>
+  <string-array name="font_size_names">
+        <item>Маленький</item>
+        <item>Нормальний</item>
+        <item>Великий</item>
+        <item>Дуже великий</item>
+  </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string name="app_name">Mtktweak</string>
+     <string name="app_label">Mtktweak зміна режиму</string>
+     <string name="action_settings">Настроювання</string>
+     <string name="ram_default_value">1G рекомендована</string>
+     <string name="performance_default_value">Енергозбереження</string>
+ </resources>

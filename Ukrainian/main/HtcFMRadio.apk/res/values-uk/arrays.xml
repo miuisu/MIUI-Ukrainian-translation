@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 неділя</item>
+        <item>2 неділі</item>
+        <item>3 неділі</item>
+        <item>4 неділі</item>
+        <item>5 неділь</item>
+        <item>6 неділь</item>
+        <item>7 неділь</item>
+        <item>8 неділь</item>
+        <item>9 неділь</item>
+        <item>10 неділь</item>
+        <item>11 неділь</item>
+        <item>12 неділь</item>
+    </string-array>
+</resources>

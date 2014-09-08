@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">Гаразд</string>
+    <string name="button_cancel">Скасувати</string>
+    <string name="confirm_radio_title">SIM карта вимкнено</string>
+    <string name="confirm_radio_msg">%1$s вимкнено. Увімкнути SIM карту?</string>
+    <string name="confirm_radio_msg_single">Режим літака увімкнено, вимкнути?</string>
+    <string name="confirm_pin_title">SIM карту заблоковано</string>
+    <string name="confirm_pin_msg">Обрана SIM карта заблоковано. Потрібне розблокування.</string>
+    <string name="confirm_SIM картаmelock_title">Слот SIM карти заблоковано</string>
+    <string name="confirm_SIM картаmelock_msg">Обраний слот з SIM картою заблоковано. Потрібне розблокування.</string>
+    <string name="confirm_fdn_title">FDN увімкнено</string>
+    <string name="confirm_fdn_msg">Функцію дозволених номерів увімкнено.</string>
+    <string name="confirm_roaming_title">Роумінг</string>
+    <string name="confirm_roaming_msg">SIM карта наразі використовується в роумінговій зоні. Це може спричинити великі витрати на зв\'язок. Продовжити?</string>
+    <string name="confirm_roaming_withPrefer_msg">SIM карта наразі використовується в роумінговій зоні. Продовжити через локальну SIM карту?</string>
+    <string name="confirm_roaming_lbutton">Продовжити</string>
+    <string name="confirm_roaming_rbutton">Скасувати</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Локальна SIM карта</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Роумінгова SIM карта</string>
+    <string name="confirm_radio_lbutton">Відкрити</string>
+    <string name="confirm_unlock_lbutton">Розблокувати</string>
+    <string name="confirm_unlock_fail">Операцію скасовано</string>
+    <string name="confirm_turnon_radio_fail">Операцію скасовано</string>
+    <string name="confirm_permit_roaming_fail">Ви скасували операцію з роумінговою SIM картою</string>
+    <string name="confirm_SIM карта_locked_message">SIM карту заблоковано</string>
+    <string name="confirm_slot_locked_message">Слот SIM карти заблоковано</string>
+    <string name="confirm_disable_lbutton">Заборонено</string>
+</resources>

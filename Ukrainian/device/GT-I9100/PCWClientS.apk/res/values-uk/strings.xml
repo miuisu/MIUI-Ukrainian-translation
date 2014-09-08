@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Віддалене керування</string>
+    <string name="dialog_ok">ОК</string>
+    <string name="rcv_0000_msg">Повідомлення було отримано.</string>
+    <string name="rcv_0200_msg">Відсутній параметр або без змісту.</string>
+    <string name="rcv_0201_msg">Значення параметру не є дійсним.</string>
+    <string name="rcv_0202_msg">Довжина параметру не підходить.</string>
+    <string name="rcv_0203_msg">Кількість параметрів не є точним.</string>
+    <string name="rcv_0204_msg">Повідомлення не розмежоване.</string>
+    <string name="rcv_0210_msg">Невідома помилка.</string>
+</resources>

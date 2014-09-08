@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="simServiceTitle">SIM Сервіс</string>
+    <string name="app_name">CSC</string>
+    <string name="start_service">Запуск сервису</string>
+    <string name="e_manual_bookmark_name">Інструкція</string>
+</resources>

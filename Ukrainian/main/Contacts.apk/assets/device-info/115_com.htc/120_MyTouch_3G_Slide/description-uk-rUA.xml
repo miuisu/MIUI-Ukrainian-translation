@@ -1,0 +1,16 @@
+<feature>
+    <name>My Touch 3G Slide</name>
+    <boolean>TRUE</boolean>
+    <title>
+Імпорт контактів з My Touch 3G Slide:
+
+1. Відкрийте “Налаштування”
+
+2. Відкрийте пункт “Бездротові мережі”
+
+2. Увімкніть “Bluetooth”
+
+4. Натисніть на кнопку “Далі”
+    </title>
+    <header></header>
+</feature>

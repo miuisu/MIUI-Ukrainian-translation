@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_method">
+        <item>По MMS</item>
+        <item>По Email</item>
+        <item>По Bluetooth</item>
+    </string-array>
+    <string-array name="video_option">
+        <item>Відправити</item>
+        <item>Знищити</item>
+        <item>Перейменувати</item>
+        <item>Детальніше</item>
+    </string-array>
+    <string-array name="pref_natural_base_entries">
+        <item>Нормальний</item>
+        <item>Середній</item>
+        <item>Сильний</item>
+    </string-array>
+    <string-array name="pref_frequency_enhance_entries">
+        <item>Нормальний</item>
+        <item>Середній</item>
+        <item>Сильний</item>
+    </string-array>
+    <string-array name="pref_equalizer_entries">
+        <item>Виключити</item>
+        <item>Новини</item>
+        <item>Спорт</item>
+        <item>Драма</item>
+        <item>Кліп</item>
+        <item>Кіно</item>
+        <item>Комедія</item>
+        <item>Екшн</item>
+        <item>Мюзикл</item>
+        <item>Анімація</item>
+        <item>Різне</item>
+    </string-array>
+    <string-array name="pref_circulate_entries">
+        <item>Виключити</item>
+        <item>Одне відео</item>
+        <item>Усі відео</item>
+    </string-array>
+    <string-array name="pref_dolby_entries">
+        <item>Виключити</item>
+        <item>"Dolby Mobile "</item>
+    </string-array>
+    <string-array name="pref_dirac_entries">
+        <item>Виключити</item>
+        <item>"Dolby Mobile "</item>
+        <item>Dirac effect</item>
+    </string-array>
+    <string-array name="pref_gallery_size_choices">
+        <item>Великий</item>
+        <item>Маленький</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_choices">
+        <item>Ім\'я</item>
+        <item>Тип</item>
+        <item>Розмір</item>
+        <item>Дата за зростанням</item>
+        <item>Дата за спаданням</item>
+    </string-array>
+</resources>

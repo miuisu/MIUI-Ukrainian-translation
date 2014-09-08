@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Переднастройка</string>
+    <string name="install_button">ВСТАНОВИТИ</string>
+    <string name="cancel_button">Скасувати</string>
+    <string name="sales_code">Торговий код</string>
+</resources>

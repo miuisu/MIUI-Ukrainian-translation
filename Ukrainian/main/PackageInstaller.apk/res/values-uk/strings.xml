@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Програма установки</string>
+    <string name="install">Встановити</string>
+    <string name="done">Готово</string>
+    <string name="security_settings_desc">Дозволити цьому застосуванню:</string>
+    <string name="cancel">Скасувати</string>
+    <string name="unknown">Невідомо</string>
+    <string name="installing">Установка…</string>
+    <string name="install_done">Додаток встановлений</string>
+    <string name="install_confirm_question">Встановити цей додаток?</string>
+    <string name="install_failed">Додаток не встановлений</string>
+    <string name="install_failed_invalid_apk">Схоже, пакет пошкоджений.</string>
+    <string name="install_failed_inconsistent_certificates">Пакет з такою назвою вже встановлений і має конфліктуючий підпис.</string>
+    <string name="install_failed_older_sdk">Цей пакет підтримується лише в системі Android пізніших версій.</string>
+    <string name="install_failed_cpu_abi_incompatible">Процесор телефону не підтримує цей додаток.</string>
+    <string name="install_failed_file_not_found">Вказаний пакет видалений до завершення установки.</string>
+    <string name="install_failed_verify_failed">Пакет не перевірений і не може бути встановлений.</string>
+    <string name="install_failed_verify_timeout">Не вдалося перевірити пакет. Спробуйте встановити його пізніше.</string>
+    <string name="install_failed_msg">Неможливо встановити \"%1$s\".</string>
+    <string name="launch">Открыть</string>
+    <string name="unknown_apps_dlg_title">Установка заблокована</string>
+    <string name="unknown_apps_dlg_text">"З міркувань безпеки на вашому телефоні заблокована установка додатків, отриманих не з Android-маркету.
+
+Ви можете змiнити це в Налаштування->Безпека->Невiдомi джерела."</string>
+    <string name="ok">ОК</string>
+    <string name="settings">Налаштування</string>
+    <string name="allow_source_dlg_title">Дозволити додавання нового джерела для додатків?</string>
+    <string name="allow_source_dlg_text">"%1$s хоче встановити інші додатки.
+
+Дозволить та запам\'ятати вибiр?"</string>
+    <string name="manage_applications">Керування додатками</string>
+    <string name="dlg_app_replacement_title">Замінити додаток</string>
+    <string name="dlg_app_replacement_statement">"Додаток, який ви встановлюєте, замінить інше застосування.
+
+Всі призначені для користувача дані будуть збережені."</string>
+    <string name="dlg_app_replacement_statement_with_version">"Додаток: %1$s \nВстановлена версія: %3$s \nВерсія оновлення: %2$s  \n\nВсі дані користувача будуть збережені.\nПродовжити установку?"</string>
+    <string name="dlg_sys_app_replacement_statement">"Це системне застосування. Замінити?
+
+Всі призначені для користувача дані будуть збережені."</string>
+    <string name="lift_ban">Зняти заборону</string>
+    <string name="uninstall_failed_retained_app_msg">Додаток, змінений оператором, не може бути видалене</string>
+    <string name="out_of_space_dlg_title">Недостатньо місця</string>
+    <string name="out_of_space_dlg_text">Встановити додаток %1$s не вдалося. Звільніть місце та спробуйте ще раз.</string>
+    <string name="dlg_ok">ОК</string>
+    <string name="app_not_found_dlg_title">Додаток не знайдений</string>
+    <string name="app_not_found_dlg_text">Додаток не знайдений в списку встановлених застосувань.</string>
+    <string name="uninstall_application_title">Видалення додатка</string>
+    <string name="uninstall_update_title">Видалення оновленяя</string>
+    <string name="uninstall_activity_text">%1$s є частиною наступного застосування:</string>
+    <string name="uninstall_confirm_question">Видалити додаток?</string>
+    <string name="uninstall_application_text">Додаток буде видалений.</string>
+    <string name="uninstall_update_text">Буде відновлена початкова версія додатка.</string>
+    <string name="uninstalling">Видалення…</string>
+    <string name="uninstall_done">Видалення завершене</string>
+    <string name="uninstall_failed">Помилка при видаленні</string>
+    <string name="uninstall_failed_device_policy_manager">Не вдалося видалити пакет, оскільки він вибраний для адміністрування пристрою.</string>
+    <string name="manage_device_administrators">Налаштування адміністрування</string>
+    <string name="uninstall_failed_msg">Видалити додаток %1$s не вдалося.</string>
+    <string name="Parse_error_dlg_title">Синтаксична помилка</string>
+    <string name="Parse_error_dlg_text">При синтаксичному аналізі пакету виникла помилка.</string>
+    <string name="caller_app">Зв\'язок: %1$s</string>
+    <string name="safe_guard_support">Захист забезпечує %1$s</string>
+    <string name="safe_relative">Особиста безпека</string>
+    <string name="privacy_relative">Доступ до особистих даних</string>
+    <string name="other_relative">Інші дозволи</string>
+    <string name="perm_notice">Попередження</string>
+    <string name="trust_switch_dialog_msg">"MIUI не запитуватиме вашого дозволу на будь-які дії цього застосування.
+Довіряти цьому застосуванню?"</string>
+    <string name="auto_startup_dialog_msg">"MIUI дозволить цьому застосуванню запускатися автоматично. Це може викликати підвищений вжиток енергії і трафіку.
+Дозволити автозапуск?"</string>
+    <string name="low_risk_perms">Менш небезпечні дозволи</string>
+    <string name="high_risk_perms">Небезпечні дозволи</string>
+    <string name="perm_privacy_app_finish">Готово</string>
+    <string name="perm_privacy_app_launch">Відкрити</string>
+    <string name="perm_privacy_app_installed">Установка завершена!</string>
+    <string name="perm_sysopt_boost_auto_start">Дозволи автозапуску</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Додаток запускатиметься автоматично!</string>
+    <string name="perm_privacy_app_trust">Я довіряю цьому застосуванню</string>
+    <string name="perm_privacy_app_trust_summary">Контроль дій додатка</string>
+    <string name="perm_action_accept">Дозволити</string>
+    <string name="perm_action_prompt">Із запитом</string>
+    <string name="perm_action_reject">Заборонити</string>
+    <string name="unknown_installer">Неопізнаний інструмент ПК</string>
+	<string name="install_failed_system_incompatible">Це застосування не сумісне з системою MIUI.</string>
+    <string name="virus_scan_install">" <u>Продовжити установку</u> "</string>
+    <string name="virus_scan_is_virus">Цей додаток містить вірус.</string>
+    <string name="virus_scan_is_risk">Цей додаток виявляє загрозу для вашого пристрою.</string>
+    <string name="virus_scan_clear">Видалити</string>
+	<string name="virus_scan_caller_unknown">Невідомо</string>
+	<string name="ad_block_button_title">Блокувати рекламу</string>
+ 	<string name="ad_relative">Реклама</string>
+ 	<string name="adware_count">Файлів реклами: %d</string>
+ 	<string name="adware_hint">Ці файли використовуються сторонніми додатками для відображення реклами</string>
+ 	<string name="adware_title">Реклама</string>
+	<string name="all">Усі дозволи</string>
+    <string name="main_title">Встановлення додатків</string>
+    <string name="installer_name">Джерело: %1$s</string>
+    <string name="button_cancel">Скасування</string>
+    <string name="button_next">Далі</string>
+    <string name="button_continue">Продовжити</string>
+    <string name="button_remove">Вилучити</string>
+    <string name="button_continue_install">Продовжити встановлення</string>
+    <string name="button_install_lastest">Скачати й установити нову версію</string>
+    <string name="button_install_official">Скачати й установити офіційну версію</string>
+	<string name="warn_title">Додаток може бути небезпечно</string>
+    <string name="warn_message">Додаток може представляти шкоду для ваших особистих даних, впливати на витрати на мобільний інтернет і т.д.</string>
+    <string name="progress_verifying">Перевірка безпеки...</string>
+    <string name="update_title">%1$s: нова версія</string>
+    <string name="update_time">%1$s %2$s дата:%3$s версія:%4$s</string>
+    <string name="update_log_default">Немає оновлень</string>
+    <string name="permission_warn_title">Установка додатків з неофіційних джерел може завдати шкоди вашому пристрою</string>
+    <string name="permission_warn_hint">Додаток отримає дозволи:</string>
+</resources>

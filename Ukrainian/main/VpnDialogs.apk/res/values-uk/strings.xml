@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s намагається встановити VPN з\'єднання</string>
+    <string name="warning">При продовженні ви дозволяєте додатку використання трафіку мережі. <b>Не дозволяйте, если ви не довіряєте додатку.</b>" В протилежному випадку ви можете втратити приватні дані. "</string>
+    <string name="accept">Я довіряю цьому додатку</string>
+    <string name="legacy_title">VPN пiд\'єднано</string>
+    <string name="configure">Налаштування</string>
+    <string name="disconnect">Раз\'єднатися</string>
+    <string name="session">Сесія:</string>
+    <string name="duration">Тривалість:</string>
+    <string name="data_transmitted">Надіслано:</string>
+    <string name="data_received">Отримано:</string>
+    <string name="data_value_format">%1$s байт / %2$s пакетів</string>
+</resources>

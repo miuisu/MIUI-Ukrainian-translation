@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM сервіс</string>
+    <string name="app_name2">SIM2 сервіс</string>
+	<string name="app_name3">SIM сервис 3</string>
+    <string name="menu_end_session">Закінчити сеанс</string>
+    <string name="help">Довідка</string>
+    <string name="menu_back">Назад</string>
+    <string name="service_name">Назва служби</string>
+    <string name="stk_no_service">Поза зоною обслуговування</string>
+    <string name="button_ok">Гаразд</string>
+    <string name="button_cancel">Скасувати</string>
+    <string name="button_yes">Так</string>
+    <string name="button_no">Ні</string>
+    <string name="alphabet">Абетка</string>
+    <string name="digits">Цифри (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Надсилання виклику…</string>
+    <string name="default_setup_call_msg">Встановлення з\'єднання</string>
+    <string name="stk_app_state">Стан додатку</string>
+    <string name="enable_app">Увімкнено</string>
+    <string name="disable_app">Вимкнено</string>
+    <string name="stk_dialog_title">Інструменти SIM карти</string>
+    <string name="default_open_channel_msg">Відкрити канал?</string>
+    <string name="default_send_data_msg">Надсилання даних</string>
+    <string name="default_receive_data_msg">Отримання даних</string>
+    <string name="default_close_channel_msg">Канал закрито</string>
+    <string name="stk_dialog_accept">ОК</string>
+    <string name="stk_dialog_reject">Відміна</string>
+	<string name="default_tone_dialog_msg">Відтворення мелодії</string>
+</resources>

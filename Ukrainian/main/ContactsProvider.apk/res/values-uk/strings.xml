@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Основні програми Android</string>
+    <string name="app_label">Сховище контактів</string>
+    <string name="provider_label">Контакти</string>
+    <string name="upgrade_msg">Оновлення БД контактів.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Оновлення контактів потребує більше пам\'яті.</string>
+    <string name="upgrade_out_of_memory_notification_title">Оновлення пам\'яті контактів</string>
+    <string name="upgrade_out_of_memory_notification_text">Натисніть для завершення оновлення</string>
+    <string name="default_directory">Контакти</string>
+    <string name="local_invisible_directory">Інше</string>
+    <string name="read_write_all_voicemail_label">Доступ до голосових повідомлень</string>
+    <string name="read_write_all_voicemail_description">Дозволити додатком зберігати і відновлювати всі голосові доступні у пристрої повідомлення.</string>
+    <string name="voicemail_from_column">"Голосове повідомлення від "</string>
+    <string name="debug_dump_title">Копіювання бази контактів</string>
+    <string name="debug_dump_database_message">Ви збираєтеся створити копію бази даних, яка містить всі дані про контакти, і відправити її. Не забудьте видалити копію, як тільки ви успішно скопіювали її з пристрою або електронного листа.</string>
+    <string name="debug_dump_delete_button">Видалити зараз</string>
+    <string name="debug_dump_start_button">Почати</string>
+    <string name="debug_dump_email_sender_picker">Передати</string>
+    <string name="debug_dump_email_subject">База контактів прикріплена</string>
+    <string name="debug_dump_email_body">Прикріплення - це моя база контактів з усією інформацією про контакти.</string>
+	<string name="third_party_delete_contact_info">Додаток \"%s\" видалить ваші контакти. Будь ласка, використовуйте стандартний додаток \"Контакти\" для безпеки.</string>
+	<string name="pound_search_tip">Введіть номер після # для пошуку контактів</string>
+    <string name="create_contact">Новий контакт</string>
+    <string name="send_sms">Надіслати повідомлення</string>
+    <string name="edit_contact">Додати до контакту</string>
+    <string name="call_log_provider_label">Журнал викликів</string>
+	<string name="group_name_contacts">Контакти</string>
+    <string name="group_name_friends">Друзі</string>
+    <string name="group_name_family">Сім\'я</string>
+    <string name="group_name_coworkers">Колеги</string>
+    <string name="unknown">Невідомий номер</string>
+</resources>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Пошук програм</string>
+    <string name="search_label">Програми</string>
+    <string name="application_desc">Програма</string>
+    <string name="settings_description">Назви встановлених програм</string>
+    <string name="search_empty">Немає збігів</string>
+</resources>
