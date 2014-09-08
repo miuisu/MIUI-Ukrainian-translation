@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Менеджер завантажень</string>
+    <string name="permlab_downloadManager">Доступ до менеджера завантажень.</string>
+    <string name="permdesc_downloadManager">Дозволяє програмам використовувати менеджер завантажень для скачування файлів. Шклідливе ПО може перервати завантаження та отримати доступ до особистої інформації .</string>
+    <string name="permlab_downloadManagerAdvanced">Додаткові налаштування менеджера завантажень.</string>
+    <string name="permdesc_downloadManagerAdvanced">"Дозволяє програмам отримувати доступ до розширених налаштувань менеджера завантажень. Шклідливе ПО може перервати завантаження та отримати доступ до особистої інформації."</string>
+    <string name="permlab_downloadCompletedIntent">Повідомлення про завершені завантаження.</string>
+    <string name="permdesc_downloadCompletedIntent">Дозволяє програмам показувати повідомлення про завершені завантаження. Шклідливе ПО може використовувати це для переривання процессу завантаження інших програм.</string>
+    <string name="permlab_seeAllExternal">Переглядати всі завантаження на USB носії</string>
+    <string name="permdesc_seeAllExternal">Дозволяє програмам отримувати доступ до завантажень, які знаходяться на карті SD, неважливо, якими програмами були зроблені ці завантаження.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервування місця для кеша</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Дозволяє програмам резервувати кеш для завантажень, який не може бути автоматично очищений, якщо буде необхідно додаткове вільне місце."</string>
+    <string name="permlab_downloadWithoutNotification">Завантаження файлів без повідомлень</string>
+    <string name="permdesc_downloadWithoutNotification">Дозволяє програмам завантажувати файли, не виводячі повідомлення про закінчення завантажень.</string>
+    <string name="permlab_accessAllDownloads">Доступ до всіх системних завантажень</string>
+    <string name="permdesc_accessAllDownloads">Дозволяє переглядати або змінювати всі завантаження, які зроблені будь-якою програмою.</string>
+    <string name="download_unknown_title">&lt;Untitled&gt;</string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" та %d більше"</string>
+    <string name="notification_download_complete">Завантаження закінчено.</string>
+    <string name="notification_download_failed">Завантаження не вдалося.</string>
+    <string name="notification_need_wifi_for_size">Для завантаження файлу такого розміру, необхідне підключення до Wi-Fi.</string>
+    <string name="notification_paused_in_background">Пауза в фоні.</string>
+    <string name="wifi_required_title">Занадто великий розмір файлу для завантаження через мережу оператора</string>
+    <string name="wifi_required_body" formatted="false">"Використовуйте, будь-ласка, підключення до Wi-Fi, для закінчення завантаження. 
+
+Натисніть %s для продовження завантаження, коли будете підключені до мережі Wi-Fi."</string>
+    <string name="wifi_recommended_title">Нагадування про використаний трафік</string>
+    <string name="wifi_recommended_body" formatted="false">"Ви хочете завантажити через мережу оператора файл розміром：
+
+ %s（%s）
+
+ Якщо ви не зупинете завантаження, це призведе до додаткових витрат."</string>
+    <string name="button_queue_for_wifi">Черга</string>
+    <string name="button_cancel_download">Відмінити</string>
+    <string name="button_start_now">Продовжити зараз</string>
+    <string name="download_percent">%d%%</string>
+    <string name="dialog_insufficient_space_on_external">Недостатньо місця на зовнішньому нсії</string>
+    <string name="dialog_insufficient_space_on_cache">Недостатньо місця на внутрішньому носії</string>
+    <string name="auto_restart_under_wifi">Wi-Fi завантаже цей файл автоматично</string>
+</resources>

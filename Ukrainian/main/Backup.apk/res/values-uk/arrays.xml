@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Дані WLAN</item>
+        <item>Всі програми</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Браузер</item>
+        <item>Файл менеджер</item>
+        <item>Галерея</item>
+        <item>Адмінка</item>
+        <item>Камера</item>
+        <item>Мережа</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Контакти</item>
+        <item>Журнал викликів</item>
+        <item>Повідомлення</item>
+        <item>Мультимедійні повідомлення</item>
+        <item>Системні налаштування</item>
+        <item>Налаштування WLAN</item>
+        <item>Стільниця</item>
+        <item>Налаштування будильника</item>
+        <item>Замітки</item>
+        <item>DND</item>
+        <item>Акаунт</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Дані</item>
+        <item>Програми</item>
+        <item>Програми і дані</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Контакти</item>
+        <item>Журнал викликів</item>
+        <item>Повідомлення</item>
+        <item>Налаштування WLAN</item>
+        <item>Замітки</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Контакти</item>
+        <item>Налаштування WLAN</item>
+        <item>Замітки</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Журнал викликів</item>
+        <item>Повідомлення</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Задзвонить менш чим через одну хвилину.</item>
+        <item>Задзвонить через %1$s.</item>
+        <item>Задзвонить через %2$s.</item>
+        <item>Задзвонить через %1$s і %2$s.</item>
+        <item>Задзвонить через %3$s.</item>
+        <item>Задзвонить через %1$s і %3$s.</item>
+        <item>Задзвонить через %2$s і %3$s.</item>
+        <item>Задзвонить через %1$s, %2$s, і %3$s.</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Жодної</item>
+        <item>Поспати</item>
+        <item>Відключити</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Задзвонить менш чим через одну хвилину</item>
+        <item>Задзвонить через %1$s</item>
+        <item>Задзвонить через %2$s</item>
+        <item>Задзвонить через %1$s %2$s</item>
+        <item>Задзвонить через %3$s</item>
+        <item>Задзвонить через %1$s %3$s</item>
+        <item>Задзвонить через %2$s %3$s</item>
+        <item>Задзвонить через %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Вчора</item>
+        <item>Сьогодні</item>
+        <item>Завтра</item>
+    </string-array>
+</resources>

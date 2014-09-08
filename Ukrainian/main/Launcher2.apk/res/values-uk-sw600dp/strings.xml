@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">Вибір шпалер</string>
+    <string name="wallpaper_chooser_empty">Шпалери недоступні</string>
+    <string name="wallpaper_cancel">Скасування</string>
+</resources>

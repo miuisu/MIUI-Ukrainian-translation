@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Пошук</string>
+    <string name="search_widget">Пошук</string>
+    <string name="remove_from_history">Видалити з історії пошуку</string>
+    <string name="remove_from_history_failed">"Не вдалося видалити об'єкт з історії пошуку"</string>
+    <string name="corpus_selection_heading">Пошук</string>
+    <string name="corpus_label_global">Всі</string>
+    <string name="corpus_label_web">Інтернет</string>
+    <string name="corpus_description_web">Веб-пошук, закладки та історія браузера</string>
+    <string name="corpus_label_apps">Програми</string>
+    <string name="corpus_description_apps">Назви встановлених програм</string>
+    <string name="corpus_hint_apps">Пошук програм</string>
+    <string name="menu_settings">Меню пошуку</string>
+    <string name="search_settings">Налаштування пошуку</string>
+    <string name="google_settings_category_title">Пошук Google</string>
+    <string name="device_settings_category_title">Видалити ярлики</string>
+    <string name="system_search_category_title">Телефон</string>
+    <string name="search_sources">Джерела пошуку</string>
+    <string name="search_sources_summary">Вибрати джерела, за якими буде здійснюватися пошук.</string>
+    <string name="clear_shortcuts">Видалити ярлики пошуку</string>
+    <string name="clear_shortcuts_summary">идалити ярлики недавно вибраних результатів пошуку</string>
+    <string name="clear_shortcuts_prompt">"Всі ярлики для обраних недавно пошукових підказок будуть видалені."\n\n"(Щоб очистити історію браузера, скористайтеся настройками браузера.)"</string>
+    <string name="clear_shortcuts_agree">Видалити ярлики</string>
+    <string name="clear_shortcuts_disagree">Не очищувати ярлики</string>
+    <string name="menu_help">Довідка</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Пошук Google</string>
+    <string name="google_search_hint">Пошук Google</string>
+    <string name="google_search_description">Пошукові підказки Google</string>
+    <string name="voice_search_hint_title">"Спробуйте сказати:"</string>
+    <string name="voice_search_hint_quotation_start">"\""</string>
+    <string name="voice_search_hint_quotation_end">"\""</string>
+</resources>

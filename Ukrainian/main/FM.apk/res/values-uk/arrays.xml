@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ster_mon_entries">
+        <item>Стерео</item>
+        <item>Моно</item>
+    </string-array>
+    <string-array name="sleep_duration_values">
+        <item>15 хв.</item>
+        <item>30 хв.</item>
+        <item>45 хв.</item>
+        <item>1 година</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Всі станції</item>
+        <item>Старі хіти</item>
+        <item>Класика</item>
+        <item>Класичний рок</item>
+		<item>Коледж</item>
+        <item>Країна</item>
+        <item>Надзвичайний стан</item>
+        <item>Аварійний тест</item>
+        <item>Іноземна мова</item>
+        <item>Інформація</item>
+        <item>Джаз</item>
+        <item>Новини</item>
+        <item>Ностальгія</item>
+        <item>Стара музика</item>
+        <item>Приватне</item>
+        <item>Громадське</item>
+        <item>Релігійна музика</item>
+        <item>Релігійні розмови</item>
+        <item>Ритм і блюз</item>
+        <item>Рок</item>
+        <item>Легка музика</item>
+        <item>Легкий рок</item>
+        <item>Легкий ритм і блюз</item>
+        <item>Спорт</item>
+        <item>Розмова</item>
+        <item>Топ 40</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Всі станції</item>
+        <item>Культура</item>
+        <item>Поточні події</item>
+        <item>Дитячі програми</item>
+        <item>Кантрі</item>
+        <item>Документалістика</item>
+        <item>Драма</item>
+        <item>Легка музика</item>
+        <item>Освіта</item>
+        <item>Надзвичайний стан</item>
+        <item>Екстрений тест</item>
+        <item>Фінанси</item>
+        <item>Народна музика</item>
+        <item>Інформація</item>
+        <item>Джаз</item>
+        <item>Легка класика</item>
+        <item>Дозвілля</item>
+        <item>Новини</item>
+        <item>Національна музика</item>
+        <item>Інша музика</item>
+        <item>Старая музыка</item>
+        <item>Дзвінок</item>
+        <item>Поп-музика</item>
+        <item>Релігія</item>
+        <item>Рок</item>
+        <item>Наука</item>
+        <item>Серйозна класика</item>
+        <item>Соціальне питання</item>
+        <item>Спорт </item>
+        <item>Подорожі</item>
+        <item>Різне</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Перейменувати</item>
+         <item>Автовибір</item>
+         <item>Видалити</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+        <item> Північна Америка </item>
+        <item>Європа </item>
+        <item>Японія </item>
+        <item>Японія (Wide) </item>
+        <item>Австралія </item>
+        <item>Австрія </item>
+        <item>Бельгія </item>
+        <item>Бразилія </item>
+        <item>Китай </item>
+        <item>Чехія </item>
+        <item>Данія </item>
+        <item>Фінляндія </item>
+        <item>Франція </item>
+        <item>Німеччина </item>
+        <item>Греція </item>
+        <item>Гонконг </item>
+        <item>Індія</item>
+        <item>Ірландія</item>
+        <item>Італія</item>
+        <item>Корея</item>
+        <item>Мексика</item>
+        <item>Нідерланди</item>
+        <item>Нова Зеландія</item>
+        <item>Норвегія</item>
+        <item>Польща</item>
+        <item>Португалія</item>
+        <item>Росія</item>
+        <item>Сінгапур</item>
+        <item>Словаччина</item>
+        <item>Іспанія</item>
+        <item>Швейцарія</item>
+        <item>Швеція</item>
+        <item>Тайвань</item>
+        <item>Туреччина</item>
+        <item>Великобританія</item>
+        <item>США</item>
+    </string-array>
+    <string-array name="regional_band_summary">
+        <item>North America (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
+        <item>Europe (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Japan (76.0MHz To 90.0MHz In 100 Khz Steps)</item>
+        <item>Japan (Wide) (90.0MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Australia (87.7MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Austria (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Belgium (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Brazil (87.8MHz To 108.0MHz In 200 Khz Step)</item>
+        <item>China (87.0MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Czech (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Denmark (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Finland (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>France (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Germany (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Greece (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Hong Kong (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>India (91.0MHz To 106.4MHz In 100 Khz Steps)</item>
+        <item>Ireland (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Italy (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Korea (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
+        <item>Mexico (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
+        <item>Netherlands (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>New Zealand (88.0MHz To 107.0MHz In 100 Khz Steps)</item>
+        <item>Norway (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Poland (88.0MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Portugal (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Russia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Singapore (88.0MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Slovakia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Spain (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Switzerland (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Sweden (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Taiwan (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Turkey (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>United Kingdom (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>United States (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Отримати поточні параметри станції</item>
+        <item>Отримати параметри станції з повторенням в 20 разів</item>
+        <item>Отримати параметри пошуку станцій</item>
+        <item>Отримати параметри розгортки діапазону</item>
+        <item>Налаштувати пошукові параметри радіо</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Встановити FM RSSI Delta</item>
+        <item>Встановити поріг сигналу</item>
+        <item>RF статистика</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Виберіть опцію</item>
+        <item>Налаштування FM пошуку</item>
+        <item>RF статистика</item>
+    </string-array>
+</resources>

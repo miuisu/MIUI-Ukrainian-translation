@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="in_half_hour">
+        <item quantity="other">Півгодини назад</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Годину назад</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через півгодини</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Годину назад</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Щойно</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Півгодини назад</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Годину назад</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Годину назад</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Щойно</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Півгодини назад</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв .назад</item>
+        <item quantity="one">1 хв. назад</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хв.назад</item>
+        <item quantity="one">1 хв.назад</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">через %d хв.</item>
+        <item quantity="one">через 1 хв.</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d хв.</item>
+        <item quantity="one">через 1 хв.</item>
+    </plurals>
+</resources>

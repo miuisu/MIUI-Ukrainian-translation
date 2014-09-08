@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="listTotalPhoneContacts">
+    <item quantity="one">Контакти з номерами телефону: 1</item>
+    <item quantity="other">Контакти з номерами телефонів: %d</item>
+  </plurals>
+  <plurals name="listTotalAllContacts">
+    <item quantity="one">Контактів: 1</item>
+    <item quantity="other">Контактів: %d</item>
+  </plurals>
+  <plurals name="listFoundAllContacts">
+    <item quantity="one">Знайдено: 1</item>
+    <item quantity="other">Знайдено: %d</item>
+  </plurals>
+  <plurals name="searchFoundContacts">
+    <item quantity="one">Знайдено: 1</item>
+    <item quantity="other">Знайдено: %d</item>
+  </plurals>
+  <plurals name="merge_info">
+    <item quantity="one">"не об'єднаний"</item>
+    <item quantity="other">"об'єднано з декількох джерел (%0$d)"</item>
+  </plurals>
+  <plurals name="num_groups_in_account">
+    <item quantity="one">Груп: 1</item>
+    <item quantity="other">Груп: %0$d</item>
+  </plurals>
+  <plurals name="num_contacts_in_group">
+    <item quantity="one">В групі %2$s %1$d чол.</item>
+    <item quantity="other">В групі %2$s %1$d чол.</item>
+  </plurals>
+  <plurals name="group_list_num_contacts_in_group">
+    <item quantity="one">%1$d чол.</item>
+    <item quantity="other">%1$d чол.</item>
+  </plurals>
+    <plurals name="group_list_num_numbers_in_group">    
+        <item quantity="one">Номерів: %1$d</item>    
+        <item quantity="other">Номерів: %1$d</item>    
+    </plurals>    
+  <plurals name="notification_voicemail_title">
+    <item quantity="one">Голосова пошта</item>
+    <item quantity="other">Голосові повідомлення: %1$d</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Обрані %1$d</item> 
+        <item quantity="zero">Обрано %1$d</item> 
+        <item quantity="one">Обран %1$d</item> 
+    </plurals>
+</resources>

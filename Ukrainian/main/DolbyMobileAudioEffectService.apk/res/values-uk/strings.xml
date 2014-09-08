@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Сервіс аудіоефектів Dolby Mobile</string>
+    <string name="remote_service_started">Віддалена служба запущена</string>
+    <string name="remote_service_stopped">Віддалена служба зупинена</string>
+    <string name="remote_service_label">риклад віддаленої служби</string>
+    <string name="dm_audio_effect_controller">Контрольна панель Dolby Mobile</string>
+    <string name="remote_service_connected">Підключено до віддаленої служби</string>
+    <string name="remote_service_disconnected">Відключено від віддаленої служби</string>
+    <string name="remote_call_failed">Відмова виклику віддаленої служби</string>
+</resources>

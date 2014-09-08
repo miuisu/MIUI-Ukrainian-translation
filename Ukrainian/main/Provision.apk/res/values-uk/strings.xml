@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Далі</string>
+    <string name="continues">Продовжити</string>
+    <string name="shutdown">Вимкнути</string>
+    <string name="other_service_label">Інші сервіси</string>
+    <string name="other_service_location">Визначення місця розташування</string>
+    <string name="other_service_location_summary">Сервіс визначення місця розташування дозволяє карті і іншим програмам отримувати дані про ваше місце розташування по GPS</string>
+    <string name="other_service_user_experience">Програма поліпшення якості</string>
+    <string name="other_service_user_experience_summary0">"При використанні нашого продукту ми сподіваємося, що ви допоможете, забезпечити зворотний зв'язок. Ваші відгуки будуть відправлені згідно з "</string>
+    <string name="other_service_user_experience_summary1">Політика конфіденційності</string>
+    <string name="sim_card_detection_dialog_message">Виявлення SIM-карти. Будь ласка, почекайте.</string>
+    <string name="sim_card_detection_label">SIM карта виявлена</string>
+    <string name="sim_card_detection_info">Ми не можемо налаштувати акаунт Xiaomi без SIM карти. Вам необхідна SIM карта для використання сервісів, як, наприклад, синхронізація контактів, пошук телефону і т.д.</string>
+    <string name="sim_card_detection_status_absent">SIM картка не виявлена​​!</string>
+    <string name="setup_complete_label">Спасибі</string>
+    <string name="setup_complete_info">Після продажу послуга буде активована один раз і ви використовуєте ваш телефон</string>
+    <string name="setup_complete_start">Починайте використовувати ваш телефон!</string>
+    <string name="setup_complete_summary">Налаштування завершено! Насолоджуйтесь MIUI!</string>
+    <string name="traffic_protection_label">Регулювання трафіку</string>
+    <string name="traffic_protection_summary">Регулювання трафіку нагадає вам коли закінчиться трафік на вашому тарифному плані, щоб уникнути перевищення витрат.</string>
+    <string name="traffic_protection_unknown">Я не знаю… Введу пізніше.</string>
+    <string name="traffic_protection_text_hint">Будь ласка, введіть ліміт трафіку.</string>
+    <string name="data_usage_summary">Якщо ви ще не обрали тарифний план, рекомендується вимкнути передачу даних. В іншому випадку оператор може стягувати плату.</string>
+    <string name="use_data">Передача даних включена</string>
+</resources>

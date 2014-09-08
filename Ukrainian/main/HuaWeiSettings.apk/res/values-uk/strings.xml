@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="application_copyright">"Всі права захищені © genokolar@gmail.com 2012
+Відайте http://www.iamgeno.com"</string>
+  <string name="application_version">Geno(Genokolar)</string>
+  <string name="fast_power_on_summary">Включення підвищеного харчування</string>
+  <string name="fast_power_on_title">Швидке завантаження</string>
+  <string name="google">Сервіси Goolge</string>
+  <string name="google_summary">Урізані версії сервісів Google</string>
+  <string name="huawei_settings">Додатково</string>
+  <string name="lite_summary">Урізані версії системних сервісів</string>
+  <string name="lite_title">Оптимізація системи</string>
+  <string name="miui">Сервіси MIUI</string>
+  <string name="miui_summary">Урізані версії сервісів MIUI</string>
+  <string name="network">Мережа/Безпека</string>
+  <string name="network_summary">Урізана версія мережі/Сервісу безпеки</string>
+  <string name="other">Інші</string>
+  <string name="other_summary">Урізані версії інших сервісів</string>
+  <string name="powermanage">Режим живлення</string>
+  <string name="powermanage_summary">Вибір режиму живлення</string>
+  <string name="preferences_application_title">Інформація про автора</string>
+  <string name="project_menu_title">Проектне меню</string>
+  <string name="swap">Файл підкачки (SWAP)</string>
+  <string name="swap_summary">"Використання файлу підкачки для поліпшення продуктивності пам'яті"</string>
+  <string name="vsync">Відзивчивість інтерфейсу</string>
+  <string name="vsync_summary">Прискорення відзивчивості інтерфейсу, для кращого реагування</string>
+</resources>

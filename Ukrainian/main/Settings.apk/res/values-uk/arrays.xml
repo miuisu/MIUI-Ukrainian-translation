@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="timezone_filters">
+	<item>Америка</item>
+	<item>Європа</item>
+	<item>Африка</item>
+	<item>Азія</item>
+	<item>Австралія</item>
+	<item>Тихий океан</item>
+	<item></item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+	<item>15 сек.</item>
+	<item>30 сек.</item>
+	<item>1 хв.</item>
+	<item>2 хв.</item>
+	<item>5 хв.</item>
+	<item>10 хв.</item>
+	<item>30 хв.</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+	<item>Ніколи</item>
+	<item>15 сек.</item>
+	<item>30 сек.</item>
+	<item>1 хв.</item>
+	<item>2 хв.</item>
+	<item>5 хв.</item>
+	<item>10 хв.</item>
+	<item>30 хв.</item>
+  </string-array>
+  <string-array name="lock_after_timeout_entries">
+	<item>Одразу</item>
+	<item>5 сек</item>
+	<item>15 сек</item>
+	<item>30 сек</item>
+	<item>1 хв</item>
+	<item>2 хв</item>
+	<item>5 хвилин</item>
+	<item>10 хв</item>
+	<item>30 хв</item>
+  </string-array>
+  <string-array name="entries_font_size">
+	<item>Дрібний</item>
+	<item>Звичайний</item>
+	<item>Великий</item>
+	<item>Величезний</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+	<item>Дуже повільна</item>
+	<item>Повільна</item>
+	<item>Звичайна</item>
+	<item>Швидка</item>
+	<item>Дуже швидка</item>
+  </string-array>
+  <string-array name="tts_pitch_entries">
+	<item>Дуже низький</item>
+	<item>Низький</item>
+	<item>Звичайний</item>
+	<item>Високий</item>
+	<item>Дуже високий</item>
+  </string-array>
+  <string-array name="wifi_status">
+	<item></item>
+	<item>Пошук…</item>
+	<item>Підключення…</item>
+	<item>Автентифікація…</item>
+	<item>Отримання IP-адреси…</item>
+	<item>Підключено</item>
+	<item>Призупинено</item>
+	<item>Відключення…</item>
+	<item>Немає підключення</item>
+	<item>Помилка</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+	<item></item>
+	<item>Пошук…</item>
+	<item>"З'єднання з мережею %1$s…"</item>
+	<item>Аутентифік. мережі %1$s…</item>
+	<item>Отримання IP-адреси від %1$s…</item>
+	<item>Підключено до %1$s</item>
+	<item>Призупинено</item>
+	<item>Відключення від %1$s…</item>
+	<item>Немає підключення</item>
+	<item>Помилка</item>
+  </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+	<item>Push-кнопка</item>
+	<item>PIN-код з виявленого пристрою</item>
+	<item>PIN-код цього пристрою</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+	<item>Підключено</item>
+	<item>Запрошено</item>
+	<item>Помилка</item>
+	<item>Доступно</item>
+	<item>Поза діапазону</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+	<item>2 хв.</item>
+	<item>5 хв.</item>
+	<item>1 ч.</item>
+	<item>Без тайм-ауту</item>
+  </string-array>
+  <string-array name="wifi_signal">
+	<item>Слабкий</item>
+	<item>Хороший</item>
+	<item>Хороший</item>
+	<item>Відмінний</item>
+  </string-array>
+  <string-array name="wifi_sleep_policy_entries">
+	<item>Завжди</item>
+	<item>Тільки при живленні від мережі</item>
+	<item>Ніколи (збільшує витрату трафіку)</item>
+  </string-array>
+  <string-array name="wifi_sleep_policy_entries_wifi_only">
+	<item>Завжди</item>
+	<item>Тільки при живленні від мережі</item>
+	<item>Ніколи</item>
+  </string-array>
+  <string-array name="wifi_frequency_band_entries">
+	<item>Авто</item>
+	<item>Тільки 5 ГГц</item>
+	<item>Тільки 2,4 ГГц</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+	<item>використання</item>
+	<item>Підрахувати</item>
+	<item>Назва програми</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+	<item>Немає</item>
+	<item>PAP</item>
+	<item>MSCHAP</item>
+	<item>MSCHAPV2</item>
+	<item>GTC</item>
+  </string-array>
+  <string-array name="wifi_network_setup">
+	<item>Викл.</item>
+	<item>Push-кнопка</item>
+	<item>PIN-код точки доступу</item>
+	<item>PIN-код цього пристрою</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+	<item>DHCP</item>
+	<item>Користувальницькі</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+	<item>Немає</item>
+	<item>Вручну</item>
+  </string-array>
+  <string-array name="emergency_tone_entries">
+	<item>Викл.</item>
+	<item>Сповіщення</item>
+	<item>Вібродзвінок</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+	<item>Немає</item>
+	<item>PAP</item>
+	<item>CHAP</item>
+	<item>PAP або CHAP</item>
+  </string-array>
+  <string-array name="bearer_entries">
+	<item>LTE</item>
+	<item>eHRPD</item>
+	<item>Не вказано</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+	<item>"Внутрішня пам'ять пристрою"</item>
+	<item>Знімна карта SD</item>
+	<item>На розсуд системи</item>
+  </string-array>
+  <string-array name="silent_mode_entries">
+	<item>Викл.</item>
+	<item>Вібросигнал</item>
+	<item>Вкл.</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+	<item>Невелика</item>
+	<item>Середня</item>
+	<item>Велика</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+	<item>Ніколи не перевіряти</item>
+	<item>Перевіряти тільки зміст DRM</item>
+	<item>Завжди перевіряти</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+	<item>Не використовувати перевірку HDCP</item>
+	<item>Використовувати перевірку HDCP тільки для утримання DRM</item>
+	<item>Завжди використовувати перевірку HDCP</item>
+  </string-array>
+  <string-array name="window_animation_scale_entries">
+	<item>Анімація викл.</item>
+	<item>Анімація (масштаб: 0,5x)</item>
+	<item>Анімація (масштаб: 1x)</item>
+	<item>Анімація (масштаб: 1,5x)</item>
+	<item>Анімація (масштаб: 2x)</item>
+	<item>Анімація (масштаб: 5x)</item>
+	<item>Анімація (масштаб: 10x)</item>
+  </string-array>
+  <string-array name="transition_animation_scale_entries">
+	<item>Анімація викл.</item>
+	<item>Анімація (масштаб: 0,5x)</item>
+	<item>Анімація (масштаб: 1x)</item>
+	<item>Анімація (масштаб: 1,5x)</item>
+	<item>Анімація (масштаб: 2x)</item>
+	<item>Анімація (масштаб: 5x)</item>
+	<item>Анімація (масштаб: 10x)</item>
+  </string-array>
+  <string-array name="animator_duration_scale_entries">
+	<item>Анімація викл.</item>
+	<item>Анімація (масштаб: 0,5x)</item>
+	<item>Анімація (масштаб: 1x)</item>
+	<item>Анімація (масштаб: 1,5x)</item>
+	<item>Анімація (масштаб: 2x)</item>
+	<item>Анімація (масштаб: 5x)</item>
+	<item>Анімація (масштаб: 10x)</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+	<item>Стандартне обмеження</item>
+	<item>Без фонових процесів</item>
+	<item>Не більше одного процесу</item>
+	<item>Не більше 2 процесів</item>
+	<item>Не більше 3 процесів</item>
+	<item>Не більше 4 процесів</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+	<item>"VPN-з'єднання по протоколу PPTP"</item>
+	<item>"VPN-з'єднання по протоколу L2TP/IPSec із загальними ключами"</item>
+	<item>VPN-підключення по протоколу L2TP/IPSec з використанням сертифікатів</item>
+	<item>VPN IPSec із загальними ключами і аутентифікацією Xauth</item>
+	<item>VPN IPSec з використанням сертифікатів і аутентифікації Xauth</item>
+	<item>VPN IPSec з використанням сертифікатів та комбінованої аутентифікації</item>
+  </string-array>
+  <string-array name="vpn_states">
+	<item>Вимкнено</item>
+	<item>Ініціалізація…</item>
+	<item>Підключення…</item>
+	<item>Підключена</item>
+	<item>Час вичерпано</item>
+	<item>Помилка</item>
+  </string-array>
+  <string-array name="user_content_ratings_entries">
+	<item>Вищий розум</item>
+	<item>Людина</item>
+	<item>Неандерталець</item>
+	<item>Шимпанзе</item>
+	<item>Мавпа</item>
+  </string-array>
+  <string-array name="haptic_feedback_level_entries">
+	<item>Слабкий</item>
+	<item>Середній</item>
+	<item>Сильний</item>
+  </string-array>
+  <string-array name="battery_indicator_style_entries">
+	<item>Графічний</item>
+	<item>Відсотки</item>
+	<item>Лінія зверху</item>
+  </string-array>
+  <string-array name="usb_connection_mode_entries">
+	<item>Запитати при підключенні</item>
+	<item>Тільки зарядка</item>
+	<item>Накопичувач</item>
+  </string-array>
+  <string-array name="led_freq_entries">
+	<item>2 сек.</item>
+	<item>3 сек.</item>
+	<item>4 сек.</item>
+	<item>5 сек.</item>
+	<item>6 сек.</item>
+	<item>7 сек.</item>
+	<item>8 сек.</item>
+	<item>9 сек.</item>
+  </string-array>
+  <string-array name="led_color_entries">
+	<item>Синій</item>
+	<item>Червоний</item>
+	<item>Зелений</item>
+	<item>Жовтий</item>
+	<item>Блакитний</item>
+	<item>Фіолетовий</item>
+	<item>Рожевий</item>
+	<item>Помаранчевий</item>
+  </string-array>
+  <string-array name="led_color_entries_for_mione">
+	<item>Синій</item>
+	<item>Червоний</item>
+	<item>Зелений</item>
+	<item>Рожевий</item>
+	<item>Фіолетовий</item>
+	<item>Пурпурний</item>
+	<item>Смарагдовий</item>
+	<item>Блакитний</item>
+	<item>Сапфір</item>
+  </string-array>
+  <string-array name="back_long_press_timeout">
+	<item>0.5 сек.</item>
+	<item>1 сек.</item>
+	<item>1.5 сек.</item>
+	<item>2 сек.</item>
+  </string-array>
+  <string-array name="button_light_timeout_entries">
+	<item>1 сек.</item>
+	<item>2 сек.</item>
+	<item>5 сек.</item>
+	<item>10 сек.</item>
+	<item>20 сек.</item>
+	<item>Завжди</item>
+  </string-array>
+  <string-array name="entries_dolby_control">
+	<item>Немає</item>
+	<item>Музика</item>
+	<item>Кіно</item>
+  </string-array>
+  <string-array name="wfd_status">
+	<item>Пристрій підключено, створення сесії…</item>
+	<item>Сесія створена</item>
+	<item>Сесія обірвана…</item>
+	<item>Сесія не створена</item>
+	<item>Минув час очікування, повтор…</item>
+	<item>Пристрій підключено</item>
+  </string-array>
+  <string-array name="power_mode_entries">
+	<item>Продуктивність</item>
+	<item>Нормальний</item>
+	<item>Енергозбереження</item>
+  </string-array>
+  <string-array name="msd_pc_system_install_start_summary">
+	<item>Для Windows XP або версій старіше,\пдрайвер слід встановити вручну</item>
+	<item>"Для Windows Vista або новіших версій,\пмузыкальный програвач MI 2 з'явиться на вашому комп'ютері автоматично"</item>
+	<item>Для Mac OS X,\пдрайвер слід встановити вручну</item>
+	<item></item>
+  </string-array>
+  <string-array name="msd_pc_system_install_step_1_summary">
+	<item>"(будь Ласка проігноруйте спливаюче собщение установника)\пУстройство зберігання Xiaomi з'явиться на ващем комп'ютері\пОткройте його та виберіть для установки Setup.exe"</item>
+	<item></item>
+	<item>"Пристрій зберігання Xiaomi з'явиться на ващем комп'ютері\пОткройте та виберіть для установки AndroidFileTransfer.dmg"</item>
+	<item></item>
+  </string-array>
+  <string-array name="msd_pc_system_install_step_2_summary">
+	<item>"2.Память телефону MI 2 автоматично з'явиться на вашому комп'ютері\пТеперь ви можете переносити файли"</item>
+	<item></item>
+	<item>"Комп'ютер автоматично відкриє і прочитає дані телефону\пТеперь ви можете переміщати файли"</item>
+	<item></item>
+  </string-array>
+  <string-array name="msd_pc_system_install_finish_summary">
+	<item>"Якщо ви встановите цей драйвер\ппамять телефону MI 2 з'явиться на комп'ютері"</item>
+	<item>"В Windows Vista або новіші версії,\пмузыкальный програвач MI 2 з'явиться на вашому комп'ютері автоматично"</item>
+	<item>"Якщо ви встановите цей драйвер\пкомпьютер автоматично відкриє і прочитає пам'ять телефону"</item>
+	<item></item>
+  </string-array>
+  <string-array name="msd_install_status">
+	<item>Установка драйвера</item>
+	<item>Драйвер вже встановлено</item>
+  </string-array>
+  <string-array name="screen_color_title">
+	<item>Тепла</item>
+	<item>Натуральна</item>
+	<item>Холодна</item>
+  </string-array>
+  <string-array name="screen_saturation_title">
+	<item>Яскравий</item>
+	<item>Стандарт</item>
+  </string-array>
+</resources>

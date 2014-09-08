@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equalizer_presents">
+        <item>Стандартна</item>
+        <item>Класична</item>
+        <item>Танцювальна</item>
+        <item>Легка</item>
+        <item>Важкий метал</item>
+        <item>Хіп-хоп</item>
+        <item>Джаз</item>
+        <item>Поп</item>
+        <item>Рок</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 тиждень</item>
+        <item>2 тижні</item>
+        <item>3 тижні</item>
+        <item>4 тижні</item>
+        <item>5 тижнів</item>
+        <item>6 тижнів</item>
+        <item>7 тижнів</item>
+        <item>8 тижнів</item>
+        <item>9 тижнів</item>
+        <item>10 тижнів</item>
+        <item>11 тижнів</item>
+        <item>12 тижнів</item>
+    </string-array>
+</resources>

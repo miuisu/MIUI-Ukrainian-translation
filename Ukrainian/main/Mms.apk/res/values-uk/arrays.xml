@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="default_smiley_names">
+    <item>Радість</item>
+    <item>Cумний</item>
+    <item>Підморгує</item>
+    <item>Показує мову</item>
+    <item>Здивований</item>
+    <item>Поцілунок</item>
+    <item>Кричить</item>
+    <item>Крутий</item>
+    <item>Не базікай даремно</item>
+    <item>У замішанні</item>
+    <item>Збентеження</item>
+    <item>Ангел</item>
+    <item>Нерішучий</item>
+    <item>Плаче</item>
+    <item>Не скажу</item>
+    <item>Сміх</item>
+    <item>Спантеличений</item>
+    <item>Серце</item>
+    <item>Злий</item>
+    <item>Посмішка</item>
+    <item>Незворушність</item>
+  </string-array>
+  <string-array name="entries_date_type">
+        <item>Показувати час отримання</item>
+        <item>Показувати час відправки (Час сервера)</item>
+  </string-array>
+  <string-array name="prefEntries_ringtone_repeat">
+        <item>1 раз</item>
+        <item>2 рази</item>
+        <item>3 рази</item>
+        <item>5 раз</item>
+        <item>10 раз</item>
+  </string-array>
+  <string-array name="contact_entries">
+        <item>"Ім'я"</item>
+        <item>Нік</item>
+        <item>Телефон</item>
+        <item>E-mail</item>
+        <item>Компанія</item>
+        <item>IM</item>
+        <item>Інтернет номер</item>
+        <item>День народження</item>
+        <item>Веб-сайт</item>
+        <item>Адреса</item>
+        <item>Примітки</item>
+  </string-array>
+  <string-array name="resent_via_entries">
+        <item>Через повідомлення</item>
+        <item>Через хмарні повідомлення</item>
+  </string-array>
+  <string-array name="select_dialog_items">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Інше</item>
+  </string-array>
+  <string-array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>Тільки в беззвуч.режіме</item>
+        <item>Ніколи</item>
+  </string-array>
+</resources>

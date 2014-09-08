@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бекап</string>
+    <string name="local_app_name">Бекап</string>
+    <string name="local_home_title">Локальний бекап</string>
+    <string name="button_backup">Бекап</string>
+    <string name="start_backup">Розпочати</string>
+    <string name="button_cancel">Скасувати</string>
+    <string name="backup_empty">Файли бекапів відсутні</string>
+    <string name="backup_items_sysdata_tailer">" Системні файли"</string>
+    <string name="backup_items_app_tailer">" Додатки"</string>
+    <string name="backup_failed">Помилка резервного копіювання. Спробуйте ще раз.</string>
+    <string name="backup_recently">" (Latest)"</string>
+    <string name="sdcard_unmounted">SD карту не знайдено чи відключено!</string>
+    <string name="backup_progress">Створення РК…</string>
+    <string name="button_ok">OK</string>
+    <string name="backup_finished">Бекап завершено</string>
+    <string name="backup_report">Звіт</string>
+    <string name="backup_hint">Не вимикайте телефон, це пошкодить дані.</string>
+    <string name="menu_patch_delete">Видалити РК</string>
+    <string name="delete">Видалити</string>
+    <string name="cancel">Скасувати</string>
+    <string name="delete_backup_process">Видалення, зачекайте…</string>
+    <string name="backup_error">Помилки бекапа</string>
+    <string name="delete_failed_backup_confirm">Файл резервної копії містить помилки, і не може бути використаний для відновлення</string>
+    <string name="batch_delete_backup_confirm">Ви впевнені, що хочете видалити обраний(і) бекап(и)?</string>
+    <string name="start_restore">Відновити</string>
+    <string name="backup_file_error">Проблеми з бекапом, відновлення перервано</string>
+    <string name="unit_byte">\u0020байт</string>
+    <string name="unit_piece">\u0020одиниць"</string>
+    <string name="restore_finished">Відновлення завершене</string>
+    <string name="restore_report">Журнал відновлення</string>
+    <string name="restore_progress">Відновлення…</string>
+    <string name="restore_contacts_hit">(Примітка: для відновлення контактів необхідно вручну додати оригінальний акаунт)</string>
+    <string name="restore_telephony_hit">(Примітка: процесс відновлення перезавантажить додаток Телефон)</string>
+    <string name="restore_launcher_layout_hit">(Примітка: відновлення налаштувань стільниці)</string>
+    <string name="settings_summary">РК налаштувань телефону і повідомлень</string>
+    <string name="account_summary">РК акаунтів Gmail, E-mail і Xiaomi</string>
+    <string name="cloud_app_name">Хмарний бекап</string>
+    <string name="cloud_home_title">Хмарина</string>
+    <string name="prompt_reading">Читання…</string>
+    <string name="prompt_sending">Завантаження…</string>
+    <string name="prompt_writing">Збереження…</string>
+    <string name="backup_new">Новий:</string>
+    <string name="backup_update">Оновлено</string>
+    <string name="backup_delete">Видалити:</string>
+    <string name="findlost_contact">Відновити видалені контакти</string>
+    <string name="findlost_contact_online">Відновити видалені контакти з хмари</string>
+    <string name="cloud_backup_login">Увійти через акаунт Xiaomi</string>
+    <string name="cloud_backup_hint">Авторизація для безпеки збереження резервних копій</string>
+    <string name="cloud_backup_window_title">Хмарний бекап</string>
+    <string name="cloud_restore_window_title">Хмарне відновлення</string>
+    <string name="cloud_restore_title">Відновити з резервної копії</string>
+    <string name="local_backup_window_title">Локальний бекап</string>
+    <string name="local_restore_window_title">Локальне відновлення</string>
+    <string name="account_login">Увійти</string>
+    <string name="miliao_account_login">Вхід в MiTalk</string>
+    <string name="miliao_account_guide">"Обліковий запис MiTalk заменений на Xiaomi
+ Насоложуйтесь всіма онлайн послугами Xiaomi"</string>
+    <string name="auto_backup">Авто-бекап</string>
+    <string name="contact_title">Контакти</string>
+    <string name="call_title">Журнал викликів</string>
+    <string name="sms_title">Повідомлення</string>
+    <string name="mms_title">Мультимедійні повідомлення</string>
+    <string name="wifi_title">Налаштування Wi-Fi</string>
+    <string name="note_title">Замітки</string>
+    <string name="compute_backup_info">Запит резервної копії</string>
+    <string name="compute_delete_contact_info">Пошук контактів…</string>
+    <string name="unknown_hint">Невідомо</string>
+    <string name="task_progress">Прогрес</string>
+    <string name="task_pending">Очікування</string>
+    <string name="task_pre_running">Підготовка</string>
+    <string name="task_post_running">Пост-обробка</string>
+    <string name="task_finished">Завершено</string>
+    <string name="task_canceled">Скасовано</string>
+    <string name="task_failed">Помилка</string>
+    <string name="task_canceled_local">Наступні завдання скасовано</string>
+    <string name="task_canceled_all_local">Скасувати завдання</string>
+    <string name="task_failed_local">Завдання не завершене</string>
+    <string name="task_failed_all_local">Завдання не завершені</string>
+    <string name="task_backup_finished_local">Бекап завершений</string>
+    <string name="task_restore_finished_local">Відновлення завершене</string>
+    <string name="task_restore_none">Відновлення не потрібне</string>
+    <string name="task_stopped_exception">Завдання скасовано</string>
+    <string name="sdcard_no_enough_space">Недостатньо вільного місця на SD карті</string>
+    <string name="sdcard_no_enough_space_message">Можливий збій резервного копіювання, звільніть пам\'ять і спробуйте ще раз</string>
+    <string name="data_no_enough_space">Недостатньо вільного місця</string>
+    <string name="data_no_enough_space_message">Можливий збій резервного копіювання, звільніть пам\'ять і спробуйте ще раз</string>
+    <string name="task_running_hint">Служба працює у фоні. Спробуйте ще раз відновити</string>
+    <string name="task_running_dialog">Резервне копіювання і відновлення працюють у фоні, щоб побачити його, натисніть ОК</string>
+    <string name="task_service_not_launched">Сервіс не запущений, чекайте…</string>
+    <string name="task_local_backup_cancel_dialog">"Резервне копіювання не завершене
+Натисніть ОК, для скасування"</string>
+    <string name="task_cloud_backup_cancel_dialog">"Резервне копіювання не завершене
+Натисніть ОК, для скасування"</string>
+    <string name="task_restore_cancel_dialog">"Відновлення не завершене
+скасування відновлення може призвести до пошкодження даних"</string>
+    <string name="task_backup_cancel_progress">Скасування…</string>
+    <string name="task_restore_cancel_progress">Скасування…</string>
+    <string name="nothing_searched">Нічого не знайдено</string>
+    <string name="restore_counts">Відновлення:</string>
+    <string name="service_stoped">Сервіс призупинено</string>
+    <string name="sc_network_unavailable">Помилка з\'єднанняя з мережею</string>
+    <string name="sc_bad_request">Неправильний запит</string>
+    <string name="sc_unaccess_password_file">"Не зберігати паролі Wi-Fi"</string>
+    <string name="sc_service_unavailable">Хмарний сервіс не запущено</string>
+    <string name="sc_unauthorized">Неправильні дані. Увійдіть ще раз</string>
+    <string name="sc_request_timeout">Минув час очікування</string>
+    <string name="sc_precondition_failed">Ваш Xiaomi акаунт не пов\'язаний ні з однією адресою эл. пошти</string>
+    <string name="sc_internal_server_error">Помилка сервера</string>
+    <string name="sc_others">Виключення програми</string>
+    <string name="succeed">Завершено</string>
+    <string name="fail">Не вдалося</string>
+    <string name="button_return">Назад</string>
+    <string name="button_next">Далі</string>
+    <string name="button_finish">Готово</string>
+    <string name="progress_backup_hint">Бекап…</string>
+    <string name="cancel_backup">Перервати</string>
+    <string name="restore_contact">Відновити контакти</string>
+    <string name="restore_contact_content">"ідновлення контактів може призвести до дублювання контактів, ви впевнені, що хочете це зробити?
+ Примітка: потім можна виконати злиття дублікатів контактів у списку"</string>
+    <string name="progress_restore_hint">Відновлення…</string>
+    <string name="cancel_restore">Скасувати відновлення</string>
+    <string name="local_select_sysdata">Система %s</string>
+    <string name="local_select_userapp">Додатки %s</string>
+    <string name="local_no_backup">Відсутні локальні РК</string>
+    <string name="auto_backup_setting">Налаштування авто-бекапа</string>
+    <string name="auto_backup_open">Включити авто-бекап</string>
+    <string name="auto_backup_only_wifi">Авто-бекап тільки по Wi-Fi</string>
+    <string name="auto_backup_date">Періодичність (днів)</string>
+    <string name="auto_backup_time">Запланувати бекап</string>
+    <string name="auto_backup_choose_title">Обрати дані</string>
+    <string name="auto_backup_choose">Бекап даних</string>
+    <string name="auto_backup_choose_empty">Відсутні РК</string>
+    <string name="auto_backup_progress">Виконується авто-бекап, зачекайте…</string>
+    <string name="backup">Бекап</string>
+    <string name="restore">Відновити</string>
+    <string name="cloud_last_backup">Остання РК:</string>
+    <string name="cloud_search">Пошук хмари…</string>
+    <string name="cloud_no_backup">Відсутні хмарні бекапи</string>
+    <string name="current_account">Увійти як: %s</string>
+    <string name="current_sim">Поточна SIM</string>
+    <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
+    <string name="no_network">"Помилка мережі
+ Перевірте налаштування підключення і спробуйте ще раз"</string>
+    <string name="retry">Повторити</string>
+    <string name="select_all">Виділити усе</string>
+    <string name="reverse_all">Очистити усе</string>
+    <string name="refresh">Оновити</string>
+    <string name="cloud_item_info_summary">\u0020(Лок.: %1$s | Онл.: %2$s)</string>
+    <string name="total_num">Всього записів %d</string>
+    <string name="cloud_restore_guide">"Натисніть Відновити, для відновлення
+ Ви також можете відновити %s з Бекап"</string>
+    <string name="import_from_xiaomi_account_hint1">"1.\tЗапустіть телефон з контактами
+
+2.\tВстановіть MiTalk і увійдіть в систему.
+\u0009http://www.miliao.com
+
+3.\tУвійдіть в налаштування MiTalk і виберіть ”Резервне копіювання контактів на акаунт Xiaomi”</string>
+    <string name="import_from_xiaomi_account_hint2">Примітка: Перейдіть до наступного кроку якщо резервна копія вже існує</string>
+    <string name="import_from_xiaomi_account_hint_title">Використовуйте MiTalk для резервного копіювання контактів і на інших пристроях, не тільки MI-ONE</string>
+    <string name="guarded_mode_dialog_title">Безпечний режим</string>
+    <string name="guarded_mode_dialog_message">Виконання операції неможливе</string>
+    <string name="multi_select_title">Обрано %1$s елементів</string>
+    <string name="enable_encrypt_title">Шифрування ввімкнено</string>
+    <string name="disable_encrypt_title">Шифрування вимкнено</string>
+    <string name="enable_encrypt_indicator">РК не зашифрована, натисніть для шифрування</string>
+    <string name="enable_encrypt">Ввімкнути зараз</string>
+    <string name="already_enable_encrypt">Шифрування ввімкнено</string>
+    <string name="enable_encrypt_summery1">"Система буде шифровати ваші РК у вашому акаунті Xiaomi 
+ Вам необхідно увійти у свій акаунт Xiaomi з іншого телефону для видалення ввідновлення РК"</string>
+    <string name="enable_encrypt_summery2">"Нова РК буде автоматично зашифрована 
+ Увійдіть у свій акаунт Xiaomi для скидання, і використовуйте другий телефон для відновлення"</string>
+    <string name="enable_encrypt_xiaomi_account">РК створено %1$s, видаліть поточний акаунт, і увійдіть як %2$s для відновлення даних.</string>
+    <string name="enable_encrypt_ok">OK</string>
+    <string name="no_encrypt_password">Відсутній пароль для шифрування</string>
+    <string name="enable_encrypt_fail">Помилка включення шифрування</string>
+    <string name="read_encrypt_fail">Помилка читання шифрування</string>
+    <string name="exchange_account">Валютний рахунок</string>
+</resources>

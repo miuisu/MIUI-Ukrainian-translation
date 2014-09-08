@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Класичний</item>
+        <item>Класичний (Без ефектів)</item>
+        <item>Згасання</item>
+        <item>Перекочування</item>
+        <item>Сторінки</item>
+        <item>Каскад</item>
+        <item>Поворот</item>
+        <item>3D куб</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Від теми</item>
+        <item>Центр</item>
+        <item>Ліво</item>
+        <item>Право</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>За замовчуванням</item>
+        <item>Класика</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Сонячно</item>
+        <item>Хмарно</item>
+        <item>Хмарно</item>
+        <item>Туман</item>
+        <item>Сильний дощ</item>
+        <item>Злива</item>
+        <item>Злива з ураганом</item>
+        <item>Місцями грози</item>
+        <item>Зливи</item>
+        <item>Сильний дощ</item>
+        <item>Помірний дощ</item>
+        <item>Невеликий дощ</item>
+        <item>Дощ зі снігом</item>
+        <item>Заметіль</item>
+        <item>Зливи зі снігом</item>
+        <item>Сильний снігопад</item>
+        <item>Помірний сніг</item>
+        <item>Слабкий сніг</item>
+        <item>Сильна пилова буря</item>
+        <item>Пилова буря</item>
+        <item>Пил</item>
+        <item>Піщана буря</item>
+        <item>Град</item>
+        <item>Бруд</item>
+    </string-array>
+</resources>

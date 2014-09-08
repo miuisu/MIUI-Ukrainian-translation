@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Служба NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="inbound_me_profile_title">Дані контакту отримані по NFC</string>
+    <string name="inbound_me_profile_text">Натисніть, щоб додати новий контакт</string>
+    <string name="outbound_me_profile_title">Обмін даними по NFC завершено</string>
+    <string name="outbound_me_profile_text">Натисніть, щоб передати свої контактні дані</string>
+    <string name="accessibility_nfc_enabled">Служба NFC увімкнена</string>
+    <string name="touch">Натисніть, щоб передати дані</string>
+</resources>

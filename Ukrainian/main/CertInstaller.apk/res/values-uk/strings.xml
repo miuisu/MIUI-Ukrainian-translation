@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Програма встановлення сертифікату</string>
+    <string name="pick_file_title">Виберіть сертифікат</string>
+    <string name="pkcs12_password_dialog_title">Видобування сертифіката</string>
+    <string name="extracting_pkcs12">Видобування…</string>
+    <string name="pkcs12_file_password_dialog_title">Видобування з %s</string>
+    <string name="name_credential_dialog_title">Вкажіть назву сертифікату</string>
+    <string name="credential_name">Назва сертифікату:</string>
+    <string name="credential_password">Введіть пароль для видобування сертифікатів.</string>
+    <string name="credential_info">Пакет містить:</string>
+    <string name="p12_description">Сертифікат знаходиться у сховищі ключів PKCS12.</string>
+    <string name="one_userkey">один ключ користувача</string>
+    <string name="one_usercrt">один користувацький сертифікат</string>
+    <string name="one_cacrt">один сертифікат центру сертифікації</string>
+    <string name="n_cacrts">Сертифікатів центру сертифікації: %d</string>
+    <string name="one_wapi_ascrt">один WAPI AS сертифікат</string>
+    <string name="one_wapi_usercrt">один WAPI user сертифікат</string>
+    <string name="password_error">Введіть правильний пароль.</string>
+    <string name="password_empty_error">Введіть пароль.</string>
+    <string name="name_empty_error">Введіть назву.</string>
+    <string name="name_char_error">Ім\'я має складатися з літер і цифр.</string>
+    <string name="storage_error">Не вдається зберегти сертифікат. Натисніть ОК і спробуйте знову.</string>
+    <string name="unable_to_save_cert">Не вдається зберегти сертифікат. Сховище реєстраційних даних не ввімкнене або некоректно ініціалізоване.</string>
+    <string name="cert_not_saved">Сертифікат не встановлено.</string>
+    <string name="no_cert_to_saved">Відсутній сертифікат для встановлення.</string>
+    <string name="invalid_cert">Сертифікат не дійсний.</string>
+    <string name="cert_is_added">%s встановлений.</string>
+    <string name="cert_too_large_error">Встановлення не вдалося. Розмір сертифіката надто великий.</string>
+    <string name="cert_missing_error">Встановлення завершилося з помилкою. Не вдається знайти файл сертифіката.</string>
+    <string name="cert_read_error">Встановлення завершилося з помилкою. Не вдається прочитати файл сертифіката.</string>
+    <string name="no_cert_file_found">На USB-накопичувачі відсутній файл сертифіката.</string>
+    <string name="no_cert_file_found_sd">На SD-карті відсутній файл сертифіката.</string>
+    <string name="sdcard_not_present">USB-накопичувач недоступний.</string>
+    <string name="sdcard_not_present_sd">SD-карта відсутня.</string>
+</resources>

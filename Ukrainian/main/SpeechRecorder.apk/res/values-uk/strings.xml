@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Запис мови</string>
+    <string name="speechrecorderlabel">Запис мови</string>
+    <string name="recordButton">Запис</string>
+    <string name="redoButton">Перезаписати</string>
+</resources>

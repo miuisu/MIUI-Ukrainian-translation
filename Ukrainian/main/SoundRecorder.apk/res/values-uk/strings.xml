@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диктофон</string>
+    <string name="recording">Запис</string>
+    <string name="recording_stopped">Запис зупынен</string>
+    <string name="storage_is_full">"Пам'ять заповнена"</string>
+    <string name="max_length_reached">Досягнута максимальна довжина</string>
+    <string name="insert_sd_card">Підключіть SD-карту</string>
+    <string name="button_ok">ОК</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">гггг-ММ-дд ЧЧ:мм:сс</string>
+    <string name="audio_db_artist_name">Ваші записи</string>
+    <string name="audio_db_album_name">Аудіозаписи</string>
+    <string name="audio_db_playlist_name">Мої записи</string>
+    <string name="error_sdcard_access">Не вдалося отримати доступ до SD-карти</string>
+    <string name="error_app_internal">Внутрішня помилка програми</string>
+    <string name="error_mediadb_new_record">Не вдалося зберегти аудіозапис</string>
+    <string name="default_record_name">без імені</string>
+    <string name="menu_view_record_list">Список записів</string>
+    <string name="menu_setting">Налаштування</string>
+    <string name="delete_dialog_message">Видалити запис?</string>
+    <string name="overwrite_dialog_message">%s вже існує. Перезаписати?</string>
+    <string name="preferences_title">Налаштування</string>
+    <string name="pref_title_record_type">Тип файлу</string>
+    <string name="prefDialogTitle_recordType">Будь ласка, виберіть тип файлу</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">Висока якість</string>
+    <string name="pref_summary_enable_high_quality">Аудіо з високою якістю буде більшого розміру</string>
+    <string name="pref_title_enable_sound_effect">Звукові ефекти</string>
+    <string name="pref_summary_enable_sound_effect">Використовувати звукові ефекти при зміні стану диктофона</string>
+    <string name="notification_recording">Запис…</string>
+    <string name="notification_playback">Відтворення…</string>
+    <string name="notification_playback_paused">Відтворення призупинено…</string>
+    <string name="notification_stopped">Запис зупинен</string>
+    <string name="notification_warning">"Мало пам'яті (залишилося менше %d хвилин)…"</string>
+    <string name="record_list">Список записів</string>
+    <string name="sd_card_not_available">SD-карта недоступна</string>
+    <string name="call_record">Записи дзівнків(%d)</string>
+    <string name="fm_record">Запис FM радіо(%d)</string>
+    <string name="open_file_explorer">Відкрити файл-менеджер</string>
+    <string name="no_file">Немає записів</string>
+    <string name="mark_now">(поточна)</string>
+    <string name="second">%d сек.</string>
+    <string name="minute">%d хв.</string>
+    <string name="hour">%d г.</string>
+    <string name="call_record_or">або</string>
+    <string name="dialog_play">Відтворити</string>
+    <string name="dialog_send">Відправити</string>
+    <string name="dialog_delete">Видалити</string>
+    <string name="dialog_warning">Небезпека</string>
+    <string name="alert_message_delete_record">Ви хочете видалити вибраний запис?</string>
+    <string name="unknown_caller">Невідомий номер</string>
+    <string name="record_saving">Збереження запису. Почекайте, будь ласка.</string>
+    <string name="preparing_playback">Завантаження запису. Почекайте, будь ласка.</string>
+    <string name="loading_duration">Завантажується тривалість…</string>
+</resources>

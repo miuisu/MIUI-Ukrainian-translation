@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Відео</string>
+    <string name="vp_VideoView_error_text_invalid_progressive_playback">Вибачте, відео не підтримуються</string>
+    <string name="vp_VideoView_error_text_unknown">Неможливо відтворити відео</string>
+    <string name="vp_VideoView_error_title">Неможливо відтворити відео</string>
+    <string name="vp_VideoView_error_button">Ок</string>
+    <string name="menu_item_media_info_label">Інформація про відео</string>
+    <string name="menu_item_hide_media_info_label">Сховати інформацію про відео</string>
+    <string name="menu_item_switch_width_height_label">Співвідношення сторін</string>
+    <string name="menu_item_about_label">Про програму</string>
+    <string name="about_title">Про програму</string>
+    <string name="menu_wh_item_auto_select_label">Автовибір</string>
+    <string name="menu_wh_item_full_screen_label">На весь екран</string>
+    <string name="menu_wh_item_adapt_width_label">Вмістити по ширині</string>
+    <string name="menu_wh_item_adapt_height_label">Вмістити по висоті</string>
+    <string name="menu_wh_item_using_16_9_label">Примусово 16:9</string>
+    <string name="menu_wh_item_using_4_3_label">Примусово 4:3</string>
+    <string name="video_info_length_label">Тривалість:</string>
+    <string name="video_info_resolution_label">Дозвіл:</string>
+    <string name="video_info_video_coding_label">Відео кодек:</string>
+    <string name="video_info_audio_coding_label">Аудіо кодек:</string>
+    <string name="video_info_audio_bitrate_label">Бітрейт аудіо:</string>
+    <string name="video_info_audio_null">Ні</string>
+    <string name="video_info_frame_rate_label">Частота кадрів:</string>
+    <string name="airkan_control_device_des">Ви не можете управляти відтворенням нижніми кнопками</string>
+    <string name="airkan_device_xiaomi_phone">Xiaomi Phone</string>
+    <string name="toast_back_key_pressed_notice">Натисніть ще раз НАЗАД для виходу</string>
+    <string name="adjust_position_prev_media_notice">Попередній</string>
+    <string name="adjust_position_next_media_notice">Наступний</string>
+    <string name="loading_video_netplay_label">Завантаження…</string>
+    <string name="buffering">Буферизація…</string>
+    <string name="airkan_video_playing_in">Відео в реальному часі</string>
+    <string name="airkan_video_playing">Трансляція</string>
+    <string name="menu_item_orientation_auto_sensor_action">Увімкнути автоматичний поворот</string>
+    <string name="menu_item_orientation_fixed_by_videosize_action">Відключити автоматичний поворот</string>
+    <string name="menu_item_screen_shot">Скріншот</string>
+    <string name="menu_item_sub_title">Субтитри</string>
+    <string name="toast_message_continue_play_from">Відтворити с&#160;</string>
+    <string name="toast_message_continue_play_hour">ч&#160;</string>
+    <string name="toast_message_continue_play_minute">м&#160;</string>
+    <string name="toast_message_continue_play_second_and_play">с</string>
+    <string name="temp_play_history_button_label">Показати історію плеєра</string>
+    <string name="vp_VideoView_error_network_not_available">"З'єднання відсутнє"</string>
+</resources>

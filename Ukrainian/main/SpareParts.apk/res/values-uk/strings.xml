@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Spare Parts</string>
+    <string name="device_info_title">Інформація про пристрій</string>
+    <string name="title_battery_history">Історія батареї</string>
+    <string name="summary_battery_history">Інформація про використання батареї</string>
+    <string name="title_battery_information">Інформація про батарею</string>
+    <string name="summary_battery_information">Поточний статус батареї</string>
+    <string name="title_usage_statistics">Статистика використання</string>
+    <string name="summary_usage_statistics">Сумарна інформація використання програм</string>
+    <string name="general_title">Головна</string>
+    <string name="title_window_animations">Анімація вікон</string>
+    <string name="summary_window_animations">Швидкість анімації в окремих вікнах</string>
+    <string name="dialog_title_window_animations">Виберіть швидкість вікон</string>
+    <string name="title_transition_animations">Перехід анімації</string>
+    <string name="summary_transition_animations">Швидкість анімації переміщення між екранами</string>
+    <string name="dialog_title_transition_animations">Виберіть швидкість переходу</string>
+    <string name="title_fancy_ime_animations">Нестандартна анімація входу</string>
+    <string name="summary_on_fancy_ime_animations">Використання аматорської анімації для методу введення вікна</string>
+    <string name="summary_off_fancy_ime_animations">Використання звичайної анімації для методу введення вікна</string>
+    <string name="title_haptic_feedback">Вібрування</string>
+    <string name="summary_on_haptic_feedback">Використовувати вібрування</string>
+    <string name="summary_off_haptic_feedback">Не використовувати вібрування</string>
+    <string name="title_font_size">Розмір шрифту</string>
+    <string name="summary_font_size">Загальний розмір шрифту</string>
+    <string name="dialog_title_font_size">Виберіть розмір шрифту</string>
+    <string name="title_end_button">Поведінка червоної кнопки</string>
+    <string name="summary_end_button">Виберіть дію для червоної кнопки</string>
+    <string name="dialog_title_end_button">Вибрати червону кнопку</string>
+    <string name="applications_title">Програми</string>
+    <string name="compatibility_mode_title">Режим сумісності</string>
+    <string name="compatibility_mode_summary_on">Запустити старі програми в режимі сумісності. Вимагає перезавантаження</string>
+    <string name="compatibility_mode_summary_off">Не запускати старі програми в режимі сумісності. Вимагає перезавантаження</string>
+</resources>

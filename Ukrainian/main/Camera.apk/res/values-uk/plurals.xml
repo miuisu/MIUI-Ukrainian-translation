@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Видалити вибране?</item>
+        <item quantity="one">Видалити вибране?</item>
+    </plurals>
+</resources>
