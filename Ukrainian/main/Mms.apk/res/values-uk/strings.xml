@@ -589,4 +589,6 @@
      <string name="file_title">Ім\'я:</string>
      <string name="file_width_height">Розмір:</string>
      <string name="share_img">Надіслати</string>
+	 <string name="mx_on_sim_1">Хмарні повідомлення на SIM %s</string>
+     <string name="mx_on_sim_2">Хмарні повідомлення на SIM %s</string>
 </resources>

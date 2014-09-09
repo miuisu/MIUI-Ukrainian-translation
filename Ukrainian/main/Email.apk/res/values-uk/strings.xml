@@ -987,4 +987,15 @@
     <string name="ser_resp_err_map_pserr">Невірне ім\'я користувача або пароль</string>
     <string name="ser_resp_err_map_serclosed">Сервіс закритий</string>
     <string name="ser_resp_err_map_ssl">Спробуйте вибрати пункт \"SSL/TLS (приймати всі сертифікати)\" параметри безпеки</string>
+	<string name="chat_type_name">Чат</string>
+    <string name="check_setup_data">Перевірка параметрів сервера...</string>
+    <string name="delete_conversation_hint_message">%1$d %2$s видалені</string>
+    <string name="downloading_message_body">Завантаження повідомлень...</string>
+    <string name="feedback_sent">Звіт відправлений</string>
+    <string name="message_body_auto_download_complete">Автоматичне завантаження завершене по мережі Wi-Fi</string>
+    <string name="message_body_auto_download_tip">Пошта буде автоматично завантажуватися з мережі Wi-Fi</string>
+    <string name="message_body_download_failed">Час очікування завантаження вийшло</string>
+    <string name="message_type_name">Повідомлення</string>
+    <string name="network_not_available">Мережа недоступна</string>
+    <string name="tryrefreshing">Спроба оновлення...</string>
 </resources>

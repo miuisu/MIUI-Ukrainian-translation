@@ -128,4 +128,5 @@
 	<string name="add_flow_fail_haveget_msg">Ви вже отримали безкоштовне прискорення Xunlei в цьому місяці</string>
 	<string name="add_flow_fail_vip_msg">Прискорення завантаження Xunlei отримано</string>
 	<string name="add_flow_success_msg">Прискорення на 300Мб успішно отримано</string>
+	<string name="display_expire_netiv1">Місячне користування</string>
 </resources>
