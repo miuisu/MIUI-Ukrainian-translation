@@ -807,7 +807,7 @@
     <string name="option_send_to_desktop">Надіслати на робочий стіл</string>
     <string name="option_send_to_others">Надіслати</string>    
     <string name="option_not_star">Видалити з вибраного</string>    
-    <string name="option_not_in_group">Видалити</string>
+    <string name="option_not_in_group">Видалити з групи</string>
     <string name="option_view_group">Показати</string>
     <string name="option_rename_group">Перейменувати</string>
     <string name="option_delete_group">Видалити</string>
