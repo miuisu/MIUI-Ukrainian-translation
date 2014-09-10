@@ -261,8 +261,7 @@
 	<string name="checkout_traffic_saving_history">Історія</string>
 	<string name="datausage_ignore_app_list_count">Додатків без стеження за трафіком: %d</string>
     <string name="pref_data_usage_ignore_settings">Винятки трафіку</string>
-    <string name="pref_data_usage_ignore_settings_summary">Система не буде стежити за трафіком додатків з цього списку</string>>
-	<string name="add_to_whitelist_button">Виключення</string>
+   	<string name="add_to_whitelist_button">Виключення</string>
 	<string name="add_white_list">Додати</string>
 	<string name="alter_dialog_message">Дозволити підключення до інтернету в міжнародному роумінзі?</string>
 	<string name="datausage_purchase_none_history">Порожньо</string>
