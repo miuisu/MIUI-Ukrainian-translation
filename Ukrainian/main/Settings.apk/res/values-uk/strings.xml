@@ -174,7 +174,7 @@
     <string name="headset_no_contected">Гарнітура не під\'єднано</string>
     <string name="headset_calibrate_wrong_key">Хибна кнопка</string>
     <string name="default_date_format">MM.dd.yyyy</string>
-    <string name="normal_date_format">По замовчанню (%s)</string>
+    <string name="normal_date_format">За замовчуванням (%s)</string>
     <string name="display_preview_label">Перегляд:</string>
     <string name="display_font_size_label">Розмір шрифту:</string>
     <string name="intent_sender_data_label">Дані:</string>
@@ -271,7 +271,7 @@
     <string name="roaming_warning">Коли ви дозволите інтернет-роумінг, можливі великі витрати за використання роумінгу.</string>
     <string name="roaming_warning_multiuser">"Увімкнення передачі даних в роумінгу може спричинити значні витрати на послуги зв\'язку!
 
-Ця настройка впливає на всіх користувачів телефону."</string>
+Це налаштування впливає на всіх користувачів телефону."</string>
     <string name="roaming_reenable_title">Увімкнути роумінг?</string>
     <string name="networks">Вибір оператора</string>
     <string name="sum_carrier_select">Оберіть оператора зв\'язку</string>
@@ -305,8 +305,8 @@
     <string name="user_info_settings_title">Інформація про користувача</string>
     <string name="location_settings_title">Розташування</string>
     <string name="security_settings_title">Безпека</string>
-    <string name="security_settings_summary">Настройка функції \"Моє розташування\", розблокування екрану, блокування SIM карти та блокування сховища реєстраційних даних</string>
-    <string name="cdma_security_settings_summary">Настройка функції \"Моє розташування\", розблокування екрану та блокування сховища реєстраційних даних</string>
+    <string name="security_settings_summary">Налаштування функції \"Моє розташування\", розблокування екрану, блокування SIM карти та блокування сховища реєстраційних даних</string>
+    <string name="cdma_security_settings_summary">Налаштування функції \"Моє розташування\", розблокування екрану та блокування сховища реєстраційних даних</string>
     <string name="security_passwords_title">Паролі</string>
     <string name="crypt_keeper_settings_title">Шифрування</string>
     <string name="crypt_keeper_encrypt_title">Зашифрувати дані</string>
@@ -384,7 +384,7 @@
     <string name="bluetooth_quick_toggle_summary">Увімкнути Bluetooth</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
-    <string name="bluetooth_settings_summary">Настройка підключень, видимості та імені пристрою</string>
+    <string name="bluetooth_settings_summary">Налаштування підключень, видимості та імені пристрою</string>
     <string name="bluetooth_pairing_request">Запит сполучення Bluetooth</string>
     <string name="bluetooth_enter_pin_msg">Для під\'єднання до пристрою &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; введіть PIN код:</string>
     <string name="bluetooth_enter_pin_msg_hs">"
@@ -497,7 +497,7 @@
     <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Налаштування Wi-Fi</string>
     <string name="wifi_settings_title">Wi-Fi</string>
-    <string name="wifi_settings_summary">Настройка та керування точками доступу бездротової мережі</string>
+    <string name="wifi_settings_summary">Налаштування та керування точками доступу бездротової мережі</string>
     <string name="wifi_setup_wizard_title">Вибрати Wi-Fi</string>
     <string name="wifi_starting">Увімкнення Wi-Fi…</string>
     <string name="wifi_stopping">Вимкнення Wi-Fi…</string>
@@ -528,7 +528,7 @@
     <string name="wifi_empty_list_wifi_on">Пошук мереж Wi-Fi…</string>
     <string name="wifi_other_network">Інші мережі…</string>
     <string name="wifi_more">Додатково</string>
-    <string name="wifi_setup_wps">Автонастройка (WPS)</string>
+    <string name="wifi_setup_wps">Автоналаштування (WPS)</string>
     <string name="wifi_required_info_text">Для завершення встановлення планшета необхідний доступ до бездротової мережі. Після встановлення, ви можете перемикатися між мобільною передачею даних та Wi-Fi.</string>
 	<string name="wifi_share">Поділитися Wi-Fi</string>
 	<string name="wifi_share_action_turn_off">Зупинити доступ до мережі</string>
@@ -590,11 +590,11 @@
     <string name="wifi_show_advanced">Додатково</string>
     <string name="wifi_network_setup">WPS</string>
     <string name="wifi_wps_pin">Введіть код точки доступу</string>
-    <string name="wifi_wps_setup_title">Настройка захищеної мережі Wi-Fi</string>
+    <string name="wifi_wps_setup_title">Налаштування захищеної мережі Wi-Fi</string>
     <string name="wifi_wps_pin_output">Введіть код %1$s на точці доступу</string>
     <string name="wifi_wps_setup_msg">Запуск WPS…</string>
     <string name="wifi_wps_onstart_pbc">Натисніть кнопку захищеної налаштування Wi-Fi на вашому роутері. Вона може бути названа \"WPS\" або містити цей символ:</string>
-    <string name="wifi_wps_onstart_pin">Введіть PIN %1$s в вашому Wi-Fi роутері. Настройка може заняти до двох хвилин.</string>
+    <string name="wifi_wps_onstart_pin">Введіть PIN %1$s в вашому Wi-Fi роутері. Налаштування може заняти до двох хвилин.</string>
     <string name="wifi_wps_complete">WPS вдало. З\'єднання з мережаю…</string>
     <string name="wifi_wps_connected">Під\'єднання до мережі Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">WPS вже використовується, для завершення потрібно близько хвилини</string>
@@ -643,7 +643,7 @@
     <string name="wifi_dont_skip">"Не оминати"</string>
     <string name="wifi_skipped_message">"ПОПЕРЕДЖЕННЯ: Можливі більші витрати на послуги зв\'язку.
 
-Настройка телефону може вимагати значної мережевої активності."</string>
+Налаштування телефону може вимагати значної мережевої активності."</string>
     <string name="wifi_and_mobile_skipped_message">"ПЗПЕРЕДЖЕННЯ: Телефон не буде мати можливість впевнитися, що програмне забезпечення в актуальному стані."</string>
     <string name="wifi_connect_failed_message">Телефону не вдалося під\'єднатися до цієї бездротової мережі.</string>
     <string name="wifi_advanced_titlebar">Додаткові функції</string>
@@ -698,7 +698,7 @@
     <string name="wifi_tether_stopping">Вимикання точки доступу…</string>
     <string name="wifi_tether_enabled_subtext">Точка доступу \"%1$s\" активна</string>
     <string name="wifi_tether_failed_subtext">Помилка під\'єднання</string>
-    <string name="wifi_tether_configure_ap_text">Настройка точки доступу</string>
+    <string name="wifi_tether_configure_ap_text">Налаштування точки доступу</string>
     <string name="wifi_tether_configure_subtext" formatted="false">Точка доступу \"%1$s\" %2$s</string>
     <string name="wifi_tether_configure_ssid_default">Android Hotspot</string>
     <string name="testing_wifi_info">Інформація Wi-Fi</string>
@@ -733,7 +733,7 @@
     <string name="wifi_state_enabling">Увімкнення</string>
     <string name="wifi_state_enabled">Вимикання</string>
     <string name="wifi_state_unknown">Невідомо</string>
-    <string name="wifi_config_info">Настройка Wi-Fi</string>
+    <string name="wifi_config_info">Налаштування Wi-Fi</string>
     <string name="config_list_label">Налагоджені мережі</string>
     <string name="display_settings_title">Екран</string>
     <string name="sound_settings">Звук</string>
@@ -757,7 +757,7 @@
     <string name="sound_effects_enable_title">Звук натискання на екран</string>
     <string name="lock_sounds_enable_title">Звук блокування екрана</string>
     <string name="haptic_feedback_enable_title">Вібровідгук</string>
-    <string name="audio_record_proc_title">Придушення шуму</string>
+    <string name="audio_record_proc_title">Приглушення шуму</string>
     <string name="volume_media_description">Музика, відео, ігри та інші медіафайли</string>
     <string name="volume_ring_description">Мелодія та сповіщення</string>
     <string name="volume_notification_description">Сповіщення</string>
@@ -1094,7 +1094,7 @@
     <string name="manageapplications_settings_title">Керування додатками</string>
     <string name="manageapplications_settings_summary">Керування встановленими додатками та їх видалення</string>
     <string name="applications_settings">Додатки</string>
-    <string name="applications_settings_summary">Керування додатками, настройка клавіш швидкого запуску</string>
+    <string name="applications_settings_summary">Керування додатками, налаштування клавіш швидкого запуску</string>
     <string name="applications_settings_header">Налаштування додатки</string>
     <string name="install_applications">Невідомі джерела</string>
     <string name="install_unknown_applications">Дозволити установку додатків з невідомих джерел</string>
@@ -1106,7 +1106,7 @@
     <string name="application_info_label">Про додаток</string>
     <string name="storage_label">Пам\'ять</string>
     <string name="auto_launch_label">Запуск за замовчуванням</string>
-    <string name="auto_launch_label_generic">По замовчанню</string>
+    <string name="auto_launch_label_generic">За замовчуванням</string>
     <string name="screen_compatibility_label">Сумісність з екраном</string>
     <string name="permissions_label">Дозволи</string>
     <string name="cache_header_label">Кеш</string>
@@ -1262,9 +1262,9 @@
     <string name="vibrate_input_devices">Використовувати вібрацію</string>
     <string name="vibrate_input_devices_summary">Перенаправити вібрацію на під\'єднаний ігровий контролер</string>
     <string name="keyboard_layout_dialog_title">Розкладка клавіатури</string>
-    <string name="keyboard_layout_dialog_setup_button">Настройка розкладок клавіатури</string>
+    <string name="keyboard_layout_dialog_setup_button">Налаштування розкладок клавіатури</string>
     <string name="keyboard_layout_dialog_switch_hint">Для перемикання натисніть Control-Пропуск</string>
-    <string name="keyboard_layout_default_label">По замовчанню</string>
+    <string name="keyboard_layout_default_label">За замовчуванням</string>
     <string name="keyboard_layout_picker_title">Розкладка клавіатури</string>
     <string name="user_dict_settings_titlebar">Словник користувача</string>
     <string name="user_dict_single_settings_title">Словник користувача</string>
@@ -1289,7 +1289,7 @@
     <string name="testing_battery_info">Інформація про батарею</string>
     <string name="testing_sim_toolkit">Інструменти SIM</string>
     <string name="quick_launch_title">Швидкий запуск</string>
-    <string name="quick_launch_summary">Настройка швидких клавіш для запуску додатків</string>
+    <string name="quick_launch_summary">Налаштування швидких клавіш для запуску додатків</string>
     <string name="quick_launch_assign_application">Назначити додаток</string>
     <string name="quick_launch_no_shortcut">Немає ярлика</string>
     <string name="quick_launch_shortcut">Пошук в %1$s</string>
@@ -1301,12 +1301,12 @@
     <string name="quick_launch_display_mode_shortcuts">Ярлики</string>
     <string name="input_methods_settings_title">Введення тексту</string>
     <string name="input_method">Спосіб введення</string>
-    <string name="current_input_method">По замовчанню</string>
+    <string name="current_input_method">За замовчуванням</string>
     <string name="input_method_selector">Вибір способу введення</string>
     <string name="input_method_selector_show_automatically_title">Автоматично</string>
     <string name="input_method_selector_always_show_title">Завжди показувати</string>
     <string name="input_method_selector_always_hide_title">Завжди приховувати</string>
-    <string name="configure_input_method">Настройка способів введення</string>
+    <string name="configure_input_method">Налаштування способів введення</string>
     <string name="input_method_settings">Налаштування</string>
     <string name="input_method_settings_button">Налаштування</string>
     <string name="active_input_method_subtypes">Активні способи введення</string>
@@ -1317,7 +1317,7 @@
     <string name="builtin_keyboard_settings_title">Фізична клавіатура</string>
     <string name="builtin_keyboard_settings_summary">Налаштування фізичної клавіатури</string>
     <string name="development_settings_title">Для розробників</string>
-    <string name="development_settings_summary">Настройка параметрів для розробників</string>
+    <string name="development_settings_summary">Налаштування параметрів для розробників</string>
     <string name="enable_adb">Налагодження по USB</string>
     <string name="enable_adb_summary">Увімкнути режим налагодження при під\'єднанні до комп\'ютера по USB</string>
     <string name="bugreport_in_power">Меню звітів про помилки</string>
@@ -1598,7 +1598,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="sound_category_sound_title">Загальні</string>
     <string name="sound_category_notification_title">Сповіщення</string>
     <string name="sound_category_feedback_title">Система</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Настройка мелодій</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Налаштування мелодій</string>
     <string name="sound_category_system_title">Система</string>
     <string name="wifi_setup_title">Налаштування Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Під\'єднання до Wi-Fi мережі %s</string>
@@ -1672,7 +1672,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="cant_sync_dialog_title">Не вдалося синхронізувати дані</string>
     <string name="cant_sync_dialog_message">Синхронізацію вимкнено. Щоб увімкнути її, тимчасово дозвольте передачу даних в фоновому режимі та автоматичну синхронізацію.</string>
     <string name="wimax_settings">Налаштування 4G</string>
-    <string name="wimax_settings_summary">Настройка та керування мережею 4G та модемом</string>
+    <string name="wimax_settings_summary">Налаштування та керування мережею 4G та модемом</string>
     <string name="status_wimax_mac_address">МАС-адреса для 4G</string>
     <string name="enter_password">Введіть пароль для розшифрування даних сховища</string>
     <string name="try_again">Повторіть спробу.</string>
@@ -1775,7 +1775,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="data_usage_app_restrict_background_summary">Вимкнути фоновий режим для мобільних мереж. Використовувати Wi-Fi.</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Спочатку встановіть обмеження мобільного трафіку.</string>
     <string name="data_usage_app_restrict_dialog_title">Обмежити фоновий режим?</string>
-    <string name="data_usage_app_restrict_dialog">Якщо немає доступу до Wi-Fi, ця функція може призупинити додатки, що використовують фоновий режим обміну даними.\n\nНайкращі параметри можна знайти в настройках цих додатків.</string>
+    <string name="data_usage_app_restrict_dialog">Якщо немає доступу до Wi-Fi, ця функція може призупинити додатки, що використовують фоновий режим обміну даними.\n\nНайкращі параметри можна знайти в налаштуваннях цих додатків.</string>
     <string name="data_usage_restrict_denied_dialog">Обмеження фонового режиму можливо тільки при обмеженні мобільного трафіку.</string>
     <string name="data_usage_auto_sync_on_dialog_title">Увімкнути автосинхронізацію даних?</string>
     <string name="data_usage_auto_sync_on_dialog">Будь-які зміни облікового запису в мережі автоматично будуть копіюватися в телефон.\n\nДеякі облікові записи також можуть автоматично копіювати зміни з телефону в мережу.\n\nДля вибору даних для синхронізації перейдіть в Налаштування &gt; Облікові записи</string>
@@ -1784,7 +1784,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="data_usage_cycle_editor_title">Видалення статистики</string>
     <string name="data_usage_cycle_editor_subtitle">День місяця:</string>
     <string name="data_usage_cycle_editor_positive">Зберегти</string>
-    <string name="data_usage_warning_editor_title">Настройка попереджень</string>
+    <string name="data_usage_warning_editor_title">Налаштування попереджень</string>
     <string name="data_usage_limit_editor_title">Межа трафіку</string>
     <string name="data_usage_limit_dialog_title">Обсяг трафіку обмежено</string>
     <string name="data_usage_limit_dialog">Ваше %1$s з\'єднання буде вимкнено при досягненні вказаної межі даних.\n\nКількість використаного трафіку може враховуватися по різному вашим пристроєм та оператором, встановіть необхідну межу, щоб уникнути перевитрат.</string>
@@ -1876,10 +1876,10 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="confirm_new_backup_pw_prompt">Підтвердіть пароль</string>
     <string name="backup_pw_set_button_text">Зберегти пароль</string>
     <string name="backup_pw_cancel_button_text">Скасувати</string>
-    <string name="sel_sub_title">Настройка операторів</string>
+    <string name="sel_sub_title">Налаштування операторів</string>
     <string name="sel_sub_summary">Вибрати послуги зв\'язку для Оператор-1 та Оператор-2</string>
     <string name="select_subscription">Вибрати послугу зв\'язку</string>
-    <string name="multi_sim_settings_title">Настройка мульти SIM</string>
+    <string name="multi_sim_settings_title">Налаштування мульти SIM</string>
     <string name="multi_sim_settings_summary">Вибрати операторів для голосових викликів, передачі даних та SMS</string>
     <string name="voice_title">Голос/USSD/MMI</string>
     <string name="voice_summary">Вибрати оператора для голосових викликів</string>
@@ -1967,7 +1967,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="dndm_auto_time_turn_off_title">Автоматическое отключение режима \"Не беспокоить\"</string>
     <string name="dndm_dlg_remove_vip">Удалить из белого списка?</string>
     <string name="dndm_dlg_remove_ok">ОК</string>
-    <string name="dndm_menu_add_vip_custom">Добавить</string>
+    <string name="dndm_menu_add_vip_custom">Додати</string>
     <string name="dndm_mute_all">Звук викликів і повідомлень буде вимкнено</string>
     <string name="dndm_special_call_setting_group">Винятки</string>
     <string name="dndm_vip_call_setting_title">Білий список</string>
@@ -2297,7 +2297,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="lock_settings_picker_settings">Блокування екрана</string>
     <string name="lock_screen_unlock_show">Показувати поле пароля одразу</string>
     <string name="lock_screen_unlock_show_summary">Показувати поле введення пароля одразу, не використовуючи інші екрани блокування</string>
-	<string name="lock_settings_common_title">Настройка блокування</string>
+	<string name="lock_settings_common_title">Налаштування блокування</string>
     <string name="date_time_settings">Дата та час</string>
     <string name="timezone_settings">Часовий пояс</string>
     <string name="security_privacy_settings_title">Безпека</string>
@@ -2329,7 +2329,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="pref_button_light_summary">Індикатор для Меню, Додому та Назад</string>
     <string name="button_light_timeout">Налаштування підсвічування</string>
     <string name="screen_button_key">Віртуальні кнопки</string>
-    <string name="screen_button_custom">Настройка розміщення кнопок</string>
+    <string name="screen_button_custom">Налаштування розміщення кнопок</string>
     <string name="sim_pin_enabled">PIN1 ввімкнено!</string>
     <string name="sim_pin_disabled">PIN1 вимкнено!</string>
     <string name="apn_new">Додати</string>
@@ -2339,7 +2339,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="wifi_enable_watchdog_service_summary">Уникати поганих з\'єднань</string>
     <string name="wifi_disabled_help">Wi-Fi було вимкнено через погане з\'єднання</string>
     <string name="wifi_wps_overlap_error">Виявлено інший захищений сеанс Wi-Fi. Повторіть спробу пізніше.</string>
-    <string name="wifi_p2p_wps_setup">Настройка WPS</string>
+    <string name="wifi_p2p_wps_setup">Налаштування WPS</string>
     <string name="wifi_p2p_wps_pin">Введіть PIN</string>
     <string name="default_input_method">Оберіть спосіб введення за замовчуванням</string>
     <string name="volume_category_title">Гучність</string>
@@ -2420,7 +2420,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="volume_restore_alert">Всі налаштування буде встановлено на стандартні, ви впевнені?</string>
     <string name="sound_category_calls_and_notification_title">Мелодія та сповіщення</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">Настройка розміру шрифту системи</string>
+    <string name="font_size_summary">Налаштування розміру шрифту системи</string>
     <string name="font_size_small">1</string>
     <string name="font_size_normal">2</string>
     <string name="font_size_medium">3</string>
@@ -2476,7 +2476,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="dolby_roomsize_low">" Слабо"</string>
     <string name="dolby_roomsize_normal">" Нормально"</string>
     <string name="dolby_roomsize_high">" Сильно"</string>
-    <string name="dolby_eq_flat">По замовчанню</string>
+    <string name="dolby_eq_flat">За замовчуванням</string>
     <string name="dolby_eq_rock">Рок</string>
     <string name="dolby_eq_jazz">Джаз</string>
     <string name="dolby_eq_pop">Поп</string>
@@ -2495,7 +2495,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="dolby_preset_rename">Перейменувати</string>
     <string name="dolby_preset_format">Налагодити %d</string>
     <string name="dolby_preset_hint">Введіть ім\'я</string>
-    <string name="eq_flat">По замовчанню</string>
+    <string name="eq_flat">За замовчуванням</string>
     <string name="eq_rock">Рок</string>
     <string name="eq_jazz">Джаз</string>
     <string name="eq_pop">Поп</string>
@@ -2590,7 +2590,7 @@ Android File Transfer
     <string name="msd_install_status_undo">Встановлення драйвера</string>
     <string name="password_guard">Захист</string>
     <string name="vpn_safe">Захист</string>
-    <string name="vpn_configure">Настройка</string>
+    <string name="vpn_configure">Налаштування</string>
     <string name="vpn_dns_servers_hint">наприклад 8.8.8.8</string>
     <string name="vpn_routes_hint">наприклад 10.0.0.0/8</string>
     <string name="sync_wifi_label">Wi-Fi</string>
@@ -2682,8 +2682,8 @@ Android File Transfer
     <string name="slot_status_title">Інформація про IMEI</string>
 	<string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_money_service">MiCredit</string>
-	<string name="noise_suppression">Придушення шумів</string>
-    <string name="phone_call_noise_suppression">Придушення шумів при розмові</string>
+	<string name="noise_suppression">Приглушення шумів</string>
+    <string name="phone_call_noise_suppression">Приглушення шумів при розмові</string>
 	<string name="sync_wifi_only">Тільки по Wi-Fi</string>
     <string name="line_breaking_title">Оптимізація тексту</string>
     <string name="line_breaking_summary">Оптимізувати порушення пунктів абзацу</string>
@@ -3018,7 +3018,7 @@ Android File Transfer
     <string name="schedule_power_on_off_settings_title">Заплановано увімкнення та вимкнення</string>
     <string name="usb_bicr_title">Вбудований CD-ROM</string>
     <string name="usb_bicr_summary">Показати віртуальний CD-ROM, що містить деякі корисні додатки.</string>
-    <string name="select_memory">По замовчанню записаний диск</string>
+    <string name="select_memory">За замовчуванням записаний диск</string>
     <string name="ipo_title">Швидке завантаження</string>
     <string name="ipo_summary_on">Увімкнути швидке завантаження</string>
     <string name="ipo_summary_off">Вимкнути швидке завантаження</string>
@@ -3772,9 +3772,9 @@ Android File Transfer
     <string name="menu_item_shortcut_uninstall">Видалити ярлик</string>
     <string name="menu_item_shortcut_title">Ярлики</string>
     <string name="menu_item_shortcut_summary">Додавання ярликів для швидкого доступу до функцій безпеки.</string>
-    <string name="menu_item_settings_title">Настройки</string>
+    <string name="menu_item_settings_title">Налаштування</string>
     <string name="activity_title_create_shortcut">Ярлики</string>
-    <string name="activity_title_settings">Настройки</string>
+    <string name="activity_title_settings">Налаштування</string>
     <string name="toast_shortcut_install">Ярлик додано</string>
     <string name="toast_shortcut_uninstall">Ярлик видалено</string>
     <string name="perm_support_hints">Підтримка: LBE</string>
