@@ -307,6 +307,6 @@
      <string name="mark_number_info">\пБлокувати тільки ті номери, від яких не хочете отримувати дзвінки.</string>
      <string name="mark_sell">Маркетолог</string>
      <string name="mark_sell_block">Відзначено як маркетолог</string>
-     <string name="read_all_sms">Читати</string>
+     <string name="read_all_sms">Прочитати все</string>
      <string name="st_title_markednumber_group">Зазначені номери</string>
 </resources>
