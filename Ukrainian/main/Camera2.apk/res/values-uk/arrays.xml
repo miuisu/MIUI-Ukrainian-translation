@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months_abbreviated">
+        <item>січ</item>
+        <item>лют</item>
+        <item>бер</item>
+        <item>квіт</item>
+        <item>трав</item>
+        <item>черв</item>
+        <item>лип</item>
+        <item>серп</item>
+        <item>вер</item>
+        <item>жов</item>
+        <item>лис</item>
+        <item>груд</item>
+    </string-array>
+    <string-array name="dts_type_choices">
+        <item>Вимкн.</item>
+        <item>Музика</item>
+        <item>Фільм</item>
+    </string-array>
+</resources>
