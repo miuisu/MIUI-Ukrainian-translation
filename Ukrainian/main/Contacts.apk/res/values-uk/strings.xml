@@ -591,7 +591,7 @@
     <string name="date_time_set">Встановіть</string>
     <string name="sim_no_contact">На SIM карті немає контактів</string>
     <string name="sim_indexed_contact_not_exist">Позиція %1$d на SIM карті выдутня. Позиція повинна бути між %2$d та %3$d.</string>
-    <string name="sim_contact_search_error">Відбулася помилка</string>
+    <string name="sim_contact_search_error">Відбулася помилка при пошуку на SIM карті</string>
     <string name="contacts_unavailable_add_xiaomi_account">Синхронізація контактів Xiaomi</string>
     <string name="noContactHelpTextAccountsInfo">Синхронізація контактів Xiaomi, Google і Exchange</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Відновлення даних за допомогою облікового запису Xiaomi</string>
@@ -1160,7 +1160,7 @@
     <string name="yellowpage_navigation_network_location_enable">Ввімкнути</string>
     <string name="yellowpage_navigation_network_location_enable_later">Пізніше</string>
 	<string name="eventTypeCustom">Користувацький</string>
- 	<string name="pref_key_sim_manage2">Керування SIM2</string>
+ 	<string name="pref_key_sim_manage2">ККонтати SIM карти 2</string>
  	<string name="account_sim2">SIM карта %d</string>
 	<string name="meid_invalid">Недійсний MEID</string>
 	<string name="expand_collapse_name_fields_description">Розгорнути або згорнути інформацію</string>

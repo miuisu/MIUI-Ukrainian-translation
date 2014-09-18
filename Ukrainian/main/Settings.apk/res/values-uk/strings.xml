@@ -529,7 +529,7 @@
     <string name="wifi_other_network">Інші мережі…</string>
     <string name="wifi_more">Додатково</string>
     <string name="wifi_setup_wps">Автоналаштування (WPS)</string>
-    <string name="wifi_required_info_text">Для завершення встановлення планшета необхідний доступ до бездротової мережі. Після встановлення, ви можете перемикатися між мобільною передачею даних та Wi-Fi.</string>
+    <string name="wifi_required_info_text">Для завершення встановлення необхідний доступ до Wi-Fi. Після встановлення, ви можете перемикатися між мобільною передачею даних та Wi-Fi.</string>
 	<string name="wifi_share">Поділитися Wi-Fi</string>
 	<string name="wifi_share_action_turn_off">Зупинити доступ до мережі</string>
     <string name="wifi_share_list_empty">Неможливо знайти публічну мережу</string>
@@ -2561,32 +2561,32 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="msd_install">Перевстановіть драйвера.</string>
     <string name="msd_install_finish">Гаразд</string>
     <string name="msd_install_windows_xp_step_2_1">Слідкуйте вказівкам Мастера Налаштування, для завершення встановлення.</string>
-    <string name="msd_install_retry_windows_xp">"Якщо комп\'ютер не виявить телефон,
+    <string name="msd_install_retry_windows_xp">"Якщо комп\'ютер не виявить пристрій,
 спробуйте наступне:
 "<li>1) Вимкнути та під\'єднати USB кабель заново.</li>"
 "<li>2) Перевстановити драйвера.</li></string>
-    <string name="msd_install_retry_windows_vista">"Якщо комп\'ютер не виявить телефон,
+    <string name="msd_install_retry_windows_vista">"Якщо комп\'ютер не виявить пристрій,
 спробуйте вимкнути та під\'єднати USB кабель заново."</string>
-    <string name="msd_install_retry_mac">"Якщо комп\'ютер не виявить телефон,
+    <string name="msd_install_retry_mac">"Якщо комп\'ютер не виявить пристрій,
 спробуйте наступне:
-"<li>"Введіть в пошуку
+"<li>"1) Введіть в пошуку
 Android File Transfer
 й запустіть програму."</li>"
-"<li>Вимкнути та під\'єднати USB кабель заново.</li>"
-"<li>Перевстановити драйвери.</li></string>
-    <string name="msd_install_retry_linux">"Якщо комп\'ютер не виявить телефон,
+"<li>2) Вимкнути та під\'єднати USB кабель заново.</li>"
+"<li>3) Перевстановити драйвери.</li></string>
+    <string name="msd_install_retry_linux">"Якщо комп\'ютер не виявить пристрій,
 спробуйте наступне:
 1) Використовуйте команду \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
 2) Створіть теку \"mkdir /media/mtp\"
 3) Підтвердіть права доступу для групи користувача в поточній групі fuse \
 4) Увійдіть заново
-5) Дайте доступ пристрою mtpfs /media/mtp через Файл менеджер; так же як до локальних тек
+5) Дайте доступ пристрою mtpfs /media/mtp через Файл менеджер (так же як до локальних тек)
 6) Видаліть пристрій fusermount -u /media/mtp
  Примітка: для середовища Ubuntu 8.04"</string>
     <string name="msd_install_status_done">Драйвер встановлено</string>
     <string name="msd_driver_download">Завантажити драйвер</string>
-    <string name="msd_driver_windows_xp_download">Завантажте на ваш ПК драйвера та виконайте Setup.exe.\nЗавантажити: http://miui.com/win</string>
-    <string name="msd_driver_mac_download">Завантажте на ваш MAC драйвера та виконайте AndroidFileTransfer.dmg\nЗавантажити: http://miui.com/mac</string>
+  + <string name="msd_driver_windows_xp_download">Windows: Завантажте драйвер і запустіть Setup.exe.\пСкачати: http://miui.com/win</string>
++ <string name="msd_driver_mac_download">OSX: Скачайте та встановіть драйвер AndroidFileTransfer.dmg.\пСкачати: http://miui.com/mac</string>
     <string name="msd_install_status_undo">Встановлення драйвера</string>
     <string name="password_guard">Захист</string>
     <string name="vpn_safe">Захист</string>
@@ -2610,7 +2610,7 @@ Android File Transfer
 	<string name="open_wifi_connect_title">Під\'єднання до мережі %1$s</string>
     <string name="device_edit_title">Перейменувати пристрій</string>
     <string name="device_name_input_hint">Введіть ім\'я пристрою</string>
-    <string name="device_name_usage_point">Задане ім\'я буде показуватись при обміні даними з іншими пристроями.</string>
+    <string name="device_name_usage_point">Ім\'я вашого пристрою, яке буде відображатися при різних сполученнях</string>
     <string name="drive_mode">За кермом</string>
     <string name="enable_drive_mode">За кермом</string>
     <string name="drive_mode_title">За кермом</string>
@@ -3964,7 +3964,7 @@ Android File Transfer
     <string name="miracast_sink_ready_to_connect">Готов до підлключеня</string>
     <string name="miracast_sink_busy">Використовується</string>
     <string name="miracast_error_already_streaming">Уже іде віщання на один дисплей</string>
-    <string name="miracast_error_connection_in_progress">Іде підключення. Подождіте.</string>
+    <string name="miracast_error_connection_in_progress">Підключення…</string>
     <string name="miracast_cancelconnect_dialog">Скасування підключення</string>
     <string name="miracast_error_cancelconnect">Підключення вже використовується</string>
     <string name="miracast_search_for_displays">Пошук бездротових дисплеїв…</string>
@@ -4344,7 +4344,7 @@ Android File Transfer
     <string name="dialog_message_auto_start_tips">Деякі додатки можуть працювати в фоні некоректно без автозапуску. Ви можете додати необхыдні додатки вручну в список автозапуску.</string>
     <string name="button_text_known">ОК</string>
 	<string name="translation_contributors_title">Автори перекладу</string>
- 	<string name="security_keyguard_category_name">Блокування екрана</string>
+ 	<string name="security_keyguard_category_name">Екран блокування</string>
     <string name="security_password_category_name">Пароль</string>
     <string name="bluetooth_unlock_title">Розблокування Bluetooth пристроєм</string>
     <string name="bluetooth_unlock_turned_off">Виключене</string>
@@ -4361,10 +4361,10 @@ Android File Transfer
     <string name="bluetooth_unlock_delete_device_confirm_msg">Вилдалити пристрій?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Старий пристрій буде замінено на поточний.</string>
  	<string name="wifi_type_approval_title">Підтвердження типу</string>
- 	<string name="manage_xiaomi_router">Керування роутером Xiaomi</string>
-    <string name="xiaomi_router_notif_title">Повідомляти про роутере Xiaomi</string>
-    <string name="xiaomi_router_notif_summary">Повідомляти коли доступний роутер Xiaomi.</string>
-    <string name="xiaomi_router_available_notif_title">Доступний роутер Xiaomi</string>
+ 	<string name="manage_xiaomi_router">Керування Mi роутером</string>
+    <string name="xiaomi_router_notif_title">Повідомляти про Mi роутер</string>
+    <string name="xiaomi_router_notif_summary">Повідомляти коли доступний Mi роутер.</string>
+    <string name="xiaomi_router_available_notif_title">Доступний Mi роутер</string>
     <string name="xiaomi_router_available_notif_summary">Натисніть для перегляду</string>
 	<string name="bugreport_tool_log">Записати звіт</string>
     <string name="modem_tool_log">Записати звіт модему</string>
@@ -4372,7 +4372,7 @@ Android File Transfer
     <string name="modem_tool_log_stop">Зупинити запис</string>
     <string name="modem_tool_log_start_toast">Почати запис звіту модему в %s</string>
     <string name="modem_tool_log_stop_toast">Зупинити запис звіту модему з %s</string>
- 	<string name="app_feedback">Звіти</string>
+ 	<string name="app_feedback">Звіт в MIUI</string>
     <string name="app_backup">Бекап</string>
     <string name="google_backup_section_title">Бекап та відновлення</string>
     <string name="system_backup_section_title">Бекап системи</string>
@@ -4420,10 +4420,10 @@ Android File Transfer
 	<string name="cta_dialog_title">Дозволити додатку доступ до мережі?</string>
 	<string name="cta_settings">Дозволити доступ до мережі</string>
 	<string name="accessibility_service_no_apps_confirm">ОК</string>
-	<string name="accessibility_service_no_apps_prompt">Безкоштовний додаток Talkback дає голосовий опис елементів інтерфейсу для користувачів з порушенням зору</string>
+	<string name="accessibility_service_no_apps_prompt">Безкоштовний додаток Talkback дає голосовий опис елементів інтерфейсу для користувачів з порушенням зору. Завантажте безкоштовно в Play Маркете</string>
 	<string name="bluetooth_preference_connected_devices">Підключення пристрою</string>
 	<string name="priority_storage_app_settings">Дані будуть збережені у %1$s</string>
-    <string name="priority_storage_settings_summary">Коли SD карта не підключена, дані автоматично зберігаються у внутрішню пам\'ять пристрою.</string>
+    <string name="priority_storage_settings_summary">Коли накопичувач не підключений, дані автоматично зберігаються у внутрішню пам\'ять пристрою</string>
     <string name="priority_storage_summary">Виберіть пам\'ять за замовчуванням для збереження даних</string>
     <string name="priority_storage_title">Налаштування пам\'яті</string>
     <string name="high_performance_notif_summary">Високе споживання батареї</string>

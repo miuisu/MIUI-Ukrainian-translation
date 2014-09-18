@@ -103,8 +103,8 @@
     <string name="stopwatch_lap_empty_text">Жодного кроку</string>
 	<string name="timer_got_it">ОК</string>
 	<string name="timer_start_alarm">Час вийшов!</string>
-	<string name="dialog_confirm_abort">Скасувати зміни?</string>
-    <string name="confirm_abort">Скасувати</string> 
+	<string name="dialog_confirm_abort">Вийти без збереження?</string>
+    <string name="confirm_abort">ОК</string> 
 	<string name="remind_ringtone">Мелодія</string>
 	<string name="keep_screen_on">Залишити екран увімкненим</string>
 	<string name="start_up">Пуск</string>

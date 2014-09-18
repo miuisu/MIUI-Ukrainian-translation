@@ -30,7 +30,7 @@
 	<string name="camera_error">Помилка камери</string>
     <string name="url_is_safety">Цей сайт безпечний</string>
     <string name="url_is_unsafety">Цей сайт може містити загрозу безпеки</string>
-    <string name="url_is_phish">Цей сайт може містити фішинг дані</string>
+    <string name="url_is_phish">Цей сайт може стати загрозою інтернет-шахрайства</string>
     <string name="url_is_unknown">Не вдається підтвердити безпеку сайту. Використовуйте на свій страх і ризик</string>
     <string name="scan_qrcode">Сканувати QR код</string>
     <string name="app_details">Інформація про додаток:</string>
@@ -58,14 +58,14 @@
     <string name="wifi_details">Інформація про Wi-Fi:</string>
     <string name="connect_wifi">Підключитися до цієї мережі</string>
     <string name="qq_details">Інформація QQ:</string>
-    <string name="launch_qq">Відкрити QQ через браузер</string>
+    <string name="launch_qq">Відкрити QQ в браузері</string>
     <string name="download_qq">Завантажити QQ</string>
     <string name="wifi_warning">Перед підключенням переконаєтеся, що ця мережа є безпечною</string>
-    <string name="cloud_album_details">Інформація про альбом:</string>
+    <string name="cloud_album_details">Інформація про хмарний альбом:</string>
     <string name="visit_cloud_album">Відкрити хмарний альбом</string>
-    <string name="find_cloud_album">Сканувати QR-код альбому</string>
+    <string name="find_cloud_album">Сканувати QR код альбому</string>
     <string name="wifi_connecting">Підключення…</string>
-    <string name="wifi_open_fail">Не вдається відкрити мережі Wi-Fi</string>
+    <string name="wifi_open_fail">Не вдалося відкрити мережу Wi-Fi</string>
     <string name="wifi_connect_fail">Не вдається підключитися до мережі Wi-Fi</string>
     <string name="wifi_connect_success">Підключене</string>
     <string name="wifi_connect_not_found">Мережі Wi-Fi не знайдені</string>

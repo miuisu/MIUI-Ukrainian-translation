@@ -17,7 +17,6 @@
     <string name="other_service_user_experience_summary1">Політики конфіденційності</string>
     <string name="sim_card_detection_dialog_message">Виявлення SIM карти.</string>
     <string name="sim_card_detection_label">SIM карта</string>
-    <string name="sim_card_detection_info">Ми не можемо налагодити обліковий запис Xiaomi без SIM карти. Вам необхідна SIM карта для використання сервісів, як, наприклад, синхронізація контактів, пошук телефону та т.і.</string>
     <string name="sim_card_detection_status_absent">SIM карту не визначено!</string>
     <string name="setup_complete_label">Все готово!</string>
     <string name="setup_complete_info">Сервісне обслуговування буде активовано при першому використанні телефону</string>
@@ -40,7 +39,7 @@
      <string name="other_settings_user_experience">Програма поліпшення якості</string>
      <string name="other_settings_user_experience_summary">Допоможіть Xiaomi поліпшити їхні продукти відправленням анонімних звітів про діагностику системи й іншому</string>
 	 <string name="privacy_policy">Політика безпеки</string>
-     <string name="terms_agree">OK</string>
+     <string name="terms_agree">Згоден</string>
      <string name="terms_description">Прийняти умови користування та політику безпеки MIUI?</string>
      <string name="terms_disagree">Скасувати</string>
      <string name="terms_label">Умови користування</string>

@@ -294,9 +294,9 @@
 	<string name="enable_disable_multi_category">Підбірка з декількох категорій</string>
 	<string name="multi_category_enable">Підбірка з декількох категорій увімкнено</string>
 	<string name="multi_category_disable">Підбірка з декількох категорій вимкнено</string>
-	<string name="gsm_umts_network_preferences_title">Налаштування GSM/UMTS</string>
+	<string name="gsm_umts_network_preferences_title">Режим мережі</string>
 	<string name="gsm_umts_network_preferneces_summary">Ще не вказано!</string>
-	<string name="gsm_umts_network_preferences_dialogtitle">Налаштування GSM/UMTS</string>
+	<string name="gsm_umts_network_preferences_dialogtitle">Режим мережі</string>
 	<string name="prefer_2g">Тільки мережі 2G</string>
 	<string name="prefer_2g_summary">Використовувати мережі 2G для економії заряду батареї</string>
 	<string name="cdma_system_select_title">Вибір системи</string>
@@ -364,10 +364,10 @@
 	<string name="fdn_invalid_number">Номер обмеженого набору не оновлено: він не повинен містити більше 20 цифр.</string>
 	<string name="pin2_or_fdn_invalid">Дитячий контроль не ввімкнено. PIN2 введено не вірно або відхилено номер телефону.</string>
 	<string name="fdn_failed">Активація послуги \"Дитячий контроль\" не вдалася.</string>
-	<string name="simContacts_emptyLoading">Зчитування з SIM карти…</string>
+	<string name="simContacts_emptyLoading">Завантаження контактів з SIM карти…</string>
 	<string name="exportContacts">Експорт контактів на SIM карту…</string>
-	<string name="simContacts_empty">Немає контактів на SIM картці</string>
-	<string name="simContacts_title">Керування контактами SIM</string>
+	<string name="simContacts_empty">Немає контактів на SIM карті</string>
+	<string name="simContacts_title">Контакти на SIM карті</string>
 	<string name="simContacts_airplaneMode">Відключить режим \"В літаку\" для імпорту контактів з SІM карти.</string>
 	<string name="enable_pin">Увімкнути/вимкнути запит PIN SIM карти</string>
 	<string name="change_pin">Змінити PIN SIM карти</string>
@@ -1025,6 +1025,7 @@
 	<string name="preferred_network_type_pref_entries_auto_miui">Автоматично</string>
 	<string name="preferred_network_type_pref_entries_only_2g_miui">Тільки 2G (енергозбереження)</string>
 	<string name="preferred_network_type_pref_entries_only_3g_miui">Тільки 3G</string>
+	<string name="preferred_network_type_pref_entries_only_4g_miui">LTE</string>
 	<string name="preferred_network_type_pref_entries_global_miui">Глобально</string>
 	<string name="preferred_network_type_3g_only_warning_miui">Переконайтеся, що ваша SIM карта підтримує режим 3G, інакше мережа може бути недоступна! \n\nУвімкнути режим 3G?.</string>
 	<string name="preferred_network_type_title_miui">Тип мережі</string>
@@ -1392,7 +1393,7 @@
     <string name="lable_call_barring">Заборона виклику</string>
     <string name="lable_all_outgoing">Всі вихідні виклики</string>
     <string name="lable_all_outgoing_international">Вихідні міжнародні виклики</string>
-    <string name="lable_all_out_except">Вихідні міжнародні виклики, за винятком НМСОП</string>
+    <string name="lable_all_out_except">Вих. міжн. виклики, за винятком PLMN</string>
     <string name="lable_all_incoming">Всі вхідні виклики</string>
     <string name="lable_incoming_calls_except">Вхідні виклики в роумінгу</string>
     <string name="deactivate_all">Скасувати всі</string>
@@ -1404,7 +1405,7 @@
     <string name="new_password_label">Новий пароль (4 символи)</string>
     <string name="invalid_password">Введіть пароль (4 символи)</string>
     <string name="confirm_password_label">Підтвердіть пароль</string>
-    <string name="mismatch_password">Паролі не збігаються. Спробуйте ще раз.</string>
+    <string name="mismatch_password">Введені паролі не співпадають</string>
     <string name="password_changed">Пароль змінено</string>
     <string name="enter_callbarring_password">Введіть пароль заборони викликів (4 символи)</string>
     <string name="wrong_password">Помилка паролю</string>

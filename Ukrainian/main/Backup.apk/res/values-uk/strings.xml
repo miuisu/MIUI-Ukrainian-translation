@@ -73,7 +73,7 @@
 	<string name="task_finished">Резервне копіювання завершено</string>
 	<string name="task_canceled">Резервне копіювання скасовано</string>
 	<string name="task_failed">Помилка</string>
-	<string name="task_canceled_local">Скасовано завдань: %s</string>
+	<string name="task_canceled_local">Скасовано (%s завершено)</string>
 	<string name="task_canceled_all_local">Скасувати</string>
 	<string name="task_failed_local">Не вдалося завершити: %s</string>
 	<string name="task_failed_all_local">Завдання не завершено</string>

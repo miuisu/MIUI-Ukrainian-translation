@@ -92,7 +92,6 @@
     <string name="mibi_license_message">Натиснувши \"Гаразд\" це означає згоду з %1$s.</string>
     <string name="mibi_license_message_span">користувацька угода Mi Credit</string>
 	<string name="mibi_license_title">Користувацька угода</string>
-	<string name="mili_center">MiCredit</string>
 	<string name="msg_send_no_net_error">Помилка надсилання повідомлення: не вдається під\'єднатися до мобільної мережі.</string>
 	<string name="msg_send_no_sim_error">Помилка надсилання повідомлення, спробуйте ще раз.</string>
 	<string name="msg_send_send_fail_error">Помилка надсилання повідомлення</string>

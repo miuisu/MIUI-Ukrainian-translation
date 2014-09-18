@@ -368,7 +368,7 @@
 	<string name="operation_save">ОК</string>
 	<string name="google_play">Play Маркет</string>
     <string name="ignore">Пропустити</string>
-    <string name="kuaipan_alert_message">Скачайте додаток KuaiPan з Play Маркету, потім увійдіть у Xiaomi.</string>
+    <string name="kuaipan_alert_message">Скачайте додаток KuaiPan з Play Маркету, потім увійдіть у Mi аккаунт.</string>
     <string name="kuaipan_alert_title">Попередження</string>
     <string name="kuaipan_app">Додаток KuaiPan</string>
     <string name="kuaipan_can_not_find_play">Не вдається знайти Play Маркет</string>

@@ -16,7 +16,7 @@
     <string name="micloud_welcome_skip_login"><u>Пропустити цей крок</u></string>
     <string name="micloud_account_name">Mi Cloud</string>
     <string name="micloud_use_existing">Увійти</string>
-    <string name="micloud_reg_new">Створити акаунт</string>
+    <string name="micloud_reg_new">Створити Mi акаунт</string>
     <string name="micloud_error_empty_username">Введіть логін</string>
     <string name="micloud_error_empty_pwd">Введіть пароль</string>
     <string name="micloud_error_illegal_pwd">Невірний пароль</string>
@@ -73,7 +73,7 @@
 	<string name="recharge_bankcall_title">Банківська карта</string>
     <string name="account_name">обліковий запис: %1$s</string>
     <string name="input_password_hint">Введіть пароль</string>
-    <string name="confirm">Підтвердити</string>
+    <string name="confirm">ОК</string>
     <string name="alert_title_remove_account">Видалити синхронізовані дані?</string>
     <string name="remove_account_notice">Що б ви хотіли зробити з раніш синхронізованими з Mi акаунтом повідомленнями, контактами, журналами виклику та нотатками на пристрої?</string>
     <string name="data_keep_in_phone">Лишити на цьому пристрої</string>
@@ -132,7 +132,7 @@
     <string name="account_dspt">Увійдіть в існуючий аккаут або створіть новий.</string>
     <string name="remove_unactivated_account_notice">Ваш акаунт ще не активований.</string>
     <string name="remove_confirm">Вийти</string>
-    <string name="find_password_on_web_msg">Відвідайте account.xiaomi.com для відновлення паролю.</string>
+    <string name="find_password_on_web_msg">Відвідайте account.mi.com для відновлення паролю.</string>
     <string name="relogin">Увійти заново</string>
     <string name="skip_login">Охвилини вхід</string>
     <string name="removing_account">Вихід…</string>
@@ -380,7 +380,7 @@
     <string name="current_account">Поточний обліковий запис</string>
     <string name="my_xiaomi_account">Обліковий запис Xiaomi</string>
 	<string name="micloud_intro_01_part_01">Заощаджуйте на мобільному інтернеті</string>
- 	<string name="micloud_intro_01_part_02">Хмарні повідомлення дозволять Вам відправляти безкоштовні повідомлння через інтернет.</string>
+ 	<string name="micloud_intro_01_part_02">Хмарні повідомлення дозволять Вам відправляти безкоштовні повідомлння MIUI користувачам через інтернет.</string>
  	<string name="micloud_intro_02_part_01">Переносіть дані без зусиль</string>
  	<string name="micloud_intro_02_part_02">Синхронізуйте контакти, повідомлення, фото та інше між іншими пристроями</string>
  	<string name="micloud_intro_03_part_01">Доступ з любого місця</string>
@@ -553,7 +553,31 @@
     <string name="sync_sub_1_sms_1_intl_sms">Для активації SIM карт буде відправлено одна міжнародна й одна звичайна SMS.</string>
   	<string name="error_device_id">Не вдається одержати IMEI</string>
 	<string name="bank_cards">Банківські карти</string>
-	<string name="error_login">Ошибка авторизации</string>
- 	<string name="relogin_notice">Необходимо авторизироваться повторно</string>
+	<string name="error_login">Помилка авторізації</string>
+ 	<string name="relogin_notice">Необхідно авторизуватися повторно</string>
 	<string name="barcode_add_account_prompt">Щоб додати акаунт, скануйте QR-код знову після авторизування.</string>
+	<string name="activate">Активувати</string>
+    <string name="all_cloud_service_dspt">"Виберіть, які з сервісів Mi Cloud services ви хочете використовувати.
+У будь-який час можна включити/вимкнути цей сервіс в налаштуваннях."</string>
+	<string name="cloud_message_notice">"Хмарні повідомлення дозволять Вам відправляти безкоштовні повідомлення MIUI користувачам через інтернет.
+
+У будь-який час можна включити/вимкнути цей сервіс в налаштуваннях."</string>
+	<string name="cloud_messaging_dspt">Включити Хмарні повідомлення</string>
+	<string name="error_ssl_hand_shake">Проблеми при підключенні до сервера. Спробуйте змінити системний час на більш ранній.</string>
+	<string name="find_device_additional_alert">При заміні SIM карти, буде відправлено повідомлення для подальшого відстеження місця розташування телефону.</string>
+	<string name="find_device_dspt_in_all_setting_1">"Визначте місце розташування, блокувати або видаліть дані з пристрою на "</string>
+	<string name="find_device_notice_1">"Відвідайте "</string>
+	<string name="find_device_notice_3">" для пошуку, блокування або скидання всіх даних на пристрої.
+
+У будь-який час можна включити/вимкнути цей сервіс в налаштуваннях."</string>
+	<string name="mx_dspt_in_all_setting">Безкоштовно відправляти повідомлення по інтернету між MIUI пристроями</string>
+	<string name="sms_prompt_cloud_messaging">Хмарні повідомлення</string>
+	<string name="sms_prompt_cloud_service">Сервіс MiCloud</string>
+	<string name="sms_prompt_find_device">Знайти пристрій</string>
+	<string name="sms_prompt_set_all">ці пристрої</string>
+	<string name="sms_prompt_set_single">цей пристрій</string>
+	<string name="sms_prompt_sync">синхронізація</string>
+	<string name="sync_dspt_in_all_setting">Синхронізація фото, повідомлень, заміток та іншого між вашими Mi пристроями</string>
+	<string name="user_agreement_p6">"Використовуючи цей сервіс ви погоджуєтесь з "</string>
+	<string name="user_agreement_p7">умовами надання послуг Mi Cloud</string>
 </resources>

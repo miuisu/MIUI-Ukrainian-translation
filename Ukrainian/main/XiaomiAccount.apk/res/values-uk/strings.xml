@@ -80,7 +80,7 @@
      <string name="input_password_hint">Введіть пароль</string>
      <string name="input_captcha_hint">Введіть код з картинки</string>
      <string name="input_vcode_hint">Введіть перевірочний код</string>
-     <string name="confirm">Підтвердіть</string>
+     <string name="confirm">ОК</string>
        <string name="alert_title_remove_account">Вийти</string>
      <string name="remove_account_notice">Що б ви хотіли зробити з раніше синхронізованими з Mi акаунтом повідомленнями, контактами, журналами викликів і замітками на пристрої?</string>
      <string name="data_keep_in_device">Залишити на цьому пристрої</string>
@@ -126,7 +126,7 @@
          <string name="account_dspt">Один акаунт для всього Xiaomi</string>
      <string name="remove_unactivated_account_notice">Ваш акаунт ще не активований</string>
      <string name="remove_confirm">Вийти</string>
-     <string name="find_password_on_web_msg">Відвідаєте account.xiaomi.com для відновлення пароля</string>
+     <string name="find_password_on_web_msg">Відвідаєте account.mi.com для відновлення пароля</string>
      <string name="relogin">Увійти заново</string>
      <string name="skip_login">Пропустити вхід</string>
      <string name="skip_login_u"><u>Пропустити</u></string>

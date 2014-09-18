@@ -109,17 +109,17 @@
     <string name="dredge_xunlei_account">Відкрити акаунт Xunlei</string>
     <string name="experience_xunlei_account_speed">Акаунт сервісу Xunlei</string>
     <string name="free_high_speed_channel">Безкоштовне прискорення</string>
-    <string name="get_account_dialog_msg">Отримати інформацію облікового запису</string>
-    <string name="get_order_dialog_msg">Отримати інформацію про замовлення</string>
+    <string name="get_account_dialog_msg">Отримання інформації облікового запису</string>
+    <string name="get_order_dialog_msg">Отримання інформації про замовлення</string>
     <string name="get_order_fail_msg">Не вдалося отримати інформацію про замовлення</string>
     <string name="high_speed_channel">Високошвидкісний канал даних</string>
     <string name="immediately_a_renewal">Оновлення</string>
     <string name="member_cost">Щорічна оплата облікового запису</string>
-    <string name="menu_all_task_pause">Зупинити</string>
+	<string name="menu_all_task_pause">Зупинити все</string>
+	<string name="menu_all_task_start">Запустити все</string>
     <string name="mi_money">Mi Гроші</string>
     <string name="one_month">Один місяць</string>
     <string name="open_xunlei_speed_service">Включити сервіс завантаження Xunlei</string>
-    <string name="original_price">(Початкова ціна</string>
     <string name="period_of_validity">"Термін дії: "</string>
     <string name="turn_off_xunlei_tips">Прискорення завантаження Xunlei вимкнено</string>
     <string name="xunlei_member_annual_fee">Акаунт Xunlei на рік (платиновий)</string>
@@ -127,6 +127,6 @@
     <string name="xunlei_speed_service">Прискорення завантаження Xunlei</string>
 	<string name="add_flow_fail_haveget_msg">Ви вже отримали безкоштовне прискорення Xunlei в цьому місяці</string>
 	<string name="add_flow_fail_vip_msg">Прискорення завантаження Xunlei отримано</string>
-	<string name="add_flow_success_msg">Прискорення на 300Мб успішно отримано</string>
+	<string name="add_flow_success_msg">Прискорення на 300 Мб успішно отримано</string>
 	<string name="display_expire_netiv1">Місячне користування</string>
 </resources>

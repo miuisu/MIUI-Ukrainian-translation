@@ -292,7 +292,7 @@
      <string name="dlg_antispam_mode_delete_title">Видалити правила блокування</string>
      <string name="dlg_antispam_using_mode_delete_message">Видалити поточний профіль і застосувати профіль за замовчуванням?</string>
      <string name="dlg_antispam_using_mode_international_delete_message">Видалити поточний профіль і застосувати профіль за замовчуванням?</string>
-     <string name="dlg_message_not_open_stranger_identify">Перед відзначенням номерів необхідно включити функцію визначення невідомих номерів у налаштуваннях викликів.</string>
+     <string name="dlg_message_not_open_stranger_identify">Перед тим, як позначити номери, необхідно включити функцію визначення невідомих номерів у налаштуваннях викликів.</string>
      <string name="dlg_title_not_open_stranger_identify">Включити визначення невідомих номерів</string>
      <string name="fw_blocked_join">" і "</string>
      <string name="info_antispam_current_mode">Використовується: %s</string>

@@ -578,7 +578,7 @@
     <string name="import_contact">Імпорт контакту</string>
     <string name="secure_access_web_url">Безпечний доступ</string>
     <string name="download_by_browser">Завантажити</string>
-    <string name="launch_market">Відкрити маркет</string>
+    <string name="launch_market">Відкрити Mi маркет</string>
     <string name="see_app_details">Інформація про додаток</string>
     <string name="copy_text">Копіювати текст</string>
     <string name="copy_text_success">Скопійовано</string>
@@ -616,7 +616,7 @@
     <string name="visit_cloud_album">Відвідайте альбом в хмарах</string>
     <string name="find_cloud_album">Знайти альбом в хмарах за допомогою QR коду</string>
     <string name="wifi_connecting">З\'єднання…</string>
-    <string name="wifi_open_fail">Неможливо відкрити Wi-Fi</string>
+    <string name="wifi_open_fail">Не вдалося відкрити мережу Wi-Fi</string>
     <string name="wifi_connect_fail">Час очікування минув</string>
     <string name="wifi_connect_success">Під\'єднано</string>
     <string name="pref_scan_qrcode_title">Сканер QR коду</string>
@@ -1020,13 +1020,13 @@
 	<string name="cannot_move_warning_message"> При зйомці не рухайте пристрій</string>
 	<string name="ubifocus_capture_warning_message">Для одержання кращої якості фото використовуйте 2 об\'єкта для фокусування: перший розташуєте на відстані менш 1 метра від об\'єктива, другий - вдалині</string>
 	<string name="pref_camera_auto_capture_when_stable_title">Автозйомка при фокусі</string>
-	<string name="ubi_focus_capture_fail">Помилка зйомки</string>
+	<string name="ubi_focus_capture_fail">Не вдалося сфотографувати</string>
 	<string name="simple_mode_button_text_4kuhd">Вимкнути режим 4K</string>
  	<string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
  	<string name="pref_camera_countdown_title">Таймер</string>
  	<string name="simple_mode_button_text_countdown">Вимкнути таймер</string>
 	<string name="burst_shoot_exit_button_text">Відключити серійну зйомку</string>
  	<string name="pref_burst_shoot_title">Серійна зйомка</string>
-	<string name="pref_priority_storage_title">Пріоритет збереження на зовнішню пам\'ять</string>
+	<string name="pref_priority_storage_title">Зберігати на зовнішню пам\'ять</string>
 	<string name="pref_long_press_shutter_button_focus_title">Довге натискання кнопки затвору для фокусування</string>
 </resources>
