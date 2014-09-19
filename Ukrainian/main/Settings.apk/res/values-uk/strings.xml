@@ -2585,8 +2585,8 @@ Android File Transfer
  Примітка: для середовища Ubuntu 8.04"</string>
     <string name="msd_install_status_done">Драйвер встановлено</string>
     <string name="msd_driver_download">Завантажити драйвер</string>
-  + <string name="msd_driver_windows_xp_download">Windows: Завантажте драйвер і запустіть Setup.exe.\пСкачати: http://miui.com/win</string>
-+ <string name="msd_driver_mac_download">OSX: Скачайте та встановіть драйвер AndroidFileTransfer.dmg.\пСкачати: http://miui.com/mac</string>
+    <string name="msd_driver_windows_xp_download">Windows: Завантажте драйвер і запустіть Setup.exe.\пСкачати: http://miui.com/win</string>
+    <string name="msd_driver_mac_download">OSX: Скачайте та встановіть драйвер AndroidFileTransfer.dmg.\пСкачати: http://miui.com/mac</string>
     <string name="msd_install_status_undo">Встановлення драйвера</string>
     <string name="password_guard">Захист</string>
     <string name="vpn_safe">Захист</string>
