@@ -12,7 +12,7 @@
     <string name="sleep_mode">Таймер сну</string>
     <string name="cancel_sleep_mode">Вимкнути таймер сну</string>
     <string name="select_quit_time">Зупинити відтворення після… (хв.)</string>
-    <string name="quit_warining">Програвач зупинить відтворення через %d хв.</string>
+    <string name="quit_warining">Автовимкнення через %d хв.</string>
     <string name="cancle_warining">Режим сну вимкнений</string>
     <string name="refresh_media_db">Оновити</string>
     <string name="refresh_in_processing">Оновлення…</string>
@@ -24,7 +24,7 @@
     <string name="music_settings">Налаштування</string>
     <string name="account_setting">Обліковий запис</string>
     <string name="account_and_synchronization">Обліковий запис та синхронізація</string>
-    <string name="xiaomi_account_setting">Обліковий запис Xiaomi</string>
+    <string name="xiaomi_account_setting">Mi акаунт</string>
     <string name="bind_baidu_account_setting">Обліковий запис Bind Baidu</string>
     <string name="bind_baidu_account_summary">Завантажте плейлист з свого облікового запису Baidu music</string>
     <string name="synchronize_playlist_setting">Синхронізувати плейлист</string>

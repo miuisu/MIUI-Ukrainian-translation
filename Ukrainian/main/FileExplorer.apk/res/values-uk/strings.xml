@@ -124,10 +124,10 @@
 	<string name="create_kuaipan_shortcut_pref">Відправити на робочий стіл</string>
     <string name="login_reg_content0">Використовуйте KuaiPan з будь-якого місця.</string>
     <string name="login_reg_content">KuaiPan дозволяє зберігати файли та синхронізувати їх з іншими пристроями</string>
-    <string name="login_reg_login_xiaomi">Вхід в обліковий запис Xiaomi</string>
+    <string name="login_reg_login_xiaomi">Вхід в Mi aкаунт</string>
     <string name="start_use_xiaomi_account">Почніть користуватись KuaiPan</string>
     <string name="pan_settting">Налаштування KuaiPan</string>
-    <string name="xiaomi_account">Обліковий запис Xiaomi</string>
+    <string name="xiaomi_account">Mi aкаунт</string>
     <string name="space_usage">Використано місця</string>
     <string name="start_cleanup">Очищення</string>
     <string name="local_cache">Локальний кеш</string>
@@ -259,7 +259,7 @@
     <string name="bind_account">Синхр.існуючий обліковий запис</string>
     <string name="bind_account_summary">Синхронізувати обліковий запис Kuaipan з обліковим записом Xiaomi</string>
     <string name="binded_accout_title">Облікові записи синхронізовано</string>
-    <string name="binded_accout_description">Обліковий запис Xiaomi синхронізований з обліковим записом KuaiPan. Для входу в KuaiPan Ви можете використовувати обліковий запис Xiaomi.</string>
+    <string name="binded_accout_description">Mi aкаунт синхронізований з обліковим записом KuaiPan. Для входу в KuaiPan Ви можете використовувати Mi aкаунт.</string>
     <string name="scanning_on_going">Сканування…</string>
     <string name="scanning" formatted="false">Сканування додатків %d… (Всього: %d)</string>
     <string name="sys_size_title">Всього місця</string>

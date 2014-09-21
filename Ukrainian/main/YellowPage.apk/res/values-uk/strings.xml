@@ -318,7 +318,7 @@
      <string name="account_order">Мої замовлення</string>
      <string name="account_address">Мої адреси</string>
      <string name="account_title">Профіль</string>
-     <string name="account_type_name">Акаунт Xiaomi</string>
+     <string name="account_type_name">Mi акаунт</string>
      <string name="account_verify_password"> Для безпечного використання сервісів необхідно перевірити пароль акаунта</string>
      <string name="account_updating_device">Завантаження сервісів…</string>
      <string name="account_updating_device_failed">Помилка авторизації</string>

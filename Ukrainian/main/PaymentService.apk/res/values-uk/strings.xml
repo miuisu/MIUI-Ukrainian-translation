@@ -105,8 +105,8 @@
 	<string name="msg_telecom_picker_hint_2_2">Ви отримаєте текст з Підтвердженням.</string>
 	<string name="msg_telecom_sending">Під\'єднання до мобільного провайдера…</string>
 	<string name="next">Далі</string>
-	<string name="password_error">Будь ласка, введіть Ваш пароль</string>
-	<string name="password_hint">Будь ласка, введіть Ваш пароль облікового запису Xiaomi:</string>
+	<string name="password_error">Введіть Ваш пароль</string>
+	<string name="password_hint">Введіть Ваш пароль Mi акаунту:</string>
 	<string name="pay_record_empty">Немає платіжної історії</string>
 	<string name="paytool_error_install">Невдале встановлення мобільного плагіну безпеки %1$s</string>
 	<string name="paytool_error_msp">%1$s помилка поповнення</string>
@@ -186,7 +186,7 @@
 	<string name="voucher_input_password_prompt">Введіть пароль</string>
 	<string name="voucher_edit_hint">Пароль</string>
 	<string name="voucher_edit_limit">тільки цифри</string>
-	<string name="micloud_summary">Увійдіть в обліковий запис Xiaomi щоб синхронізувати контакти, зображення, повідомлення та інші дані з сервісом в хмарах.</string>
+	<string name="micloud_summary">Увійдіть в Mi акаунт щоб синхронізувати контакти, зображення, повідомлення та інші дані з сервісом в хмарах.</string>
 	<string name="micloud_is_what">Що таке Mi Cloud?</string>
 	<string name="micloud_more">Детальніше</string>
 	<string name="micloud_intro_01_part_01">Економити на витратах SMS</string>
@@ -213,7 +213,7 @@
 	<string name="pay_record_typeall">Всі</string>
 	<string name="button_recharge_pay">Підтвердити</string>
 	<string name="recharge_novalid_method">Невірний спосіб поповнення</string>
-    <string name="account_detail">Обліковий запис Xiaomi: \n%1$s</string>
+    <string name="account_detail">Mi акаунт: \n%1$s</string>
 	<string name="btn_next">Далі</string>
 	<string name="voucher_error_password">Невірний код</string>
 	<string name="progress_error_recharge_summary">Помилка платежу. Будь ласка, спробуйте пізніше.</string>

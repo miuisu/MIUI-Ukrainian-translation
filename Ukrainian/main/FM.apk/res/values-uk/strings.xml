@@ -268,7 +268,7 @@
     <string name="ok">ОК</string>
     <string name="popup_time">через %d хв.</string>
     <string name="preset">Станція</string>
-    <string name="quit_warining">Відтворювання радіо буде зупинено через %d хвилин</string>
+    <string name="quit_warining">Автовимкнення через %d хв.</string>
     <string name="saved">Зберегти</string>
     <string name="scan">Сканувати</string>
     <string name="select_quit_time">Виберіть час сну (в хвилинах)</string>

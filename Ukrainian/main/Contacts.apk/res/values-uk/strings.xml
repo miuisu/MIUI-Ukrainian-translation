@@ -81,7 +81,7 @@
     <string name="removePhoto">Видалити світлину</string>
     <string name="noContacts">Немає контактів</string>
     <string name="noGroups">Немає груп</string>
-    <string name="noAccounts">Для створення груп потрібен обліковий запис.</string>
+    <string name="noAccounts">Для створення груп потрібен акаунт.</string>
     <string name="noMatchingContacts">Відповідних контакти не знайдено.</string>
     <string name="noContactsWithPhoneNumbers">Немає контактів з номерами телефонів</string>
     <string name="emptyGroup">В цій групі немає людей</string>
@@ -125,7 +125,7 @@
     <string name="dialerDialpadHintText">Наберіть номер для виклику</string>
     <string name="simContacts_emptyLoading">Завантаження контактів з SIM карти…</string>
     <string name="simContacts_title">Контакти на SIM карті</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо обліковий запис був тільки що доданий, потрібно декілька хвилин для синхронізації контактів.)</string>
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо акаунт був тільки що доданий, потрібно декілька хвилин для синхронізації контактів.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Відсутні контакти для відображення.</string>
     <string name="nocontactshelptext">" У вас немає контактів для відображення.\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
          \n<li><font fgcolor="#ffffffff"><b>Акаунти</b></font> для додавання або настроювання акаунта з контактами, для синхронізації із пристроєм\n</li>
@@ -456,7 +456,7 @@
     <string name="social_widget_label">Контакт</string>
     <string name="social_widget_loading">Завантаження…</string>
     <string name="contacts_unavailable_create_contact">Створити новий контакт</string>
-    <string name="contacts_unavailable_add_account">Війти в обліковий запис</string>
+    <string name="contacts_unavailable_add_account">Війти в акаунт</string>
     <string name="contacts_unavailable_import_contacts">Імпорт контактів з файлу</string>
     <string name="create_group_dialog_title">Створити нову групу</string>
     <string name="create_group_item_label">Створити нову групу</string>
@@ -517,13 +517,13 @@
     <string name="toast_displaying_all_contacts">Показано всі контакти</string>
     <string name="no_account_prompt">Під\'єднайте контакти до облікового запису Google:\n\n• Доступ з будь-якого браузера.\n• Безпечні резервні копії контактів.</string>
     <string name="generic_no_account_prompt">Ваші контакти будуть збережені навіть при втраті телефону: синхронізуйтесь з онлайн сервісом.</string>
-    <string name="generic_no_account_prompt_title">Додати обліковий запис</string>
+    <string name="generic_no_account_prompt_title">Додати акаунт</string>
 	<string name="contact_editor_prompt_zero_accounts">Зберегти в телефоні або в новому обліковому записі</string>
-    <string name="contact_editor_prompt_one_account">Контакт буде додано в обліковий запис %1$s.</string>
-    <string name="contact_editor_prompt_multiple_accounts">Оберіть обліковий запис, в який зберігається новий контакт</string>
+    <string name="contact_editor_prompt_one_account">Контакт буде додано в акаунт %1$s.</string>
+    <string name="contact_editor_prompt_multiple_accounts">Оберіть акаунт, в який зберігається новий контакт</string>
     <string name="keep_local">Зберегти локально</string>
-    <string name="add_account">Додати обліковий запис</string>
-    <string name="add_new_account">Додати обліковий запис</string>
+    <string name="add_account">Додати акаунт</string>
+    <string name="add_new_account">Додати акаунт</string>
     <string name="dialog_phone_call_prohibited_message">Виклик не надіслано</string>
     <string name="dialog_voicemail_not_ready_message">Для налаштування голосової пошти перейдіть в Меню > Налаштування.</string>
     <string name="dialog_voicemail_airplane_mode_message">Увімкніть режим \"В літаку\", щоб викликати голосову пошту.</string>
@@ -594,7 +594,7 @@
     <string name="sim_contact_search_error">Відбулася помилка при пошуку на SIM карті</string>
     <string name="contacts_unavailable_add_xiaomi_account">Синхронізація контактів Xiaomi</string>
     <string name="noContactHelpTextAccountsInfo">Синхронізація контактів Xiaomi, Google і Exchange</string>
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Відновлення даних за допомогою облікового запису Xiaomi</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Відновлення даних за допомогою Mi акаунта</string>
     <string name="group_name_contacts">Контакти</string>
     <string name="group_name_friends">Друзі</string>
     <string name="group_name_family">Сім\'я</string>
@@ -873,9 +873,9 @@
     <string name="device_import_failed_message">Помилка імпорту</string>
     <string name="hint_more_contact">Об\'єднати дублікати контактів</string>
     <string name="device_import_account_dialog_title_prefix">"Знайдено контактів: %1$s\n"</string>
-    <string name="device_import_account_dialog_title">Оберіть обліковий запис</string>
+    <string name="device_import_account_dialog_title">Оберіть акаунт</string>
     <string name="device_import_account_dialog_title_suffix">"\n(знайдено контактів: %1$s)"</string>
-    <string name="device_import_local_account">Локальний обліковий запис</string>
+    <string name="device_import_local_account">Локальний акаунт</string>
     <string name="import_name">Ім\'я</string>
     <string name="checkhint">Перевірте інший телефон</string>
     <string name="prepare_import">Імпорт контактів</string>
@@ -885,7 +885,7 @@
     <string name="device_import_progress_toast">Контактів імпортовано: %1$d</string>
     <string name="no_contact_in_other_phone">Контактів не виявлено</string>
     <string name="no_connection_dialog_title">Помилка під\'єднання Bluetooth</string>
-    <string name="add_xiaomi_account_dialog_title">Оберіть обліковий запис</string>
+    <string name="add_xiaomi_account_dialog_title">Оберіть акаунт</string>
     <string name="add_xiaomi_account_dialog_msg">Використовуйте Mi акаунт для синхронізації контактів та доступу до них з будь-якого пристрою!</string>
     <string name="add_xiaomi_account_dialog_btn">Використовувати Mi акаунт</string>
     <string name="keep_local_btn">Використовувати пам\'ять телефону</string>
@@ -1057,10 +1057,10 @@
     <string name="resource_comment_edit_text_default">Написати коментар</string>
     <string name="resource_comment_publish">Надіслати</string>
     <string name="resource_comment_name_default">Користувач %1$s</string>
-    <string name="resource_comment_account_need_activitied">Активуйте обліковий запис Xiaomi</string>
+    <string name="resource_comment_account_need_activitied">Активуйте акаунт Xiaomi</string>
     <string name="resource_comment_rate">Оцінка:</string>
     <string name="resource_comment_entry_tips">Показати коментарі</string>
-    <string name="fail_to_add_account">Не вдалося додати обліковий запис</string>
+    <string name="fail_to_add_account">Не вдалося додати акаунт</string>
     <string name="menu_refresh">Оновити</string>
     <string name="ringtone_volume_mute">Звук вимкнено</string>
     <string name="pref_key_sim_manage">Контакти SIM карти</string>
@@ -1113,7 +1113,7 @@
     <string name="resource_exchange_purchase_unkown_error">Відбулася невідома помилка. Відвідайте http://market.xiaomi.com для перегляду статусу платежу.</string>
     <string name="resource_comment_score_count">Користувачів: %1$s</string>
     <string name="resource_comment_loading_list">Завантаження…</string>
-    <string name="account_unactivated">Обліковий запис Xiaomi не активовано</string>
+    <string name="account_unactivated">Mi aкаунт не активовано</string>
     <string name="to_activate_the_account">Активуйте Mi акаунт</string>
     <string name="resource_menu_refresh">Оновити</string>
     <string name="resource_unknow_error">Невідома помилка</string>

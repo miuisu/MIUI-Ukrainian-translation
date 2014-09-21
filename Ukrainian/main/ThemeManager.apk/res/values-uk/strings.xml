@@ -129,7 +129,7 @@
 	<string name="resource_comment_description">%1$s коментар до %2$s %3$s %4$s</string>
 	<string name="resource_comment_count">%1$s оцінок %2$s загальна кількість коментарів (%3$s версія)</string>
 	<string name="resource_comment_name_default">Користувач %1$s</string>
-	<string name="resource_comment_account_need_activitied">Активуйте обліковий запис Xiaomi</string>
+	<string name="resource_comment_account_need_activitied">Активуйте Mi акаунт</string>
 	<string name="resource_comment_rate">Оцінка:</string>
 	<string name="resource_comment_entry_tips">Показати коментарі</string>
 	<string name="fail_to_add_account">Не вдалося додати акаунт</string>

@@ -33,7 +33,7 @@
      <string name="unlock_string">ОК</string>
      <string name="open_wifi_settings">Відкрити мережеві підключення</string>
      <string name="lock_screen_date">EE, d MMMM yyyy</string>
-     <string name="lockscreen_glogin_instructions">Введіть акаунт Xiaomi для розблокування</string>
+     <string name="lockscreen_glogin_instructions">Увійдіть в Mi акаунт  для розблокування</string>
      <string name="lockscreen_glogin_password_hint">Пароль</string>
      <string name="lockscreen_glogin_checking_password">Перевірка…</string>
      <string name="login_website_in_case_forget_password">Для скидання пароля відвідайте i.mi.com.</string>
@@ -65,7 +65,7 @@
      <string name="lockscreen_access_pattern_cleared">Ключ очищений</string>
      <string name="lockscreen_access_pattern_cell_added">Оператор доданий</string>
      <string name="lockscreen_access_pattern_detected">Кінець ключа</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви ввели пароль невірно %d раз(а). Після %d невірних спроб введення вам буде запропоновано розблокувати телефон за допомогою акаунта Xiaomi. Повторите спробу через %d сек."</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви ввели пароль невірно %d раз(а). Після %d невірних спроб введення вам буде запропоновано розблокувати телефон за допомогою Mi акаунта. Повторите спробу через %d сек."</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Ви ввели пароль невірно %d раз(а). Після %d невірних спроб усі дані будуть очищені й відновлені заводські настроювання</string>
      <string name="lockscreen_failed_attempts_now_wiping">Ви ввели пароль невірно %d раз(а). Усі дані будуть очищені й відновлені заводські настроювання</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Розблоковане Bluetooth пристроєм</string>

@@ -59,7 +59,7 @@
     <string name="reminders_label">Додати нагадування</string>
     <string name="no_syncable_calendars">Нема календарів</string>
     <string name="no_calendars_found">Додати подію можна лише в видимий календар, пов\'язаний с обліковкою Google. Натисніть \"Додати обліковку\" або, якщо обліковку вже додано, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Скасувати\" й створіть видимим хоча б один календар.</string>
-    <string name="create_an_account_desc">Календар працює краще з акаунтом Xiaomi. \n\n• Доступ з любого пристрою\n• Надійна синхронізація подій</string>
+    <string name="create_an_account_desc">Календар працює краще з Mi акаунтом. \n\n• Доступ з любого пристрою\n• Надійна синхронізація подій</string>
     <string name="add_account">Додати обліковку</string>
     <string name="view_event_calendar_label">Календар:</string>
     <string name="view_event_organizer_label">Організатор:</string>

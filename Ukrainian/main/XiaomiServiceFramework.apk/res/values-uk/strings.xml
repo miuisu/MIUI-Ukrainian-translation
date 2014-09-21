@@ -141,8 +141,8 @@
 	<string name="cmcc_micloud_dspt">Використовуйте Mi Cloud для синхронізації даних, визначння місцезнаходження телефону.</string>
     <string name="label_order_name">Назва:</string>
     <string name="label_order_price">Ціна:</string>
-    <string name="password_hint">Введіть пароль від обліковки Xiaomi:</string>
-    <string name="password_error">Введіть пароль від Вашої обліковки</string>
+    <string name="password_hint">Введіть пароль від Mi акаунту:</string>
+    <string name="password_error">Введіть пароль від вашого акаунту</string>
     <string name="progress_creating">Отримую інформацію про замовлення…</string>
     <string name="progress_loading">Оброблюю, зачекайте…</string>
     <string name="progress_connecting">З\'єднання…</string>
@@ -369,7 +369,7 @@
     <string name="access_token_invalid_warning">Помилка акаунта Weibo.</string>
     <string name="service_error">Помилка сервісу</string>
     <string name="enable_micloud">Реєстрація або вхід</string>
-    <string name="micloud_summary">Вхід в обліковий запис Xiaomi для синхронізації контактів, світлин та інших функцій.</string>
+    <string name="micloud_summary">Вхід в Mi акаунт для синхронізації контактів, світлин та інших функцій.</string>
     <string name="micloud_is_what">Що таке Mi Cloud?</string>
     <string name="available_functionality">Доступні функції</string>
     <string name="internet_message">Хмарні повідомлення</string>
@@ -378,7 +378,7 @@
     <string name="cloud_messaging">Хмарні повідомлення</string>
     <string name="xiaomi_money_service">MiCredit центр</string>
     <string name="current_account">Поточний обліковий запис</string>
-    <string name="my_xiaomi_account">Обліковий запис Xiaomi</string>
+    <string name="my_xiaomi_account">Mi акаунт</string>
 	<string name="micloud_intro_01_part_01">Заощаджуйте на мобільному інтернеті</string>
  	<string name="micloud_intro_01_part_02">Хмарні повідомлення дозволять Вам відправляти безкоштовні повідомлння MIUI користувачам через інтернет.</string>
  	<string name="micloud_intro_02_part_01">Переносіть дані без зусиль</string>
@@ -389,7 +389,7 @@
     <string name="start_micloud">Почати</string>
     <string name="micloud_proceed">Продовжити</string>
     <string name="disable_micloud"><u>Відключити Mi Cloud</u></string>
-	<string name="account_detail">Обліковий запис Xiaomi:\n%1$s</string>
+	<string name="account_detail">Mi акаунт:\n%1$s</string>
 	<string name="error_user_name">Невірне ім\'я користувача</string>
 	<string name="quick_login_step2_title">2х-етапна веріфікація</string>
 	<string name="input_captcha_hint">Введіть код з малюнку</string>
@@ -540,11 +540,11 @@
     <string name="activate_feature_mms_sync">Синхронізація SMS</string>
     <string name="activate_feature_call_log_sync">Журнал викликів</string>
     <string name="activate_feature_find_device">Пошук пристрою</string>
-    <string name="activate_desc_sim_card">Для активації акаунта Xiaomi буде відправлена SMS</string>
-    <string name="activate_desc_intl_sim_card">Для активації акаунта Xiaomi буде відправлена інтернаціональна SMS</string>
-    <string name="activate_desc_mixed_sim_cards">Для активації акаунта Xiaomi на двох SIM картах будуть відправлені SMS</string>
-    <string name="activate_desc_2_sim_cards">Для активації акаунта Xiaomi на двох SIM картах будуть відправлені SMS</string>
-    <string name="activate_desc_2_intl_sim_cards"> Для активації акаунта Xiaomi на двох SIM картах будуть відправлені інтернаціональні SMS</string>
+    <string name="activate_desc_sim_card">Для активації Mi акаунта буде відправлена SMS</string>
+    <string name="activate_desc_intl_sim_card">Для активації Mi акаунта буде відправлена інтернаціональна SMS</string>
+    <string name="activate_desc_mixed_sim_cards">Для активації Mi акаунта на двох SIM картах будуть відправлені SMS</string>
+    <string name="activate_desc_2_sim_cards">Для активації Mi акаунта на двох SIM картах будуть відправлені SMS</string>
+    <string name="activate_desc_2_intl_sim_cards"> Для активації Mi акаунта на двох SIM картах будуть відправлені інтернаціональні SMS</string>
     <string name="foreign_login"><u>Код країни</u></string>
 	<string name="sync_sub_1_sms">Для активації SIM карти буде відправлена SMS.</string>
     <string name="sync_sub_1_intl_sms">Для активації SIM карти буде відправлена міжнародна SMS.</string>

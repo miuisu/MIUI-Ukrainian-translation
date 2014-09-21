@@ -534,7 +534,7 @@
 	<string name="wifi_share_action_turn_off">Зупинити доступ до мережі</string>
     <string name="wifi_share_list_empty">Неможливо знайти публічну мережу</string>
 	<string name="wifi_share_action_turn_on">Поділитися Wi-Fi</string>
-	<string name="wifi_share_action_turn_on_summary">Спочатку увійдіть в обліковий запис Xiaomi.</string>
+	<string name="wifi_share_action_turn_on_summary">Спочатку увійдіть в Mi акаунт.</string>
 	<string name="wifi_share_add">Поділитися моїми мережами</string>
 	<string name="wifi_share_add_summary">Коли ви ділитеся своєю мережею Wi-Fi,\nви можете використовувати мережі інших користувачів.</string>
 	<string name="wifi_share_connect">Під\'єднатися</string>
@@ -2207,7 +2207,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="available_size">%s доступно</string>
     <string name="total_size">%s всього</string>
     <string name="memory_title">Доступно %1$s з %2$s</string>
-    <string name="xiaomi_account">Обліковий запис Xiaomi</string>
+    <string name="xiaomi_account">Mi акаунт</string>
     <string name="sync_settings">Синхронізація</string>
     <string name="sms_received_sound_title">Вхідні SMS</string>
     <string name="sms_delivered_sound_title">Доставлені SMS</string>
@@ -2223,7 +2223,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="ac_privacy_mode_sum">Запитувати пароль для вимкнення режиму захисту</string>
     <string name="access_control_password_title">Пароль</string>
     <string name="access_control_need_to_unlock">Запит пароля:</string>
-    <string name="access_control_reset_by_account">Увійти в обліковий запис Xiaomi для скидання паролю</string>
+    <string name="access_control_reset_by_account">Увійти в Mi акаунт для скидання паролю</string>
     <string name="access_control_need_password">"%s захищено\n"</string>
     <string name="access_control_no_back_footer">Натисніть [icon] для виходу</string>
     <string name="access_control_recording_intro_header">Задайте графічний ключ розблокування:</string>
@@ -2673,7 +2673,7 @@ Android File Transfer
     <string name="mdb_restore_mode">Режим відновлення</string>
     <string name="mdb_entering">Вхід</string>
     <string name="private_sms_need_to_unlock">Запит паролю:</string>
-    <string name="private_sms_reset_by_account">Увійдіть в обліковий запис Xiaomi для скидання паролю</string>
+    <string name="private_sms_reset_by_account">Увійдіть в Mi акаунт для скидання паролю</string>
     <string name="private_sms_recording_intro_header">Нарисуйте графічний ключ</string>
     <string name="cancel_alert">Скасувати зміни?</string>
     <string name="android_beam_witch_label">Увімкнути Android Beam</string>
@@ -4269,7 +4269,7 @@ Android File Transfer
  	<string name="account_list">Усі</string>
  	<string name="account_add">Додати</string>
  	<string name="private_gallery_need_to_unlock">Уведіть пароль:</string>
- 	<string name="private_gallery_reset_by_account">Щоб скинути пароль, увійдіть в акаунт Xiaomi.</string>
+ 	<string name="private_gallery_reset_by_account">Щоб скинути пароль, увійдіть в Mi акаунт.</string>
  	<string name="private_gallery_recording_intro_header">Намалюйте ключ блокування</string>
  	<string name="system_app_settings">Системні додатки</string>
  	<string name="connect_to_internet">Підключення до інтернету</string>

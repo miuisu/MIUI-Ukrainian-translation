@@ -59,7 +59,7 @@
      <string name="failed_install">Установка не вдалася</string>
      <string name="unavailable_net">Установка не вдалася: немає підключення до мережі</string>
      <string name="unavailable_storage">Установка не вдалася: не вдалося використовувати SD карту</string>
-     <string name="no_available_xiaomi_shop">Не вдалося відкрити маркет Xiaomi</string>
+     <string name="no_available_xiaomi_shop">Не вдалося відкрити Mi маркет</string>
      <string name="task">Тригер завдання</string>
      <string name="null_task">Немає завдань</string>
      <string name="create_configs_prompt"> Для додавання завдання, натисніть Додати</string>

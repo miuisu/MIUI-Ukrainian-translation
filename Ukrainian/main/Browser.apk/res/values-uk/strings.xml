@@ -451,7 +451,7 @@
 	<string name="pref_reading_mode_enabled_title_summary">Повинен бути включений JavaScript</string>
 	<string name="pref_developer_options">Налаштування розробника</string>
 	<string name="pref_developer_options_summary">Налагодження або настройка звітів</string>
-	<string name="add_xiaomi_account_warning">Увійдіть в акаунт Xiaomi</string>
+	<string name="add_xiaomi_account_warning">Увійдіть в Mi акаунт</string>
 	<string name="report_reading_mode_issue">Звіт помилки в MIUI</string>
 	<string name="pref_key_gesture_title">Клавіші та жести</string>
 	<string name="pref_key_title">Налаштування клавіш</string>

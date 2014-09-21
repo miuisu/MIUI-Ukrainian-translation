@@ -118,7 +118,7 @@
      <string name="loading_tv">" "<CDATA>Завантаження…</CDATA>" "</string>
      <string name="loading_video">" "<CDATA>Завантаження відео…</CDATA>" "</string>
      <string name="local_count_ji">Made in PRC %d Ep.</string>
-     <string name="login_tip_content">Увійдіть у ваш обліковий запис Xiaomi для синхронізації та оновлення переглядів, на які ви підписалися.</string>
+     <string name="login_tip_content">Увійдіть у ваш Mi aкаунт для синхронізації та оновлення переглядів, на які ви підписалися.</string>
      <string name="login_tip_title">Авторизація</string>
      <string name="mediaset">Серії</string>
      <string name="mediasetupdated">Серії оновлені</string>
@@ -133,7 +133,7 @@
      <string name="no_comment_tip">Не можна надіслати пустий коментар</string>
      <string name="no_favorite">Порожньо</string>
      <string name="no_filter_media">Немає результатів пошуку</string>
-     <string name="no_login_xiaomi_account">Увійдіть в обліковий запис Xiaomi перед тим як коментувати</string>
+     <string name="no_login_xiaomi_account">Увійдіть в Mi aкаунт перед тим як коментувати</string>
      <string name="no_media">Немає відео</string>
      <string name="no_myfavorite">Пусто</string>
      <string name="no_myfavorite_advice">Обране</string>
@@ -205,7 +205,7 @@
      <string name="waitfornewset_tip_content">Ви будете повідомлені, коли новий епізод або додатковий контент стане доступним.</string>
      <string name="will_live_status">Live</string>
      <string name="write_comment">Додати</string>
-     <string name="xiaomi_account_type_unsupported">Ваша система не підтримує обліковий запис Xiaomi</string>
+     <string name="xiaomi_account_type_unsupported">Ваша система не підтримує Mi aкаунт</string>
      <string name="xiaomi_user">Обліковий запис Xiaomi</string>
      <string name="year">Рік</string>
      <string name="yestorday">Вчора</string>
@@ -274,10 +274,8 @@
     <string name="loading_video_netplay_label_v5">Завантаження відео…</string>
     <string name="buffering_video_netplay_label_v5">Буферизація відео…</string>
     <string name="to_be_play_label_v5">Відтворення</string>
-    <string name="episode_prefix" />
     <string name="about_version_label">Версія</string>
     <string name="about_developer_label">Розроблювач</string>
-    <string name="about_developer_name">Xiaomi</string>
     <string name="nowifi_alert_dialog_title">Попередження</string>
     <string name="nowifi_alert_dialog_message">Продовжити відтворення відео?</string>
     <string name="nowifi_alert_dialog_continue">ОК</string>
