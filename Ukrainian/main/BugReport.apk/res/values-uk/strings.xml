@@ -30,9 +30,9 @@
 	<string name="section_description">Опис</string>
 	<string name="section_err_type">Тип звіту</string>
 	<string name="section_screenshot">Скріншот</string>
-	<string name="status_msg_collecting_log">Збереження логів…</string>
+	<string name="status_msg_collecting_log">Збір логів…</string>
 	<string name="status_msg_pending_upload">Звітів завантажується: %d…</string>
-	<string name="toast_description_required">Відгук не може бути порожнім</string>
+	<string name="toast_description_required">Звіт не може бути порожнім</string>
 	<string name="toast_feedback_pending_wlan">Ваш звіт буде відправлений при підключенні до мережі Wi-Fi</string>
 	<string name="toast_feedback_submitted">Ваш звіт успішно відправлений</string>
 	<string name="toast_pending_log_collection">Збір логів…</string>

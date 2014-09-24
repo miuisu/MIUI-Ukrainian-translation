@@ -66,7 +66,7 @@
  	<string name="close">Закрити</string>
  	<string name="cloud_album_more_settings">Хмарні альбоми</string>
  	<string name="cloud_album_set_create">Новий</string>
-	<string name="cloud_album_set_scan_qr_code">QR-код</string>
+	<string name="cloud_album_set_scan_qr_code">QR код</string>
      <string name="scan_qr_code_failure">Помилка сканування</string>
  	<string name="cloud_camera_display_name">Камера</string>
  	<string name="cloud_gallery_no_pictures">Немає фото</string>
@@ -282,7 +282,7 @@
  	<string name="remove_recent_album">Вилучити з обраних альбомів</string>
  	<string name="rename_failed">Не вдалося перейменувати</string>
  	<string name="rename_failed_duplicated_name">Ім\'я вже існує</string>
- 	<string name="request_qr_code_failed">Помилка одержання QR-коду</string>
+ 	<string name="request_qr_code_failed">Помилка одержання QR коду</string>
  	<string name="request_sms_url_failed">Не вдалося запросити інформацію</string>
 	<string name="request_sms_url_msg">Запит інформації…</string>
 	<string name="request_sms_url_title">Попередження</string>
@@ -338,7 +338,7 @@
  	<string name="share_album">Обмін альбомами</string>
 	<string name="share_album_owner">Володар</string>
 	<string name="scan_qr_code_top_text">Хмарний альбом</string>
-    <string name="scan_qr_code_buttom_text">Скануйте QR-код для перегляду цьогу альбому</string>
+    <string name="scan_qr_code_buttom_text">Скануйте QR код для перегляду цьогу альбому</string>
 	<string name="retry_to_request_qr_code">Повтор</string>
     <string name="album_member">Користувачі %s</string>
 	<string name="share_by_email_start">Поділитися \"%1$s\" в фоновом режимі</string>
@@ -432,9 +432,9 @@
  	<string name="widget_type_shuffle">Перемішати всі зображення</string>
  	<string name="width">Ширина</string>
  	<string name="yes">ОК</string>
- 	<string name="scan_barcode_to_join">Скануйте QR-код для одержання доступу в альбом</string>
-    <string name="where_is_barcode">Де одержати QR-код?</string>
-    <string name="scan_barcode_guide">Одержання QR-код у альбому</string>
+ 	<string name="scan_barcode_to_join">Скануйте QR код для одержання доступу в альбом</string>
+    <string name="where_is_barcode">Де одержати QR код?</string>
+    <string name="scan_barcode_guide">Одержання QR код у альбому</string>
     <string name="confirm">Гаразд</string>
 	<string name="click_top_right">Натисніть на іконку зверху справа</string>
 	<string name="pick_too_much_tips">Обране занадто багато фото. Максимум: %d.</string>
@@ -453,10 +453,10 @@
  	<string name="alert_message_initial_cloud">Світлини й скріншоти будуть автоматично завантажуватися в хмарний альбом тільки при активній мережі Wi-Fi.</string>
  	<string name="send_to_cloud_failed_message">Неможливо додати в хмарний альбом</string>
  	<string name="cant_delete_system_album">\"%s\" системний альбом, який не може бути вилучений</string>
- 	<string name="share_album_qr_code"> QR-код</string>
+ 	<string name="share_album_qr_code"> QR код</string>
  	<string name="share_album_share_to">Відправити</string>
-     <string name="scan_qr_code"> Необхідно сканувати QR-код, щоб одержати посилання на загальний альбом</string>
-     <string name="request_qr_code">Одержання QR-код у. Будь ласка, почекайте…</string>
+     <string name="scan_qr_code"> Необхідно сканувати QR код, щоб одержати посилання на загальний альбом</string>
+     <string name="request_qr_code">Одержання QR код у. Будь ласка, почекайте…</string>
  	<string name="can_modified">Дозволити одержувачеві додавати зображення</string>
      <string name="sharer_status_waiting">Очікування…</string>
      <string name="sharer_status_accepted">Прийняте</string>
@@ -526,7 +526,7 @@
     <string name="item_not_sync_for_origin_video">Відео не було синхронізовано з хмарним сервісом і не може бути завантажено</string>
     <string name="item_not_sync_for_refocus_data">Зображення не було синхронізовано з хмарним сервісом і перефокусовані дані не можуть бути завантажені</string>
     <string name="ubifocus_guide_text">Довге натискання для перефокусування</string>
-		<string name="bigscreen_slide_playing">Слайдшоу відтворюється на пристрої: %s</string>
+		<string name="bigscreen_slide_playing">Слайдшоу відтворюється на %s</string>
 	<string name="confirm_delete_has_cloud_image">Видалити %s фото із Mi Cloud?</string>
 	<string name="confirm_delete_has_cloud_image_video">Видалити файлів з Mi Cloud: %s?</string>
 	<string name="confirm_delete_has_cloud_local_image">Видалити %s фото з пам\'яті телефону й Mi Cloud?</string>
@@ -551,5 +551,5 @@
 	<string name="priority_storage_summary">Автоматично зберігати файли на SD карту, коли вона підключена.</string>
 	<string name="crop_recognize_text">Розпізнати</string>
 	<string name="crop_save_text_setas">Застосувати</string>
-	<string name="recognizing_image">Розпізнавання фото…</string>
+	<string name="recognizing_image">Розпізнавання зображення…</string>
 </resources>

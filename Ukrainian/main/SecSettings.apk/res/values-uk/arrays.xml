@@ -102,7 +102,18 @@
         <item>Невдалий</item>
         <item>З\'єднано</item>
         <item>Тимчасове уникнення слабкого з\'єднання</item>
-    </string-array>
+        <item>Підключено</item>
+        <item>CW вимкнено</item>
+        <item>CW реєстрація</item>
+        <item>CW зареєстровано</item>
+        <item>CW помилка реєстрації</item>
+        <item>CW PPP налаштування</item>
+        <item>CW PPP помилка</item>
+        <item>CW Deiniting</item>
+        <item>CW готово</item>
+        <item>CW зупинка WLAN</item>
+        <item>Підключено. CW помилка реєстрації.</item>
+        <item>Підключено. CW PPP помилка.</item>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Сканування…</item>

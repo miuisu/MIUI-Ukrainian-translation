@@ -6,7 +6,7 @@
     <string name="save">Зберегти</string>
     <string name="select_all">Вибрати всі</string>
     <string name="deselect_all">Зняти вибір</string>
-    <string name="network_error">Відсутнє під\'єднання до мережі. Перевірте налаштування та спробуйте ще раз.</string>
+    <string name="network_error">Не вдалося підключитися до мережі. Перевірте підключення і повторіть спробу.</string>
     <string name="server_failed">Не вдалося під\'єднатися до серверу. Спробуйте пізніше.</string>
     <string name="enter_sleep_mode">Таймер сну</string>
     <string name="sleep_mode">Таймер сну</string>
@@ -41,7 +41,7 @@
     <string name="retry">Повтор</string>
     <string name="load_album_artist_in_process">Завантаження альбому та списку виконавців…</string>
     <string name="correct_id3_settings">Редагувати ID3</string>
-    <string name="correct_id3_summary">Може збільшити витрати на зв\'язок</string>
+    <string name="correct_id3_summary">Збільшиться обсяг завантажуваних даних</string>
     <string name="player_display_settings">Екран програвача</string>
     <string name="lyric_display_settings">Відтворювати тексти пісень</string>
     <string name="lyric_display_summary">Відтворювати тексти пісень у вікні програвача</string>
@@ -145,7 +145,7 @@
     <string name="billboard">Афіша</string>
     <string name="new_albums">Нові альбоми</string>
     <string name="hot_artists">Популярні виконавці</string>
-    <string name="search_suggestion">Шукати в пропозиціях:</string>
+    <string name="search_suggestion">Пошук пропозицій</string>
     <string name="online_search_hint">Шукати онлайн музику</string>
 	<string name="online_title">Онлайн</string>
     <string name="load_channel_in_process">Завантаження списку каналів…</string>
@@ -161,7 +161,7 @@
     <string name="lrc_search_failed">Текст пісні не знайдено!</string>
     <string name="lrc_searching">Пошук текстів пісень…</string>
     <string name="lyric_open_other_connect">Завантажити тексти пісень, використовуючи мобільну мережу</string>
-    <string name="impunity_declaration_title">Заява</string>
+    <string name="impunity_declaration_title">Попередження</string>
     <string name="impunity_declaration">Онлайн музика надається сервісом Baidu Online Music. Прийняти <a href="http://music.baidu.com/doc/agreement">користувацька угода</a> і дозволити доступ до мережі?</string>
     <string name="music_filter_helper">Щоб заховати файли, які не є музикою, був застосований фільтр по розміру 800 Кб. Налаштування фільтру можуть бути змінені в меню Налаштування / Фільтр файлів.</string>
     <string name="music_open_other_connect">Завантаження музики через мобільну мережу</string>
@@ -194,14 +194,14 @@
     <string name="custom">Налагодити</string>
     <string name="lpa_off_hint">Ви повинні відключити енергозберігаюче відтворення, щоб включити еквалайзер. Це можна зробити в меню Налаштування-> Система -> Налаштування живлення. При цьому енергоспоживання збільшиться.</string>
     <string name="id3_modify_confirm_text">Зберегти</string>
-    <string name="id3_modify_confirm_check">Зберегти зміни ID3?</string>
+    <string name="id3_modify_confirm_check">ОК</string>
     <string name="modify_id3_for_list">ID3 інформація пісень в поточному плейлисті буде змінена</string>
     <string name="modify_id3_for_selected">ID3 теги обраної пісні будуть змінені</string>
     <string name="track_edit">Пісня</string>
     <string name="artist_edit">Виконавець</string>
     <string name="album_edit">Альбом</string>
     <string name="empty_edit_hint">Інформація про пісню не досяжна</string>
-    <string name="modify_tracks_id3_background">Редагувати ID3 теги обраної пісні в фоні</string>
+    <string name="modify_tracks_id3_background">Редагувати ID3 теги обраних треків у фоновому режимі</string>
     <string name="shuffle_all">Перемішати всі</string>
     <string name="play_all">Відтворити всі</string>
     <string name="click_to_shuffle">Натисніть, щоб перемішати всі</string>
@@ -209,11 +209,11 @@
     <string name="service_start_error_msg">Вибачте, пісня не може бути відтворена.</string>
     <string name="service_start_error_button">Так</string>
     <string name="streamloadingtext">Під\'єднання до %s</string>
-    <string name="playback_failed">Програвач не підтримує даний тип файлів.</string>
-    <string name="playback_failed_by_bad_file">Не вдалося відтворити %s. Даний тип файлів не підтримується або файлу не існує.</string>
+    <string name="playback_failed">Даний тип аудіо не підтримується</string>
+    <string name="playback_failed_by_bad_file">Неможливо відтворити \"%s\"</string>
     <string name="playback_failed_by_network">Не вдалося відтворити %s. Перевірте налаштування під\'єднання до мережі.</string>
-    <string name="playback_failed_no_title_by_bad_file">Не вдалося відтворити. Даний тип файлів не підтримується або файлу не існує.</string>
-    <string name="playback_failed_no_title_by_network">Не вдалося відтворити. Перевірте налаштування під\'єднання до мережі.</string>
+    <string name="playback_failed_no_title_by_bad_file">Неможливо відтворити трек. Даний тип файлів не підтримується або файлу не існує.</string>
+    <string name="playback_failed_no_title_by_network">Неможливо відтворити трек. Перевірте підключення до мережі.</string> 
     <string name="buffering">Буферизація…</string>
     <string name="music_browser_label">Музика</string>
     <string name="mediaplaybacklabel">Музика</string>
@@ -244,9 +244,9 @@
     <string name="correct_id3_by_internet">Автокоригування ID3 через інтернет</string>
     <string name="correct_id3_start">Почати корегування ID3 через інтернет.</string>
     <string name="correct_id3_success">Корегування ID3 завершено.</string>
-    <string name="correct_id3_failed">Помилка коргування ID3.</string>
+    <string name="correct_id3_failed">Помилка завантаження інформації про трек.</string>
 	<string name="correct_id3_in_processing">Виправлення тегів ID3.</string>
-    <string name="correct_id3_open_other_connect">Вмікніть корегування ID3 з використанням мобільного інтернету.</string>
+    <string name="correct_id3_open_other_connect">Не вдалося підключитися до мережі. Перевірте підключення і повторіть спробу.</string>
     <string name="correct_id3_not_support">Корегування ID3 не підтримує цей тип файлу.</string>
     <string name="batch_correct_id3_completed">Групове корегування ID3 завершено.</string>
     <string name="add">Додати</string>
@@ -257,7 +257,7 @@
     <string name="album_search_local_descript">Локальні | %1$d x %2$d</string>
     <string name="album_search_online_descript">Онлайн | %1$d x %2$d</string>
     <string name="album_select">Оберіть обкладинку альбому</string>
-    <string name="no_song_downloaded">Немає пісень для завантаження.</string>
+    <string name="no_song_downloaded">Не вдалося підключитися до мережі. Перевірте підключення і повторіть спробу.</string>
     <string name="dirac_enabled">Dirac увімкнено</string>
     <string name="dirac_disabled">Dirac вимкнено</string>
     <string name="filter_by_size_max">2Мб</string>
@@ -267,13 +267,13 @@
     <string name="channel_format" formatted="false">"%s  %s МГц"</string>
     <string name="project_device_mobile">Стільниковий телефон</string>
     <string name="mi_effect">MiSound</string>
-    <string name="headphone_settings">Налаштування навушників</string>
-    <string name="mi_effect_title">Використовувати MiSound підсилювач</string>
+    <string name="headphone_settings">Тип навушників</string>
+    <string name="mi_effect_title">Підсилювач звуку</string>
     <string name="mi_effect_summary">Завжди використовувати MiSound підсилювач при прослуховуванні через навушники</string>
     <string name="dirac_mode_off">Dirac вимкнено</string>
-    <string name="dirac_mode_in_ear">Вкладиші Xiaomi</string>
-    <string name="dirac_mode_earbuds">Навушники Xiaomi</string>
-    <string name="dirac_mode_piston_100">Пістони Xiaomi</string>
+    <string name="dirac_mode_in_ear">Mi вкладиші</string>
+    <string name="dirac_mode_earbuds">Mi навушники</string>
+    <string name="dirac_mode_piston_100">Mi пістони-1</string>
     <string name="dirac_mode_general">Звичайні</string>
     <string name="eq_flat">Легка</string>
     <string name="eq_rock">Рок</string>

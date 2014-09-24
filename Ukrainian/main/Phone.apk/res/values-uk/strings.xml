@@ -1393,7 +1393,7 @@
     <string name="lable_call_barring">Заборона виклику</string>
     <string name="lable_all_outgoing">Всі вихідні виклики</string>
     <string name="lable_all_outgoing_international">Вихідні міжнародні виклики</string>
-    <string name="lable_all_out_except">Вих. міжн. виклики, за винятком PLMN</string>
+    <string name="lable_all_out_except">Вихідні міжнародні виклики за винятком PLMN</string>
     <string name="lable_all_incoming">Всі вхідні виклики</string>
     <string name="lable_incoming_calls_except">Вхідні виклики в роумінгу</string>
     <string name="deactivate_all">Скасувати всі</string>
@@ -1408,7 +1408,7 @@
     <string name="mismatch_password">Введені паролі не співпадають</string>
     <string name="password_changed">Пароль змінено</string>
     <string name="enter_callbarring_password">Введіть пароль заборони викликів (4 символи)</string>
-    <string name="wrong_password">Помилка паролю</string>
+    <string name="wrong_password">Невірний пароль</string>
     <string name="error_title">Помилка</string>
     <string name="cell_broadcast">Cell broadcast</string>
     <string name="cell_broadcast_settings">Налаштування Cell broadcast</string>

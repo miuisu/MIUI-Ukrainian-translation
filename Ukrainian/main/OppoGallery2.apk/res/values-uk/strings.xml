@@ -262,7 +262,7 @@
     <string name="untagged">Без тегів</string>
     <string name="no_location">Місце не вказано</string>
     <string name="no_connectivity">Не вдалося знайти всі місця через проблеми з під\'єднанням.</string>
-    <string name="sync_album_error">Не вдалося завантажити світлину. Повторіть спробу пізніше.</string>
+    <string name="sync_album_error">Помилка завантаження, повторіть спробу пізніше.</string>
     <string name="show_images_only">Тільки зображення</string>
     <string name="show_videos_only">Тільки відео</string>
     <string name="show_all">Зображення та відео</string>

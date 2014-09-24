@@ -1192,7 +1192,7 @@
     <string name="menu_show_outgoing_only">Показувати тільки вихідні</string>
     <string name="menu_show_incoming_only">Показувати тільки вхідні</string>
     <string name="menu_show_missed_only">Показувати тільки пропущені</string>
-	<string name="yellowpage_navigation_search_result_average_price">В середньому %d юанів</string>
+	<string name="yellowpage_navigation_search_result_average_price">В середньому %d юань</string>
 	<string name="vcard_import_failed_v2">Імпорт не вдався</string>
     <string name="inner_version_info">Інформація про версію:</string>
     <string name="cta_version_dialog_title">Зовнішня версія</string>

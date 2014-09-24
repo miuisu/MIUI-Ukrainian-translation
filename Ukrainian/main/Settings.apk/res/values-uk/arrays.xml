@@ -50,12 +50,8 @@
         <item>Повільна</item>
         <item>Нормальна</item>
         <item>Швидка</item>
-		<item>Швидше</item>
-        <item>Дуже швидка</item>
-		<item>Швидкісна</item>
-		<item>Дуже швидкісна</item>
-		<item>Найшвидша</item>
-    </string-array>
+		<item>Дуже швидка</item>
+	</string-array>
     <string-array name="change_security_lock_picker">
 		<item>Фейсконтроль</item>
 		<item>Графічний ключ</item>
