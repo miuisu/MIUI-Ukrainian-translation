@@ -504,8 +504,8 @@
  	<string name="activate_status_desc_getting_sim_info_fail">Не вдається одержати інформацію SIM карти </string>
     <string name="sim_unactivated_title">SIM карта не активована</string>
     <string name="activate_popup_title_manual">Активація SIM карти</string>
-     <string name="activate_popup_desc_sim_card">Для прив\'язки вашої SIM карти до акаунту й включення %s буде відправлене <string name="activate_popup_desc_sim_card"></string>
-     <string name="activate_popup_desc_intl_sim_card"> Для прив\'язки вашої SIM карти до акаунту й включення %s буде відправлено міжнародне <string name="activate_popup_desc_sim_card"></string>
+     <string name="activate_popup_desc_sim_card">Для прив\'язки вашої SIM карти до акаунту й включення %s буде відправлене SMS.</string>
+     <string name="activate_popup_desc_intl_sim_card">Для прив\'язки вашої SIM карти до акаунту й включення %s буде відправлено міжнародне SMS.</string>
      <string name="activate_popup_desc_mixed_sim_cards">Будуть відправлені  2 SMS для включення %s.</string>
      <string name="activate_popup_desc_2_sim_cards">Будуть відправлені 2 SMS для включення %s.</string>
      <string name="activate_popup_desc_2_intl_sim_cards">Будуть відправлені 2 міжнародних SMS для включення %s.</string>
