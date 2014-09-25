@@ -81,4 +81,18 @@
     <string name="cmas_certainty_likely">Вподобані</string>
     <string name="notification_multiple">Непрочитаних сповіщень: %s</string>
     <string name="notification_multiple_title">Нові сповіщення</string>
+	<string name="alert_reminder_interval_title">Повідомлення</string>
+    <string name="category_india_settings_title">Налаштування для Індії</string>
+    <string name="cmas_opt_out_button_no">Скасувати</string>
+    <string name="cmas_opt_out_button_yes">OK</string>
+    <string name="cmas_opt_out_dialog_text">На даний момент прийом екстрених повідомлень включений. Продовжити прийом?</string>
+    <string name="delivery_time_heading">Отримано:</string>
+    <string name="enable_alert_vibrate_summary">Вібрувати при прийомі повідомлень</string>
+    <string name="enable_alert_vibrate_title">Вібрація</string>
+    <string name="enable_channel_60_alerts_summary">Канал 60 використовується в Індії для отримання конкретної інформації від оператора</string>
+    <string name="enable_channel_60_alerts_title">Використовувати канал 60</string>
+    <string name="menu_view_details">Інформація</string>
+    <string name="show_cmas_opt_out_summary">Показати діалогове вікно відмови після першого попередження CMAS (крім президентських оповіщень).</string>
+    <string name="show_cmas_opt_out_title">Діалогове вікно відмови</string>
+    <string name="view_details_title">Інформація про попередження</string>
 </resources>
