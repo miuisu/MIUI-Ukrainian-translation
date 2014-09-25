@@ -571,7 +571,7 @@
     <string name="manage_permission_app_label">Дозволи керування пристроєм</string>
     <string name="send_message_dlg_title">Керування пристроєм</string>
     <string name="send_message_dlg_check_hint">Запам\'ятати вибір</string>
-    <string name="send_message_dlg_mgs">Ваш пристрій необхідно зареєструвати на платформі керування обладнанням для надання безкоштовних сервісів SMS. Для реєстрації буде відправлена SMS активації. Продовжити?</string>
+    <string name="send_message_dlg_mgs">Ваш пристрій необхідно зареєструвати на платформі керування обладнанням для надання безкоштовних сервісів SMS. Для реєстрації буде відправлено SMS активації. Продовжити?</string>
     <string name="confirm_dlg_title">Керування пристроєм</string>
     <string name="confirm_dlg__msg">Скасувати реєстрацію?</string>
     <string name="alert_dlg_ok_button">ОК</string>

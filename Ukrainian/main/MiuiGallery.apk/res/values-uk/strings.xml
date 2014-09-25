@@ -61,8 +61,8 @@
  	<string name="cannot_send_message_reason">Одержувачі не зазначені</string>
  	<string name="cleaning_cache">Очищення кеша…</string>
  	<string name="clear_thumbnail_cache">Очистити кеш</string>
- 	<string name="clear_thumbnail_cache_confirm">Очистити кеш ескізів? \nгалерея пересканує зображення й заново створить ескізи.</string>
- 	<string name="clear_thumbnail_cache_summary">Очистити ескізи, створені при перегляді зображень в галерії.</string>
+ 	<string name="clear_thumbnail_cache_confirm">Всі ескізи галереї будуть очищені.</string>
+ 	<string name="clear_thumbnail_cache_summary">Очистити ескізи, створені при перегляді зображень у галереї</string>
  	<string name="close">Закрити</string>
  	<string name="cloud_album_more_settings">Хмарні альбоми</string>
  	<string name="cloud_album_set_create">Новий</string>
@@ -163,7 +163,7 @@
  	<string name="gallery_cloud_provider_name">Галерея</string>
  	<string name="gallery_setting">Налаштування</string>
  	<string name="global_setting"> Налаштування </string>
- 	<string name="error_unknown_host">Мережа не знайдена</string>
+ 	<string name="error_unknown_host">Не вдалося підключитися до мережі. Перевірте підключення і повторіть спробу.</string>
  	<string name="error_album_not_exist">Альбом не існує</string>
  	<string name="error_cloud_not_active">Хмарний альбом неактивний</string>
  	<string name="grain">Зернистість</string>
@@ -184,7 +184,7 @@
  	<string name="image_quota_fulfiled">Не вдається додати зображення. Кількість зображень в альбомі досяглося межі</string>
  	<string name="import_complete">Імпорт завершений</string>
  	<string name="import_fail">Помилка імпорту</string>
- 	<string name="initial_cloud_button_text">Почати використання</string>
+ 	<string name="initial_cloud_button_text">Вхід</string>
  	<string name="initial_cloud_text">Створюйте  хмарні альбоми для синхронізації фото й відео</string>
  	<string name="initializing_cloud">Завантаження хмарного альбому…</string>
  	<string name="input_cloudfolder_name">Назва альбому</string>
@@ -194,9 +194,9 @@
  	<string name="invalid_recipient_message">Перевірте адреси одержувачів</string>
  	<string name="iso">ISO</string>
 	<string name="kick_sharer">Видалити отримувача</string>
-	<string name="kick_sharer_failed">Помилка видалення</string>
+	<string name="kick_sharer_failed">Помилка видалення користувача</string>
 	<string name="kick_sharer_successfully">Отримувача видалено</string>
-		<string name="photo_page_always_rotate">Автоповорот</string>
+	<string name="photo_page_always_rotate">Автоповорот</string>
  	<string name="loading">Завантаження…</string>
  	<string name="loading_failure">Не вдалося завантажити фото</string>
  	<string name="loading_thumbnail">Завантаження ескізу…</string>
@@ -245,7 +245,7 @@
  	<string name="not_auto_create_recent_album">Не створювати обрані альбоми</string>
  	<string name="not_show_hidden_albums">Не показувати сховані альбоми</string>
  	<string name="fail_to_sync_album">Помилка синхронізації альбому із сервером. Перевірте параметри мережі</string>
-     <string name="sync_album_in_proecess">Синхронізація альбому із сервером…</string>
+     <string name="sync_album_in_proecess">Синхронізація альбому…</string>
      <string name="retry_to_create_album">Повтор</string>
      <string name="share_current_album">Поділитися альбомом</string>
      <string name="cloud_share_guide_title">Тепер можна обмінюватися албомами!</string>
@@ -283,7 +283,7 @@
  	<string name="rename_failed">Не вдалося перейменувати</string>
  	<string name="rename_failed_duplicated_name">Ім\'я вже існує</string>
  	<string name="request_qr_code_failed">Помилка одержання QR коду</string>
- 	<string name="request_sms_url_failed">Не вдалося запросити інформацію</string>
+ 	<string name="request_sms_url_failed">Не вдалося отримати інформацію</string>
 	<string name="request_sms_url_msg">Запит інформації…</string>
 	<string name="request_sms_url_title">Попередження</string>
  	<string name="rotate">Поворот</string>
@@ -333,7 +333,7 @@
  	<string name="set_screensaver_path_title">Заставка слайдшоу</string>
  	<string name="set_wallpaper">Установка шпалер…</string>
  	<string name="settings">Настроювання</string>
- 	<string name="settings_i_xiaomi_com">Зайдіть на сайт i.mi.com, щоб переглянути ваші фото й відео з комп\’ютера.</string>
+ 	<string name="settings_i_xiaomi_com">Зайдіть на сайт i.mi.com, щоб переглянути ваші фото й відео з комп\’ютера</string>
  	<string name="shadow">Затемнення</string>
  	<string name="share_album">Обмін альбомами</string>
 	<string name="share_album_owner">Володар</string>
@@ -364,7 +364,7 @@
     <string name="unpublish_succeeded">Загальний доступ до альбому закрито</string>
     <string name="unpublish_failed">Помилка закриття доступу</string>
     <string name="send_public_url">Надіслати посилання на альбом</string>
-    <string name="public_url_descript">Будь-який користувач може переглянути ваш альбом, використовуючи це посилання.</string>
+    <string name="public_url_descript">Будь-який користувач може переглянути ваш альбом, використовуючи це посилання</string>
     <string name="share_public_url_text">Я надіслав вам альбом %1$s. Переглянути можна за посиланням: %2$s</string>
     <string name="unpublishing">Закриття доступу…</string>
     <string name="operation_too_often">Виконується занадто багато дій, спробуйте пізніше.</string>
@@ -402,7 +402,7 @@
  	<string name="sync_album_summary">Синхронізувати фото й відео із хмарними альбомами. \nостання:</string>
  	<string name="sync_history_power_on">Синхронізація при зарядці</string>
  	<string name="sync_only_in_wifi">Тільки по Wi-Fi</string>
- 	<string name="sync_only_in_wifi_summary">Синхронізувати фото тільки при активній мережі Wi-Fi</string>
+ 	<string name="sync_only_in_wifi_summary">Галерея буде завантажувати зображення через мобільний інтернет коли ця функція вимкнена</string>
  	<string name="sync_only_in_wifi_alert">Відключення цієї функції може викликати надмірне споживання мобільного трафіка. Продовжити?</string>
  	<string name="tab_all_text">На всі</string>
  	<string name="tab_lockscreen_text">Екран блокування</string>
@@ -473,11 +473,11 @@
  	<string name="modify_disallow_hint">Додавання нових зображень в альбом заборонене</string>
 	<string name="file_not_exist_message">Файл не існує</string>
 	<string name="download">Завантаження</string>
-    <string name="confirm_download">Завантажити файл \"%s\"? \nПідказка більше не буде показуватися.</string>
+    <string name="confirm_download">Завантажити \"%s\"?</string>
     <string name="download_fail">Помилка завантаження</string>
-    <string name="download_fail_confirm_continue">Помилка завантаження \"%s\". Продовжити?</string>
+    <string name="download_fail_confirm_continue">Помилка завантаження \"%s\".</string>
     <string name="make_download_dir_fail">Помилка створення теки для збереження файлів</string>
-    <string name="delete_smb_file_fail">Помилка видалення файлу smb</string>
+    <string name="delete_smb_file_fail">Помилка видалення файлу SMB</string>
     <string name="new_device_tips">Доступний новий пристрій. Натисніть для перегляду.</string>
 	<string name="loading_members">Завантаження користувачів…</string>
 	<string name="loading_video">Завантаження відео…</string>
@@ -512,11 +512,11 @@
 	<string name="confirm_delete_folders_and_pictures">Видалити обране? \n\nФайлів: %s</string>
 	<string name="local_time">(Локальне)</string>
     <string name="click_to_add_picture">Натисніть, щоб додати зображення</string>
-    <string name="sync_in_progress_message">Синхронізація в процесі…</string>
+    <string name="sync_in_progress_message">Синхронізація…</string>
     <string name="alert_init_merged_title">Усі ваші фото. Нарешті разом.</string>
     <string name="alert_init_merged_message">Тепер фото на вашому пристрої й фото в Mi Cloud будуть відображатися разом.</string>
     <string name="picker_tab_photo">Фото</string>
-    <string name="long_press_to_refocus">Продовжуйте натискати для перефокусування</string>
+    <string name="long_press_to_refocus">Довге натискання для перефокусовування</string>
     <string name="ubifocus_data_missing">Деякі дані загублені</string>
     <string name="ubifocus_map_error">Деякі дані ушкоджені</string>
     <string name="ubifocus_refocus_fail_tip">Не вдалося зробити перефокусування із за загублених або ушкоджених даних</string>
@@ -547,8 +547,8 @@
 	<string name="ubifocus_refocus_data_missing">Неможливо виконати перефокусування через загублені дані</string>
 	<string name="ubifocus_refocus_download_tip">Завантажите дані перед перефокусуванням</string>
 	<string name="ubifocus_refocus_map_error">Неможливо виконати перефокусування через недійсні дані</string>
-    <string name="priority_storage">Збереження на SD карту</string>
-	<string name="priority_storage_summary">Автоматично зберігати файли на SD карту, коли вона підключена.</string>
+    <string name="priority_storage">Збереження на накопичувач</string>
+	<string name="priority_storage_summary">Автоматично зберігати файли на накопичувач, коли він підключена.</string>
 	<string name="crop_recognize_text">Розпізнати</string>
 	<string name="crop_save_text_setas">Застосувати</string>
 	<string name="recognizing_image">Розпізнавання зображення…</string>

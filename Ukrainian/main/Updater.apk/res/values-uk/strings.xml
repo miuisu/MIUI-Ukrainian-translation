@@ -159,7 +159,7 @@
  	<string name="comment_upload_failed">Не вдалося відправити коментар</string>
  	<string name="comment_upload_hint">Спасибі за ваш відгук!</string>
  	<string name="comment_upload_success">Відправлене</string>
- 	<string name="comment_invalid">Натисніть на зірку, щоб залишити оцінку</string>
+ 	<string name="comment_invalid">Торкніться зірки, для оцінки</string>
  	<string name="comment_upload_not_logined">Спочатку ввійдіть в Mi акаунт</string>
  	<string name="fourgrid_hint_text"> Дякуємо вам за використання зборки MIUI для розроблювачів. Розкажіть, що ви думаєте про прошивання, цим ви допоможете нам зробити MIUI краще.</string>
 	<string name="fourgrid_notificaiont">Показувати в статусбарі</string>

@@ -117,7 +117,7 @@
 	<string name="resource_comment_upload_data_invalid">Некоректний коментар</string>
 	<string name="resource_comment_upload_not_logined">Спочатку увійдіть в систему</string>
 	<string name="resource_comment_upload_not_bought">Перш ніж залишити коментар, необхідно застосувати тему.</string>
-	<string name="resource_comment_invalid">Натисніть на зірки, щоб оцінити</string>
+	<string name="resource_comment_invalid">Торкніться зірки, для оцінки</string>
 	<string name="resource_comment_expand_full_text">Розгорнути▼</string>
 	<string name="resource_comment_version_name">(Версія %1$s)</string>
 	<string name="resource_comment_title">Коментарів: %1$s</string>
