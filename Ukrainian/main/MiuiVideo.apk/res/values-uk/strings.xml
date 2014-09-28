@@ -394,5 +394,8 @@
 	<string name="vp_retry">Повторення</string>
 	<string name="vp_select_video_source">Обрати джерело</string>
 	<string name="vp_support_by">Підтримка: %1$s</string>
-	<string name="vp_unknown_source">Невідомий номерк</string>
+	<string name="vp_unknown_source">Невідоме джерело</string>
+	<string name="vp_closedialog">OK</string>
+    <string name="vp_hint">Попередження</string>
+    <string name="vp_maintitlearea">Насолоджуйтеся звуком високої чіткості, високою швидкістю завантаження та безліччю відео онлайн! Завантажити плагін?</string>
 </resources>

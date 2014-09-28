@@ -314,5 +314,14 @@
  	<string name="theme_user_agreement_remind_summary">Запит доступа мережі при кожному запуску додатка</string>
  	<string name="theme_user_agreement_title">Дозволити додатку доступ до мережі?</string>
 	<string name="resource_cancel">Скасування</string>
-   <string name="resource_ok">ОК</string>
+    <string name="resource_ok">ОК</string>
+    <string name="resource_clear_search_history">Очистити історію пошуку</string>
+    <string name="resource_clear_search_history_dialog">Очистити історію пошуку?</string>
+    <string name="resource_comment_rating_star_tips">Натисніть для оцінки:</string>
+    <string name="resource_failed_to_load_list">Помилка завантаження списку</string>
+    <string name="resource_search_list_empty">Нічого не знайдено</string>
+    <string name="resource_trial_fail_cancel">OK</string>
+    <string name="resource_trial_fail_go_settings">Налаштування</string>
+    <string name="resource_trial_fail_message">Переконайтеся, що час правильний.</string>
+    <string name="resource_trial_fail_title">Не вдається встановити демо версію</string>
 </resources>
