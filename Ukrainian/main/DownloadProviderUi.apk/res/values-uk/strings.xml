@@ -129,4 +129,6 @@
 	<string name="add_flow_fail_vip_msg">Прискорення завантаження Xunlei отримано</string>
 	<string name="add_flow_success_msg">Прискорення на 300 Мб успішно отримано</string>
 	<string name="display_expire_netiv1">Місячне користування</string>
+	<string name="unbind_xunlei_2_success">Акаунт Xunlei змінено</string>
+    <string name="unbind_xunlei_success">Акаунт Xunlei відв'язано</string>
 </resources>

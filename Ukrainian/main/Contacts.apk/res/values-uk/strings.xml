@@ -1197,4 +1197,13 @@
     <string name="inner_version_info">Інформація про версію:</string>
     <string name="cta_version_dialog_title">Зовнішня версія</string>
     <string name="cmcc_version_dialog_title">Версія що відображається</string>
+	<string name="resource_clear_search_history">Очистити історію пошуку</string>
+    <string name="resource_clear_search_history_dialog">Очистити історію пошуку?</string>
+    <string name="resource_comment_rating_star_tips">Натисніть для оцінки:</string>
+    <string name="resource_failed_to_load_list">Помилка завантаження списку</string>
+    <string name="resource_search_list_empty">Нічого не знайдено</string>
+    <string name="resource_trial_fail_cancel">OK</string>
+ 	<string name="resource_trial_fail_go_settings">Налаштування</string>
+    <string name="resource_trial_fail_message">Переконайтеся, що час правильний.</string>
+    <string name="resource_trial_fail_title">Не вдається встановити демо версію</string>
 </resources>
