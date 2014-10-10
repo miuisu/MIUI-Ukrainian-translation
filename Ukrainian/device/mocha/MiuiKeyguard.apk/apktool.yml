@@ -1,4 +1,4 @@
-version: 2.0.2-BZ
+version: 2.0.7a-BZ
 apkFileName: MiuiKeyguard.apk
 isFrameworkApk: false
 usesFramework:
@@ -12,5 +12,5 @@ packageInfo:
   forced-package-id: '127'
 versionInfo:
   versionCode: '19'
-  versionName: 4.4.3-4.7.18
+  versionName: 4.4.4-4.8.22
 compressionType: false
