@@ -64,7 +64,7 @@
     <string name="pref_title_enable_max_bytes_popup">Максимальний розмір</string>
     <string name="pref_summary_enable_max_bytes_popup">Повідомлення про перевищення ліміту на розмір файлу</string>
     <string name="pref_title_max_bytes_limit">Максимальний розмір файлу</string>
-    <string name="pref_summary_max_bytes_limit_format">Повідомлення з\'явиться, якщо розмір перевищує %s</string>
+    <string name="pref_summary_max_bytes_limit_format">Очікувати мережі Wi-Fi якщо файл більше %s</string>
     <string name="pref_summary_any_bytes_popup">Завантаження лише по Wi-Fi</string>
 	<string name="pref_summary_no_limit_popup">Завантажувати файли будь-якого розміру</string>
     <string name="pref_dialog_title_max_bytes_limit">Максимальний розмір файлу</string>
@@ -127,8 +127,12 @@
     <string name="xunlei_speed_service">Прискорення завантаження Xunlei</string>
 	<string name="add_flow_fail_haveget_msg">Ви вже отримали безкоштовне прискорення Xunlei в цьому місяці</string>
 	<string name="add_flow_fail_vip_msg">Прискорення завантаження Xunlei отримано</string>
-	<string name="add_flow_success_msg">Прискорення на 300 Мб успішно отримано</string>
+	<string name="add_flow_success_msg">Прискорення на 300 %s  успішно отримано</string>
 	<string name="display_expire_netiv1">Місячне користування</string>
 	<string name="unbind_xunlei_2_success">Акаунт Xunlei змінено</string>
     <string name="unbind_xunlei_success">Акаунт Xunlei відв\'язано</string>
+	<string name="free_speedup_exp">Безкоштовний сервіс завантаження Xunlei</string>
+    <string name="valid_in_this_month">тільки в цьому місяці</string>
+    <string name="vip_auto_speedup">VIP прискорення</string>
+    <string name="xunlei_gaosu">Сервіс завантаження Xunlei</string>
 </resources>

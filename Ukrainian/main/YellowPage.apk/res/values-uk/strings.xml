@@ -337,4 +337,7 @@
 	<string name="express_no_tracking_number">Немає номера відстеження</string>
     <string name="express_order_info">Інформація про замовлення</string>
     <string name="express_tracking_number">Номер</string>
+	<string name="choose_upload">Виберіть файл для завантаження</string>
+    <string name="group_name_management">Управління</string>
+    <string name="uploads_disabled">Завантаження файлів вимкнено</string>
 </resources>
