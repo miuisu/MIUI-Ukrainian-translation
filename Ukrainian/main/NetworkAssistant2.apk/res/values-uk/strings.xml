@@ -287,4 +287,6 @@
 	<string name="roaming_start_title">Міжнародний роумінг</string>
     <string name="pref_data_usage_ignore_settings_summary">Система не буде стежити за трафіком додатків з цього списку</string>
 	<string name="input_used_max_hint">Межа трафіку (не більше %s)</string>
+	<string name="privacy_declare_dialog_message">При використанні цього сервісу, ви погоджуєтесь з &lt;a href=http://max.oupeng.com/eula.html&gt;умовами користування&lt;/a&gt; компанії Opera.</string>
+    <string name="privacy_declare_dialog_title">Попередження</string>
 </resources>

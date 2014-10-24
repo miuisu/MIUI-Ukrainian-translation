@@ -416,5 +416,6 @@
     <string name="expansion_main_download_name">%1$s пакет 1</string>
     <string name="expansion_append_download_name">%1$s пакет 2</string>
 	<string name="enable_gps_message">Mi Market запитує інформацію про розташування. Зайти в налаштування щоб включити?</string>
-   <string name="enable_gps_title">Доступ до місця розташування</string>
+    <string name="enable_gps_title">Доступ до місця розташування</string>
+    <string name="comment_upload_auth_failed">Не вдається відправити відгук. Спробуйте авторизуватися повторно.</string>
 </resources>

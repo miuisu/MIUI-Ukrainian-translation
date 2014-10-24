@@ -407,4 +407,10 @@
     <string name="search_result_empty_text">Нічого не знайдено</string>
     <string name="ad_countdown">Реклама закінчиться через %s сек.</string>
     <string name="vp_toast_downloadapk">Завантаження програми у фоні...</string>
+	<string name="cancel_button">Скасувати</string>
+    <string name="update_apk_statusbar">Завантаження нової версії</string>
+    <string name="update_button">Оновити</string>
+    <string name="update_size_prefix"><CDATA>Розмір:</CDATA></string>
+    <string name="update_title">Попередження</string>
+    <string name="update_version_prefix"><CDATA>Ми рекомендуємо оновити додаток до нової версії:</CDATA></string>
 </resources>

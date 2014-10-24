@@ -999,4 +999,13 @@
     <string name="network_not_available">Мережа недоступна</string>
     <string name="tryrefreshing">Спроба оновлення...</string>
 	<string name="no_contacts">Немає контактів</string>
+    <string name="load_from_remote">Продовжити пошук на сервері</string>
+    <string name="loading_from_remote">Пошук на сервері...</string>
+    <string name="local_search_result">Повідомлень знайдено: %s</string>
+    <string name="perference_change_pw">Оновити пароль</string>
+    <string name="perference_change_pw_notnull_tips">Введіть пароль</string>
+    <string name="perference_change_pw_ok_tips">Пароль оновлено</string>
+    <string name="prefetched_got_it">OK</string>
+    <string name="remote_search">Усі повідомлення на сервері</string>
+    <string name="remote_search_result">Повідомлень на сервері знайдено: %s</string>
 </resources>

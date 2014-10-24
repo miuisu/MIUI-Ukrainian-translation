@@ -4437,4 +4437,14 @@ Android File Transfer
       <string name="empty_content_size">Невідомо</string>
       <string name="large_file_sort_type_item_name">За назвою</string>
       <string name="large_file_sort_type_item_size">За розміром</string>
+	  <string name="button_antivirus">OK</string>
+      <string name="button_optimizer">OK</string>
+      <string name="header_antivirus">При використанні сервісу антивіруса ви погоджуєтесь з <a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">умовами користування</a> від Tencent</string>
+      <string name="header_optimizer">При використанні сервісу очищення ви погоджуєтесь з <a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">умовами користування</a> від Clean Master</string>
+      <string name="summary_antivirus">Завантажувати назви невідомих файлів і додатків на сервер і перевіряти на наявність вірусів</string>
+      <string name="summary_optimizer">Завантажувати назви невідомих файлів і додатків на сервер і перевіряти на наявність сміття</string>
+      <string name="text_antivirus">Використовувати сервіс антивіруса онлайн</string>
+      <string name="text_optimizer">Використовувати сервіс очищення онлайн</string>
+      <string name="title_antivirus">Попередження</string>
+      <string name="title_optimizer">Попередження</string>
 </resources>

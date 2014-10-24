@@ -90,4 +90,5 @@
 	<string name="wifi_problem2">Слабкий сигнал мережі Wi-Fi</string>
 	<string name="wifi_problem3">Мережа Wi-Fi несподівано відключається</string>
 	<string name="wifi_problem4">Не вдається підключитися до мережі</string>
+	<string name="hot_problem_empty">Порожньо</string>
 </resources>
