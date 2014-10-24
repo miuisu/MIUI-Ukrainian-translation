@@ -64,7 +64,7 @@
     <string name="no_updates_warning">Оновлень не знайдено</string>
     <string name="no_updates_warning2">Розслабтеся, ми повідомимо вас про оновлення :)</string>
     <string name="new_updates_found_title">Доступне оновлення</string>
-    <string name="new_update_downloading_body">Завантаження версії:%s</string>
+    <string name="new_update_downloading_body">Завантаження:%s</string>
     <string name="new_update_download_complete_body">Нова версія:%s</string>
     <string name="update_success_title">Оновлення завершено!</string>
     <string name="update_success_body">Версія %s</string>
@@ -89,7 +89,7 @@
     <string name="applying_rom_message">Встановлення оновлення…</string>
     <string name="loading">Запит…</string>
     <string name="install_rom_from_sd">Вибрати файл для встановлення</string>
-    <string name="download_current_rom">Перегляд доступного оновлення</string>
+    <string name="download_current_rom">Завантажити останню прошивку</string>
     <string name="no_proper_updates">Оновлень не знайдено</string>
     <string name="sign_in_info">"Статус оновлення: %1$s\n%2$s користувачів установили MIUI %3$s""</string>
     <string name="sign_in_info_total_more">Статус оновлення: %1$s\nпонад %2$s користувачів установили MIUI %3$s</string>

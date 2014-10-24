@@ -4304,7 +4304,7 @@ Android File Transfer
  	<string name="status_bar_settings_show_notificationbar_notification">Показувати в панелі повідомлень</string>
  	<string name="status_bar_settings_show_statusbar_notification">Показувати в рядку стану</string>
  	<string name="status_bar_filter_item_preview_image">Перегляд</string>
- 	<string name="status_bar_filter_item_description"> Для настроювання повідомлень, перейдіть в \"Настроювання\">\"Панель повідомлень\">\"Настроювання повідомлень\".</string>
+ 	<string name="status_bar_filter_item_description">Для налаштування повідомлень перейдіть в Налаштування > Панель сповіщень > Керування сповіщеннями</string>
  	<string name="status_bar_settings_notification_bar">Панель повідомлень</string>
  	<string name="status_bar_settings_toggle_collapse_after_clicked">Згорнути після натискання</string>
  	<string name="status_bar_settings_show_screenshot_notification">Повідомлення про скриншот</string>
